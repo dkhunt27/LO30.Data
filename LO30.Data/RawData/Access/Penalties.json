@@ -1,0 +1,198 @@
+[
+  {
+    "PENALTY_ID": 1,
+    "PENALTY_SHORT_DESC": "BD",
+    "PENALTY_LONG_DESC": "Boarding",
+    "DEFAULT_PENALTY_MINUTES": 2,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 2,
+    "PENALTY_SHORT_DESC": "BE",
+    "PENALTY_LONG_DESC": "Butt End",
+    "DEFAULT_PENALTY_MINUTES": 2,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 3,
+    "PENALTY_SHORT_DESC": "BP",
+    "PENALTY_LONG_DESC": "dudud\\",
+    "DEFAULT_PENALTY_MINUTES": 2,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 4,
+    "PENALTY_SHORT_DESC": "C",
+    "PENALTY_LONG_DESC": "Charging",
+    "DEFAULT_PENALTY_MINUTES": 2,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 5,
+    "PENALTY_SHORT_DESC": "DG",
+    "PENALTY_LONG_DESC": "Delay Game",
+    "DEFAULT_PENALTY_MINUTES": 2,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 6,
+    "PENALTY_SHORT_DESC": "E",
+    "PENALTY_LONG_DESC": "Elbow",
+    "DEFAULT_PENALTY_MINUTES": 2,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 7,
+    "PENALTY_SHORT_DESC": "F",
+    "PENALTY_LONG_DESC": "Fighting",
+    "DEFAULT_PENALTY_MINUTES": 5,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 8,
+    "PENALTY_SHORT_DESC": "GA",
+    "PENALTY_LONG_DESC": "Game Misconduct",
+    "DEFAULT_PENALTY_MINUTES": 10,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 9,
+    "PENALTY_SHORT_DESC": "H",
+    "PENALTY_LONG_DESC": "Hold",
+    "DEFAULT_PENALTY_MINUTES": 2,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 10,
+    "PENALTY_SHORT_DESC": "HK",
+    "PENALTY_LONG_DESC": "Hook",
+    "DEFAULT_PENALTY_MINUTES": 2,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 11,
+    "PENALTY_SHORT_DESC": "HS",
+    "PENALTY_LONG_DESC": "High Stick",
+    "DEFAULT_PENALTY_MINUTES": 3,
+    "STICK_PENALTY": true
+  },
+  {
+    "PENALTY_ID": 12,
+    "PENALTY_SHORT_DESC": "I",
+    "PENALTY_LONG_DESC": "Interference",
+    "DEFAULT_PENALTY_MINUTES": 2,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 13,
+    "PENALTY_SHORT_DESC": "M",
+    "PENALTY_LONG_DESC": "Misconduct",
+    "DEFAULT_PENALTY_MINUTES": 10,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 14,
+    "PENALTY_SHORT_DESC": "MP",
+    "PENALTY_LONG_DESC": "Match Penalty",
+    "DEFAULT_PENALTY_MINUTES": 5,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 15,
+    "PENALTY_SHORT_DESC": "O",
+    "PENALTY_LONG_DESC": "Other",
+    "DEFAULT_PENALTY_MINUTES": 2,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 16,
+    "PENALTY_SHORT_DESC": "R",
+    "PENALTY_LONG_DESC": "Rough",
+    "DEFAULT_PENALTY_MINUTES": 2,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 17,
+    "PENALTY_SHORT_DESC": "S",
+    "PENALTY_LONG_DESC": "Slash",
+    "DEFAULT_PENALTY_MINUTES": 3,
+    "STICK_PENALTY": true
+  },
+  {
+    "PENALTY_ID": 18,
+    "PENALTY_SHORT_DESC": "SP",
+    "PENALTY_LONG_DESC": "Spear",
+    "DEFAULT_PENALTY_MINUTES": 3,
+    "STICK_PENALTY": true
+  },
+  {
+    "PENALTY_ID": 19,
+    "PENALTY_SHORT_DESC": "T",
+    "PENALTY_LONG_DESC": "Trip",
+    "DEFAULT_PENALTY_MINUTES": 2,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 20,
+    "PENALTY_SHORT_DESC": "XC",
+    "PENALTY_LONG_DESC": "Cross Checking",
+    "DEFAULT_PENALTY_MINUTES": 3,
+    "STICK_PENALTY": true
+  },
+  {
+    "PENALTY_ID": 21,
+    "PENALTY_SHORT_DESC": "CK",
+    "PENALTY_LONG_DESC": "Checking",
+    "DEFAULT_PENALTY_MINUTES": 2,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 22,
+    "PENALTY_SHORT_DESC": "U",
+    "PENALTY_LONG_DESC": "Un-Sportsmanlike",
+    "DEFAULT_PENALTY_MINUTES": 2,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 23,
+    "PENALTY_SHORT_DESC": "Z",
+    "PENALTY_LONG_DESC": "Attempt To Injure Official",
+    "DEFAULT_PENALTY_MINUTES": 10,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 24,
+    "PENALTY_SHORT_DESC": "TM",
+    "PENALTY_LONG_DESC": "Too Many Men",
+    "DEFAULT_PENALTY_MINUTES": 2,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 25,
+    "PENALTY_SHORT_DESC": "GE",
+    "PENALTY_LONG_DESC": "Game Ejection",
+    "DEFAULT_PENALTY_MINUTES": 10,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 26,
+    "PENALTY_SHORT_DESC": "CHB",
+    "PENALTY_LONG_DESC": "Checking From Behind",
+    "DEFAULT_PENALTY_MINUTES": 4,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 27,
+    "PENALTY_SHORT_DESC": "SS",
+    "PENALTY_LONG_DESC": "Slap Shot",
+    "DEFAULT_PENALTY_MINUTES": 2,
+    "STICK_PENALTY": false
+  },
+  {
+    "PENALTY_ID": 28,
+    "PENALTY_SHORT_DESC": "MJ",
+    "PENALTY_LONG_DESC": "Major Penalty",
+    "DEFAULT_PENALTY_MINUTES": 5,
+    "STICK_PENALTY": true
+  }
+]

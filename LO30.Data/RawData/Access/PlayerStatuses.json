@@ -1,0 +1,7835 @@
+[
+  {
+    "PLAYER_ID": 1,
+    "STATUS_ID": 5,
+    "START_DATE": "2013-07-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 1,
+    "STATUS_ID": 10,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 1,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 2,
+    "STATUS_ID": 10,
+    "START_DATE": "2004-05-29T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 2,
+    "STATUS_ID": 5,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 2,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 3,
+    "STATUS_ID": 3,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 3,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 3,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 4,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 5,
+    "STATUS_ID": 10,
+    "START_DATE": "2005-06-17T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 5,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2005-06-17T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 5,
+    "STATUS_ID": 3,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 5,
+    "STATUS_ID": 10,
+    "START_DATE": "2011-07-11T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 6,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 7,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 8,
+    "STATUS_ID": 1,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2003-10-05T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 8,
+    "STATUS_ID": 9,
+    "START_DATE": "2003-10-06T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 9,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2004-09-09T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 9,
+    "STATUS_ID": 5,
+    "START_DATE": "2004-09-10T00:00:00",
+    "END_DATE": "2006-07-24T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 9,
+    "STATUS_ID": 10,
+    "START_DATE": "2006-07-24T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 10,
+    "STATUS_ID": 5,
+    "START_DATE": "2008-07-28T00:00:00",
+    "END_DATE": "2009-07-28T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 10,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2008-07-28T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 10,
+    "STATUS_ID": 10,
+    "START_DATE": "2011-06-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 10,
+    "STATUS_ID": 5,
+    "START_DATE": "2009-07-28T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 11,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 12,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 12,
+    "STATUS_ID": 10,
+    "START_DATE": "2004-09-15T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 12,
+    "STATUS_ID": 5,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": "2004-09-15T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 13,
+    "STATUS_ID": 10,
+    "START_DATE": "2006-06-15T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 13,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-10-27T00:00:00",
+    "END_DATE": "2005-09-21T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 13,
+    "STATUS_ID": 3,
+    "START_DATE": "2002-08-02T00:00:00",
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 13,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 13,
+    "STATUS_ID": 5,
+    "START_DATE": "2005-09-22T00:00:00",
+    "END_DATE": "2006-06-15T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 14,
+    "STATUS_ID": 5,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": "2004-09-15T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 14,
+    "STATUS_ID": 10,
+    "START_DATE": "2004-09-15T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 14,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 15,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 16,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 16,
+    "STATUS_ID": 10,
+    "START_DATE": "2010-07-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 17,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 18,
+    "STATUS_ID": 10,
+    "START_DATE": "2010-09-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 18,
+    "STATUS_ID": 5,
+    "START_DATE": "0209-07-21T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 18,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2009-07-21T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 19,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-10-27T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 19,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 19,
+    "STATUS_ID": 3,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 20,
+    "STATUS_ID": 5,
+    "START_DATE": "2007-07-10T00:00:00",
+    "END_DATE": "2008-09-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 20,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2007-07-10T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 20,
+    "STATUS_ID": 1,
+    "START_DATE": "2008-09-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 21,
+    "STATUS_ID": 10,
+    "START_DATE": "2006-07-21T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 21,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2006-07-21T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 22,
+    "STATUS_ID": 10,
+    "START_DATE": "2004-09-15T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 22,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 22,
+    "STATUS_ID": 5,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": "2004-09-15T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 23,
+    "STATUS_ID": 5,
+    "START_DATE": "2011-07-11T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 23,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 24,
+    "STATUS_ID": 3,
+    "START_DATE": "2002-08-02T00:00:00",
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 24,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-02-27T00:00:00",
+    "END_DATE": "2007-07-31T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 24,
+    "STATUS_ID": 3,
+    "START_DATE": "2005-08-04T00:00:00",
+    "END_DATE": "2006-02-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 24,
+    "STATUS_ID": 10,
+    "START_DATE": "2007-07-31T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 24,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2004-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 25,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2012-06-14T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 25,
+    "STATUS_ID": 5,
+    "START_DATE": "2011-07-07T00:00:00",
+    "END_DATE": "2012-06-14T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 25,
+    "STATUS_ID": 10,
+    "START_DATE": "2012-06-14T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 26,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2009-07-23T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 26,
+    "STATUS_ID": 10,
+    "START_DATE": "2009-07-23T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 27,
+    "STATUS_ID": 10,
+    "START_DATE": "2007-07-25T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 27,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2006-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 27,
+    "STATUS_ID": 5,
+    "START_DATE": "2006-08-02T00:00:00",
+    "END_DATE": "2007-07-25T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 28,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 28,
+    "STATUS_ID": 10,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 29,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 30,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-06-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 30,
+    "STATUS_ID": 10,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 30,
+    "STATUS_ID": 3,
+    "START_DATE": "2002-08-02T00:00:00",
+    "END_DATE": "2003-08-01T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 30,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-10-27T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 31,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 31,
+    "STATUS_ID": 10,
+    "START_DATE": "2010-06-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 32,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 33,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 34,
+    "STATUS_ID": 10,
+    "START_DATE": "2004-07-24T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 34,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 34,
+    "STATUS_ID": 5,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": "2004-07-24T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 35,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 36,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 37,
+    "STATUS_ID": 5,
+    "START_DATE": "2008-09-02T00:00:00",
+    "END_DATE": "2009-07-28T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 37,
+    "STATUS_ID": 5,
+    "START_DATE": "2009-07-28T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 37,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2008-09-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 37,
+    "STATUS_ID": 10,
+    "START_DATE": "2010-06-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 38,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 39,
+    "STATUS_ID": 5,
+    "START_DATE": "2010-08-24T00:00:00",
+    "END_DATE": "2012-06-14T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 39,
+    "STATUS_ID": 10,
+    "START_DATE": "2012-06-14T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 39,
+    "STATUS_ID": 5,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": "2004-07-06T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 39,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 39,
+    "STATUS_ID": 10,
+    "START_DATE": "2005-07-17T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 39,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-07-07T00:00:00",
+    "END_DATE": "2005-07-16T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 40,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 41,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-07-11T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 41,
+    "STATUS_ID": 10,
+    "START_DATE": "2012-07-27T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 41,
+    "STATUS_ID": 5,
+    "START_DATE": "2010-07-08T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 42,
+    "STATUS_ID": 1,
+    "START_DATE": "2008-09-02T00:00:00",
+    "END_DATE": "2010-07-12T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 42,
+    "STATUS_ID": 5,
+    "START_DATE": "2010-07-12T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 42,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2005-07-31T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 42,
+    "STATUS_ID": 10,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 42,
+    "STATUS_ID": 5,
+    "START_DATE": "2005-07-31T00:00:00",
+    "END_DATE": "2008-09-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 43,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 43,
+    "STATUS_ID": 5,
+    "START_DATE": "2012-06-14T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 44,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-10-27T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 44,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 44,
+    "STATUS_ID": 3,
+    "START_DATE": "2002-08-02T00:00:00",
+    "END_DATE": "2003-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 45,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 46,
+    "STATUS_ID": 10,
+    "START_DATE": "2006-06-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 46,
+    "STATUS_ID": 5,
+    "START_DATE": "2006-07-15T00:00:00",
+    "END_DATE": "2006-05-31T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 46,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2005-07-15T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 47,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 47,
+    "STATUS_ID": 10,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 48,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 48,
+    "STATUS_ID": 10,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 49,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 50,
+    "STATUS_ID": 10,
+    "START_DATE": "2006-07-17T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 50,
+    "STATUS_ID": 5,
+    "START_DATE": "2005-07-21T00:00:00",
+    "END_DATE": "2006-07-17T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 50,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2005-07-21T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 51,
+    "STATUS_ID": 2,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 51,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-07-22T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 51,
+    "STATUS_ID": 1,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 51,
+    "STATUS_ID": 5,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 52,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": "2006-02-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 52,
+    "STATUS_ID": 3,
+    "START_DATE": "2002-08-02T00:00:00",
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 52,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 52,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-02-27T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 53,
+    "STATUS_ID": 5,
+    "START_DATE": "2013-08-02T00:00:00",
+    "END_DATE": "2014-08-19T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 53,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 54,
+    "STATUS_ID": 5,
+    "START_DATE": "2009-08-24T00:00:00",
+    "END_DATE": "2010-07-12T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 54,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2009-08-24T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 54,
+    "STATUS_ID": 10,
+    "START_DATE": "2010-07-12T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 55,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 56,
+    "STATUS_ID": 1,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 56,
+    "STATUS_ID": 5,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 56,
+    "STATUS_ID": 10,
+    "START_DATE": "2012-08-07T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 57,
+    "STATUS_ID": 5,
+    "START_DATE": "2009-07-27T00:00:00",
+    "END_DATE": "2010-07-13T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 57,
+    "STATUS_ID": 10,
+    "START_DATE": "2010-07-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 57,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2009-07-27T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 58,
+    "STATUS_ID": 1,
+    "START_DATE": "2005-07-12T00:00:00",
+    "END_DATE": "2006-07-14T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 58,
+    "STATUS_ID": 10,
+    "START_DATE": "2006-07-14T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 58,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2004-07-08T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 58,
+    "STATUS_ID": 5,
+    "START_DATE": "2004-07-08T00:00:00",
+    "END_DATE": "2005-07-12T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 59,
+    "STATUS_ID": 1,
+    "START_DATE": "2009-03-31T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 59,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2005-07-18T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 59,
+    "STATUS_ID": 10,
+    "START_DATE": "2005-07-18T00:00:00",
+    "END_DATE": "2009-03-31T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 60,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 61,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 62,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 63,
+    "STATUS_ID": 5,
+    "START_DATE": "2013-07-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 63,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 64,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 65,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 65,
+    "STATUS_ID": 3,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 66,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 67,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 68,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2005-07-19T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 68,
+    "STATUS_ID": 10,
+    "START_DATE": "2005-07-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 69,
+    "STATUS_ID": 1,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 69,
+    "STATUS_ID": 2,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 69,
+    "STATUS_ID": 10,
+    "START_DATE": "2005-03-31T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 70,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 71,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 72,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 72,
+    "STATUS_ID": 10,
+    "START_DATE": "2012-08-07T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 73,
+    "STATUS_ID": 3,
+    "START_DATE": "2002-08-02T00:00:00",
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 73,
+    "STATUS_ID": 5,
+    "START_DATE": "2010-06-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 73,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-10-27T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 74,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 75,
+    "STATUS_ID": 3,
+    "START_DATE": "2002-08-02T00:00:00",
+    "END_DATE": "2003-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 75,
+    "STATUS_ID": 10,
+    "START_DATE": "2006-08-06T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 75,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-10-27T00:00:00",
+    "END_DATE": "2006-08-06T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 75,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 76,
+    "STATUS_ID": 10,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 76,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 77,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 78,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 78,
+    "STATUS_ID": 3,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 79,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 80,
+    "STATUS_ID": 5,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2004-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 80,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 80,
+    "STATUS_ID": 10,
+    "START_DATE": "2004-09-15T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 81,
+    "STATUS_ID": 5,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 81,
+    "STATUS_ID": 1,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 82,
+    "STATUS_ID": 2,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 82,
+    "STATUS_ID": 1,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 82,
+    "STATUS_ID": 5,
+    "START_DATE": "2012-07-09T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 83,
+    "STATUS_ID": 5,
+    "START_DATE": "2008-07-11T00:00:00",
+    "END_DATE": "2010-07-08T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 83,
+    "STATUS_ID": 1,
+    "START_DATE": "2010-07-08T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 84,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 84,
+    "STATUS_ID": 5,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 85,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 86,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 86,
+    "STATUS_ID": 10,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 87,
+    "STATUS_ID": 2,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 87,
+    "STATUS_ID": 1,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 88,
+    "STATUS_ID": 10,
+    "START_DATE": "2013-08-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 88,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 88,
+    "STATUS_ID": 5,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 89,
+    "STATUS_ID": 10,
+    "START_DATE": "2009-07-23T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 89,
+    "STATUS_ID": 5,
+    "START_DATE": "2008-07-24T00:00:00",
+    "END_DATE": "2009-07-23T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 89,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2008-07-24T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 90,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2005-07-15T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 90,
+    "STATUS_ID": 10,
+    "START_DATE": "2005-07-15T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 91,
+    "STATUS_ID": 1,
+    "START_DATE": "2008-09-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 91,
+    "STATUS_ID": 5,
+    "START_DATE": "2007-08-28T00:00:00",
+    "END_DATE": "2008-09-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 91,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2007-08-29T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 91,
+    "STATUS_ID": 5,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 92,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 93,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2003-08-01T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 93,
+    "STATUS_ID": 5,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 93,
+    "STATUS_ID": 10,
+    "START_DATE": "2004-07-18T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 94,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-06-12T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 94,
+    "STATUS_ID": 5,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": "2004-06-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 94,
+    "STATUS_ID": 10,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 94,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 95,
+    "STATUS_ID": 5,
+    "START_DATE": "2009-08-28T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 95,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2009-08-28T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 95,
+    "STATUS_ID": 10,
+    "START_DATE": "2011-07-18T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 96,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-10-27T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 96,
+    "STATUS_ID": 3,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 96,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 97,
+    "STATUS_ID": 5,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 97,
+    "STATUS_ID": 10,
+    "START_DATE": "2004-09-15T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 97,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 98,
+    "STATUS_ID": 1,
+    "START_DATE": "2010-07-12T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 98,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2009-07-13T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 98,
+    "STATUS_ID": 5,
+    "START_DATE": "2009-07-13T00:00:00",
+    "END_DATE": "2010-07-12T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 99,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 100,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 100,
+    "STATUS_ID": 5,
+    "START_DATE": "2013-08-02T00:00:00",
+    "END_DATE": "2014-08-19T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 101,
+    "STATUS_ID": 2,
+    "START_DATE": null,
+    "END_DATE": "2003-07-31T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 101,
+    "STATUS_ID": 5,
+    "START_DATE": "2006-08-06T00:00:00",
+    "END_DATE": "2007-08-07T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 101,
+    "STATUS_ID": 1,
+    "START_DATE": "2003-08-01T00:00:00",
+    "END_DATE": "2006-08-06T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 101,
+    "STATUS_ID": 10,
+    "START_DATE": "2007-08-07T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 102,
+    "STATUS_ID": 5,
+    "START_DATE": "2009-07-10T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 102,
+    "STATUS_ID": 3,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 102,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": "2009-07-10T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 102,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-02-27T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 102,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": "2006-02-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 102,
+    "STATUS_ID": 10,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 103,
+    "STATUS_ID": 10,
+    "START_DATE": "2008-07-27T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 103,
+    "STATUS_ID": 5,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 103,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-06-04T00:00:00",
+    "END_DATE": "2008-07-27T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 104,
+    "STATUS_ID": 3,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": "2011-08-13T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 104,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2004-05-23T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 104,
+    "STATUS_ID": 10,
+    "START_DATE": "2004-05-24T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 105,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 106,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 107,
+    "STATUS_ID": 5,
+    "START_DATE": "2008-07-14T00:00:00",
+    "END_DATE": "2009-07-21T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 107,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2008-07-14T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 107,
+    "STATUS_ID": 10,
+    "START_DATE": "2009-07-21T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 108,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 109,
+    "STATUS_ID": 2,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 109,
+    "STATUS_ID": 10,
+    "START_DATE": "2009-07-28T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 109,
+    "STATUS_ID": 5,
+    "START_DATE": "2006-08-24T00:00:00",
+    "END_DATE": "2009-07-28T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 109,
+    "STATUS_ID": 1,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": "2006-08-24T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 110,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-07-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 110,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 110,
+    "STATUS_ID": 5,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2004-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 111,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 113,
+    "STATUS_ID": 5,
+    "START_DATE": "2007-07-02T00:00:00",
+    "END_DATE": "2008-09-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 113,
+    "STATUS_ID": 1,
+    "START_DATE": "2008-09-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 113,
+    "STATUS_ID": 10,
+    "START_DATE": "2012-07-27T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 113,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2007-07-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 114,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 115,
+    "STATUS_ID": 5,
+    "START_DATE": "2010-07-12T00:00:00",
+    "END_DATE": "2011-07-07T00:00:00",
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 115,
+    "STATUS_ID": 3,
+    "START_DATE": "2004-08-10T00:00:00",
+    "END_DATE": "2006-02-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 115,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 115,
+    "STATUS_ID": 10,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 115,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-02-27T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 115,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": "2004-08-07T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 115,
+    "STATUS_ID": 3,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 116,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 117,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 117,
+    "STATUS_ID": 3,
+    "START_DATE": null,
+    "END_DATE": "2003-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 117,
+    "STATUS_ID": 5,
+    "START_DATE": "2008-07-24T00:00:00",
+    "END_DATE": "2009-07-07T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 117,
+    "STATUS_ID": 10,
+    "START_DATE": "2009-07-07T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 117,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-10-27T00:00:00",
+    "END_DATE": "2008-07-24T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 118,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 119,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 120,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 121,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 121,
+    "STATUS_ID": 3,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 122,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 122,
+    "STATUS_ID": 10,
+    "START_DATE": "2012-07-30T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 122,
+    "STATUS_ID": 5,
+    "START_DATE": "2011-07-07T00:00:00",
+    "END_DATE": "2012-07-30T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 123,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-10-27T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 123,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 123,
+    "STATUS_ID": 5,
+    "START_DATE": "2013-07-01T00:00:00",
+    "END_DATE": "2014-08-19T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 124,
+    "STATUS_ID": 5,
+    "START_DATE": "2007-07-09T00:00:00",
+    "END_DATE": "2008-09-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 124,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2007-07-09T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 124,
+    "STATUS_ID": 10,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 124,
+    "STATUS_ID": 1,
+    "START_DATE": "2008-09-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 125,
+    "STATUS_ID": 10,
+    "START_DATE": "2007-06-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 125,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 125,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-10-27T00:00:00",
+    "END_DATE": "2006-06-30T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 125,
+    "STATUS_ID": 5,
+    "START_DATE": "2006-06-30T00:00:00",
+    "END_DATE": "2007-06-01T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 126,
+    "STATUS_ID": 10,
+    "START_DATE": "2005-07-28T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 126,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2005-07-28T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 127,
+    "STATUS_ID": 5,
+    "START_DATE": "2006-06-30T00:00:00",
+    "END_DATE": "2008-07-24T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 127,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2006-06-30T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 127,
+    "STATUS_ID": 10,
+    "START_DATE": "2008-07-24T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 128,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2005-06-08T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 128,
+    "STATUS_ID": 1,
+    "START_DATE": "2006-07-18T00:00:00",
+    "END_DATE": "2008-07-27T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 128,
+    "STATUS_ID": 5,
+    "START_DATE": "2005-06-08T00:00:00",
+    "END_DATE": "2006-07-18T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 128,
+    "STATUS_ID": 10,
+    "START_DATE": "2007-07-27T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 129,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2007-07-25T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 129,
+    "STATUS_ID": 10,
+    "START_DATE": "2007-07-25T00:00:00",
+    "END_DATE": "2010-07-12T00:00:00",
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 129,
+    "STATUS_ID": 5,
+    "START_DATE": "2010-07-12T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 130,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 131,
+    "STATUS_ID": 5,
+    "START_DATE": "2012-07-31T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 131,
+    "STATUS_ID": 2,
+    "START_DATE": "2005-05-01T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 131,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 131,
+    "STATUS_ID": 3,
+    "START_DATE": "2002-08-02T00:00:00",
+    "END_DATE": "2006-04-30T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 132,
+    "STATUS_ID": 9,
+    "START_DATE": "2007-08-31T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 132,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": "2004-08-08T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 132,
+    "STATUS_ID": 3,
+    "START_DATE": "2004-08-08T00:00:00",
+    "END_DATE": "2007-08-31T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 133,
+    "STATUS_ID": 5,
+    "START_DATE": "2007-07-18T00:00:00",
+    "END_DATE": "2009-07-27T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 133,
+    "STATUS_ID": 10,
+    "START_DATE": "2009-07-27T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 133,
+    "STATUS_ID": 3,
+    "START_DATE": "2002-08-02T00:00:00",
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 133,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2006-02-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 133,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-02-27T00:00:00",
+    "END_DATE": "2007-07-18T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 153,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 154,
+    "STATUS_ID": 1,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": "2005-08-30T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 154,
+    "STATUS_ID": 10,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 154,
+    "STATUS_ID": 5,
+    "START_DATE": "2005-08-30T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 154,
+    "STATUS_ID": 5,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 155,
+    "STATUS_ID": 5,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 155,
+    "STATUS_ID": 10,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 156,
+    "STATUS_ID": 5,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": "2004-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 156,
+    "STATUS_ID": 5,
+    "START_DATE": "2002-08-02T00:00:00",
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 157,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2005-07-19T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 157,
+    "STATUS_ID": 5,
+    "START_DATE": "2005-07-19T00:00:00",
+    "END_DATE": "2006-07-18T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 157,
+    "STATUS_ID": 10,
+    "START_DATE": "2006-07-18T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 158,
+    "STATUS_ID": 10,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 158,
+    "STATUS_ID": 5,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 159,
+    "STATUS_ID": 5,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 159,
+    "STATUS_ID": 10,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 160,
+    "STATUS_ID": 5,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 160,
+    "STATUS_ID": 10,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 161,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-08-04T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 161,
+    "STATUS_ID": 10,
+    "START_DATE": "2013-08-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 161,
+    "STATUS_ID": 3,
+    "START_DATE": "2012-08-07T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 161,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-06-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 162,
+    "STATUS_ID": 5,
+    "START_DATE": "2005-07-15T00:00:00",
+    "END_DATE": "2008-07-24T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 162,
+    "STATUS_ID": 10,
+    "START_DATE": "2008-07-24T00:00:00",
+    "END_DATE": "2008-07-31T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 162,
+    "STATUS_ID": 1,
+    "START_DATE": "2008-07-31T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 162,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2005-07-15T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 163,
+    "STATUS_ID": 5,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 163,
+    "STATUS_ID": 10,
+    "START_DATE": "2003-09-04T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 164,
+    "STATUS_ID": 10,
+    "START_DATE": "2006-07-11T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 164,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-08-08T00:00:00",
+    "END_DATE": "2005-07-19T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 164,
+    "STATUS_ID": 5,
+    "START_DATE": "2005-07-19T00:00:00",
+    "END_DATE": "2006-07-11T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 164,
+    "STATUS_ID": 5,
+    "START_DATE": null,
+    "END_DATE": "2004-08-07T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 164,
+    "STATUS_ID": 3,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 165,
+    "STATUS_ID": 1,
+    "START_DATE": "2008-09-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 165,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": "2006-08-24T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 165,
+    "STATUS_ID": 5,
+    "START_DATE": "2006-08-24T00:00:00",
+    "END_DATE": "2008-09-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 166,
+    "STATUS_ID": 5,
+    "START_DATE": null,
+    "END_DATE": "2003-07-25T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 166,
+    "STATUS_ID": 10,
+    "START_DATE": "2003-07-26T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 167,
+    "STATUS_ID": 5,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 167,
+    "STATUS_ID": 9,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 168,
+    "STATUS_ID": 5,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 168,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 168,
+    "STATUS_ID": 10,
+    "START_DATE": "2004-06-28T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 169,
+    "STATUS_ID": 10,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 169,
+    "STATUS_ID": 5,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 170,
+    "STATUS_ID": 3,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 171,
+    "STATUS_ID": 3,
+    "START_DATE": null,
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 171,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 172,
+    "STATUS_ID": 3,
+    "START_DATE": "2002-08-02T00:00:00",
+    "END_DATE": "2003-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 172,
+    "STATUS_ID": 9,
+    "START_DATE": "2007-08-31T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 172,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2007-08-31T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 173,
+    "STATUS_ID": 1,
+    "START_DATE": "2006-02-27T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 173,
+    "STATUS_ID": 2,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": "2006-02-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 174,
+    "STATUS_ID": 9,
+    "START_DATE": "2007-08-31T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 174,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2007-08-31T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 175,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 175,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-10-27T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 176,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 177,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": "2005-07-20T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 177,
+    "STATUS_ID": 3,
+    "START_DATE": "2005-07-20T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 178,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-02-27T00:00:00",
+    "END_DATE": "2008-04-15T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 178,
+    "STATUS_ID": 1,
+    "START_DATE": "2008-04-15T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 178,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": "2006-02-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 179,
+    "STATUS_ID": 5,
+    "START_DATE": "2008-07-24T00:00:00",
+    "END_DATE": "2012-07-10T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 179,
+    "STATUS_ID": 10,
+    "START_DATE": "2013-04-18T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 179,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-07-01T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 179,
+    "STATUS_ID": 5,
+    "START_DATE": "2011-07-18T00:00:00",
+    "END_DATE": "2012-07-10T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 179,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2006-07-01T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 179,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": "2008-07-24T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 179,
+    "STATUS_ID": 1,
+    "START_DATE": "2010-07-26T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 180,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 180,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-02-27T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 180,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2006-02-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 182,
+    "STATUS_ID": 5,
+    "START_DATE": "2010-08-24T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 182,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 182,
+    "STATUS_ID": 5,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 182,
+    "STATUS_ID": 10,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 182,
+    "STATUS_ID": 1,
+    "START_DATE": "2008-04-15T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 182,
+    "STATUS_ID": 2,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": "2008-04-15T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 183,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2006-02-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 183,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-02-27T00:00:00",
+    "END_DATE": "2006-08-31T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 183,
+    "STATUS_ID": 5,
+    "START_DATE": "2006-08-31T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 183,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 183,
+    "STATUS_ID": 9,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 184,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 184,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-08-04T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 184,
+    "STATUS_ID": 3,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 185,
+    "STATUS_ID": 1,
+    "START_DATE": "2006-07-26T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 185,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2006-07-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 186,
+    "STATUS_ID": 5,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 186,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 186,
+    "STATUS_ID": 1,
+    "START_DATE": "2004-10-27T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 187,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 188,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 189,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 190,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 191,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 192,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 193,
+    "STATUS_ID": 5,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 193,
+    "STATUS_ID": 3,
+    "START_DATE": "2005-09-09T00:00:00",
+    "END_DATE": "2006-08-05T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 193,
+    "STATUS_ID": 10,
+    "START_DATE": "2013-08-20T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 193,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2005-09-09T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 193,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 193,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-08-06T00:00:00",
+    "END_DATE": "2007-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 194,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2006-02-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 194,
+    "STATUS_ID": 5,
+    "START_DATE": "2006-07-09T00:00:00",
+    "END_DATE": "2007-07-24T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 194,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-02-27T00:00:00",
+    "END_DATE": "2006-07-09T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 194,
+    "STATUS_ID": 10,
+    "START_DATE": "2007-07-24T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 195,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 195,
+    "STATUS_ID": 9,
+    "START_DATE": "2007-08-07T00:00:00",
+    "END_DATE": "2007-09-01T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 195,
+    "STATUS_ID": 10,
+    "START_DATE": "2013-08-20T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 195,
+    "STATUS_ID": 3,
+    "START_DATE": "2007-09-01T00:00:00",
+    "END_DATE": "2011-08-13T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 195,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 195,
+    "STATUS_ID": 5,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 196,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 197,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 198,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 199,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 200,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 201,
+    "STATUS_ID": 1,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 201,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 202,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2003-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 202,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": "2011-08-13T00:00:00",
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 203,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 204,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-05-01T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 204,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2006-04-30T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 204,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 205,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 206,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2007-08-07T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 206,
+    "STATUS_ID": 1,
+    "START_DATE": "2012-06-14T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 206,
+    "STATUS_ID": 3,
+    "START_DATE": "2007-08-07T00:00:00",
+    "END_DATE": "2012-06-14T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 207,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 208,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 209,
+    "STATUS_ID": 5,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 209,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-05-01T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 209,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 209,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": "2006-04-30T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 210,
+    "STATUS_ID": 10,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 211,
+    "STATUS_ID": 9,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 212,
+    "STATUS_ID": 9,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 213,
+    "STATUS_ID": 9,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 214,
+    "STATUS_ID": 9,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 215,
+    "STATUS_ID": 9,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 216,
+    "STATUS_ID": 9,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 217,
+    "STATUS_ID": 9,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 218,
+    "STATUS_ID": 9,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 219,
+    "STATUS_ID": 9,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 220,
+    "STATUS_ID": 9,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 221,
+    "STATUS_ID": 9,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 222,
+    "STATUS_ID": 9,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 223,
+    "STATUS_ID": 10,
+    "START_DATE": "2007-09-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 223,
+    "STATUS_ID": 3,
+    "START_DATE": "2005-07-28T00:00:00",
+    "END_DATE": "2006-02-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 223,
+    "STATUS_ID": 9,
+    "START_DATE": null,
+    "END_DATE": "2005-07-28T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 223,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-02-27T00:00:00",
+    "END_DATE": "2007-09-01T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 224,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 225,
+    "STATUS_ID": 9,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 225,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 226,
+    "STATUS_ID": 10,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 226,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-02-27T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 226,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 226,
+    "STATUS_ID": 3,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": "2006-02-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 227,
+    "STATUS_ID": 3,
+    "START_DATE": "2004-08-28T00:00:00",
+    "END_DATE": "2011-08-13T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 227,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 228,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 229,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 230,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 231,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 232,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": "2004-08-17T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 232,
+    "STATUS_ID": 9,
+    "START_DATE": "2007-08-31T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 232,
+    "STATUS_ID": 3,
+    "START_DATE": "2004-08-18T00:00:00",
+    "END_DATE": "2007-08-31T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 233,
+    "STATUS_ID": 3,
+    "START_DATE": "2005-08-03T00:00:00",
+    "END_DATE": "2012-06-23T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 233,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": "2005-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 233,
+    "STATUS_ID": 1,
+    "START_DATE": "2012-06-23T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 234,
+    "STATUS_ID": 6,
+    "START_DATE": "2003-08-05T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 235,
+    "STATUS_ID": 3,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 235,
+    "STATUS_ID": 6,
+    "START_DATE": "2005-08-02T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 235,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-07-11T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 236,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 237,
+    "STATUS_ID": 1,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 237,
+    "STATUS_ID": 3,
+    "START_DATE": "2007-02-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 238,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 239,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 240,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 241,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 242,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 243,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 244,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 245,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 246,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 247,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 248,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 249,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 250,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 251,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 252,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 253,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 254,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 255,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 256,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 257,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 258,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 259,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 260,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 261,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 262,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 263,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 264,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 265,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 266,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 267,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 268,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 269,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 270,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 271,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 272,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 273,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 274,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 275,
+    "STATUS_ID": 10,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 276,
+    "STATUS_ID": 10,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 277,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 278,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 279,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 280,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 281,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 282,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 283,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 284,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 285,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 286,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 287,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 288,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 289,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 290,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 291,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 292,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 293,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 294,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 295,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 296,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 297,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 298,
+    "STATUS_ID": 11,
+    "START_DATE": "2004-06-30T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 299,
+    "STATUS_ID": 11,
+    "START_DATE": "2004-06-30T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 300,
+    "STATUS_ID": 11,
+    "START_DATE": "2004-06-30T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 301,
+    "STATUS_ID": 11,
+    "START_DATE": "2004-06-30T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 302,
+    "STATUS_ID": 11,
+    "START_DATE": "2004-06-30T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 303,
+    "STATUS_ID": 11,
+    "START_DATE": "2004-06-30T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 304,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 305,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 306,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 307,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 308,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 309,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 310,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 311,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 312,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 313,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 314,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 315,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 316,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 317,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 318,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 319,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 320,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 321,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 322,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 323,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 324,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 325,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 326,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 327,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 328,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 329,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 330,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 331,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 332,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 333,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 334,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 335,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 336,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 337,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 338,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 339,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 340,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 341,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 342,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 343,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 344,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 345,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 346,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 347,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 348,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 349,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 350,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 351,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 352,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 353,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 354,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 355,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 356,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 357,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 358,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 359,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 360,
+    "STATUS_ID": 3,
+    "START_DATE": "2004-08-09T00:00:00",
+    "END_DATE": "2007-08-31T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 360,
+    "STATUS_ID": 9,
+    "START_DATE": "2007-08-31T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 361,
+    "STATUS_ID": 11,
+    "START_DATE": "2004-09-22T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 362,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 363,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 364,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 365,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 366,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 367,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 368,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 369,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 370,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 371,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 372,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 373,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 374,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 375,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 376,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 377,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 378,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 379,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 380,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 381,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 382,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 383,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 384,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 385,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 386,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 387,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 388,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 389,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 390,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 391,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 392,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 393,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 394,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 395,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 396,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 397,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 398,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 399,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 400,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 401,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 402,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 403,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 404,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 405,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 406,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 407,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 408,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 410,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 411,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 412,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 413,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 414,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 415,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 416,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 417,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 418,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 419,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 420,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 421,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 422,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 423,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 424,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 425,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 426,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 427,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 428,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 429,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 430,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 431,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 432,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 433,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 434,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 435,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 436,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 437,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 438,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 439,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 440,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 441,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 442,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 443,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 444,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 445,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 446,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 447,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 448,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 449,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 450,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 451,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 452,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 453,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 454,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 455,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 456,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 457,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 458,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 459,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 460,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 461,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 462,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 463,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 465,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 466,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 467,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 468,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 469,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 470,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 471,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 472,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 473,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 475,
+    "STATUS_ID": 2,
+    "START_DATE": "2005-03-15T00:00:00",
+    "END_DATE": "2006-02-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 475,
+    "STATUS_ID": 10,
+    "START_DATE": "2011-07-11T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 475,
+    "STATUS_ID": 5,
+    "START_DATE": "2008-07-11T00:00:00",
+    "END_DATE": "2009-07-07T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 475,
+    "STATUS_ID": 6,
+    "START_DATE": "2004-11-28T00:00:00",
+    "END_DATE": "2005-03-14T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 475,
+    "STATUS_ID": 1,
+    "START_DATE": "2006-02-27T00:00:00",
+    "END_DATE": "2008-07-11T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 475,
+    "STATUS_ID": 1,
+    "START_DATE": "2009-07-07T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 476,
+    "STATUS_ID": 6,
+    "START_DATE": "2004-12-04T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 477,
+    "STATUS_ID": 6,
+    "START_DATE": "2004-12-16T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 478,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-02-27T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 478,
+    "STATUS_ID": 3,
+    "START_DATE": "2005-08-01T00:00:00",
+    "END_DATE": "2006-02-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 478,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 478,
+    "STATUS_ID": 6,
+    "START_DATE": "2004-12-19T00:00:00",
+    "END_DATE": "2005-08-01T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 479,
+    "STATUS_ID": 6,
+    "START_DATE": "2005-02-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 480,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 481,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 482,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 483,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 484,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 485,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 486,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 487,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 488,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 489,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 490,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 491,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 492,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 493,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 494,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 495,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 496,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 497,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 498,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 499,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 500,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 501,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 502,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 503,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 504,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 505,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 506,
+    "STATUS_ID": 2,
+    "START_DATE": "2012-07-09T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 507,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 508,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 509,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 510,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 511,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 512,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 513,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 514,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 515,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 516,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 517,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 518,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 519,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 520,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 521,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 522,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 523,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 524,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 525,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 526,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 527,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 528,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 529,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 530,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 531,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 532,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 533,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 534,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 535,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 536,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 537,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 538,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 539,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 540,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 541,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 542,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 543,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 544,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 545,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 546,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 547,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 548,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 549,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 550,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 551,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 552,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 553,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 554,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 555,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 556,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 557,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 558,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 559,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 560,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 561,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 562,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 563,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 564,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 565,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 566,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 567,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 568,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 569,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 570,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 571,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 572,
+    "STATUS_ID": 11,
+    "START_DATE": "2005-07-17T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 573,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-02-27T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 573,
+    "STATUS_ID": 3,
+    "START_DATE": "2005-08-12T00:00:00",
+    "END_DATE": "2006-02-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 573,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 574,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 575,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-05-01T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 575,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 575,
+    "STATUS_ID": 3,
+    "START_DATE": "2005-09-21T00:00:00",
+    "END_DATE": "2006-04-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 576,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 576,
+    "STATUS_ID": 6,
+    "START_DATE": "2005-09-01T00:00:00",
+    "END_DATE": "2006-02-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 576,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-02-27T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 577,
+    "STATUS_ID": 2,
+    "START_DATE": "2009-04-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 577,
+    "STATUS_ID": 1,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 577,
+    "STATUS_ID": 3,
+    "START_DATE": "2005-09-01T00:00:00",
+    "END_DATE": "2009-04-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 578,
+    "STATUS_ID": 3,
+    "START_DATE": "2006-09-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 578,
+    "STATUS_ID": 5,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 578,
+    "STATUS_ID": 6,
+    "START_DATE": "2005-10-02T00:00:00",
+    "END_DATE": "2006-09-01T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 578,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 579,
+    "STATUS_ID": 6,
+    "START_DATE": "2005-10-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 580,
+    "STATUS_ID": 6,
+    "START_DATE": "2005-10-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 581,
+    "STATUS_ID": 5,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 581,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-02-27T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 581,
+    "STATUS_ID": 6,
+    "START_DATE": "2005-10-02T00:00:00",
+    "END_DATE": "2006-02-26T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 581,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 583,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-08-04T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 583,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-08-09T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 583,
+    "STATUS_ID": 6,
+    "START_DATE": "2005-10-14T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 584,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-08-09T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 584,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-07-11T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 584,
+    "STATUS_ID": 6,
+    "START_DATE": "2005-10-14T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 585,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-07-18T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 585,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-08-09T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 585,
+    "STATUS_ID": 6,
+    "START_DATE": "2005-10-20T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 586,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 586,
+    "STATUS_ID": 10,
+    "START_DATE": "2013-08-20T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 586,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-08-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 586,
+    "STATUS_ID": 6,
+    "START_DATE": "2005-10-23T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 587,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-05-01T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 587,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": "2008-07-27T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 587,
+    "STATUS_ID": 6,
+    "START_DATE": "2005-10-23T00:00:00",
+    "END_DATE": "2006-04-30T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 587,
+    "STATUS_ID": 5,
+    "START_DATE": "2008-07-27T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 588,
+    "STATUS_ID": 6,
+    "START_DATE": "2005-10-24T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 588,
+    "STATUS_ID": 9,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 589,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-08-09T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 589,
+    "STATUS_ID": 6,
+    "START_DATE": "2005-10-31T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 589,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-08-04T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 589,
+    "STATUS_ID": 5,
+    "START_DATE": "2012-07-01T00:00:00",
+    "END_DATE": "2013-07-01T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 590,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-07-11T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 590,
+    "STATUS_ID": 3,
+    "START_DATE": "2005-11-11T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 591,
+    "STATUS_ID": 6,
+    "START_DATE": "2009-01-20T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 591,
+    "STATUS_ID": 3,
+    "START_DATE": "2005-12-05T00:00:00",
+    "END_DATE": "2009-01-20T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 592,
+    "STATUS_ID": 3,
+    "START_DATE": "2007-08-28T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 592,
+    "STATUS_ID": 6,
+    "START_DATE": "2011-06-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 593,
+    "STATUS_ID": 6,
+    "START_DATE": "2005-12-05T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 593,
+    "STATUS_ID": 3,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": "2009-04-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 593,
+    "STATUS_ID": 2,
+    "START_DATE": "2009-04-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 593,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 594,
+    "STATUS_ID": 2,
+    "START_DATE": "2006-05-01T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 594,
+    "STATUS_ID": 6,
+    "START_DATE": "2005-12-10T00:00:00",
+    "END_DATE": "2006-04-30T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 594,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 594,
+    "STATUS_ID": 5,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": "2012-07-10T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 595,
+    "STATUS_ID": 6,
+    "START_DATE": "2006-01-06T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 596,
+    "STATUS_ID": 6,
+    "START_DATE": "2006-01-29T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 597,
+    "STATUS_ID": 11,
+    "START_DATE": "2006-02-10T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 598,
+    "STATUS_ID": 11,
+    "START_DATE": "2006-02-10T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 599,
+    "STATUS_ID": 11,
+    "START_DATE": "2006-02-10T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 600,
+    "STATUS_ID": 11,
+    "START_DATE": "2006-02-10T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 601,
+    "STATUS_ID": 11,
+    "START_DATE": "2006-02-10T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 602,
+    "STATUS_ID": 11,
+    "START_DATE": "2006-02-16T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 603,
+    "STATUS_ID": 11,
+    "START_DATE": "2006-02-17T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 604,
+    "STATUS_ID": 3,
+    "START_DATE": "2006-08-09T00:00:00",
+    "END_DATE": "2007-08-03T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 604,
+    "STATUS_ID": 1,
+    "START_DATE": "2007-08-03T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 604,
+    "STATUS_ID": 5,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 605,
+    "STATUS_ID": 6,
+    "START_DATE": "2006-10-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 605,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-08-09T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 606,
+    "STATUS_ID": 6,
+    "START_DATE": "2006-10-02T00:00:00",
+    "END_DATE": "2007-08-02T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 606,
+    "STATUS_ID": 3,
+    "START_DATE": "2007-08-02T00:00:00",
+    "END_DATE": "2011-08-13T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 607,
+    "STATUS_ID": 6,
+    "START_DATE": "2006-10-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 608,
+    "STATUS_ID": 3,
+    "START_DATE": "2006-10-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 608,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-08-09T00:00:00",
+    "END_DATE": "2012-08-07T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 608,
+    "STATUS_ID": 6,
+    "START_DATE": "2012-08-07T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 608,
+    "STATUS_ID": 3,
+    "START_DATE": "2013-08-12T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 609,
+    "STATUS_ID": 2,
+    "START_DATE": "2012-06-14T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 609,
+    "STATUS_ID": 6,
+    "START_DATE": "2006-10-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 609,
+    "STATUS_ID": 1,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 609,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-08-09T00:00:00",
+    "END_DATE": "2012-06-14T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 610,
+    "STATUS_ID": 6,
+    "START_DATE": "2006-10-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 611,
+    "STATUS_ID": 6,
+    "START_DATE": "2006-10-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 612,
+    "STATUS_ID": 6,
+    "START_DATE": "2007-10-01T00:00:00",
+    "END_DATE": "2008-08-21T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 612,
+    "STATUS_ID": 3,
+    "START_DATE": "2008-08-21T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 613,
+    "STATUS_ID": 1,
+    "START_DATE": "2008-04-15T00:00:00",
+    "END_DATE": "2009-07-21T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 613,
+    "STATUS_ID": 10,
+    "START_DATE": "2012-07-27T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 613,
+    "STATUS_ID": 2,
+    "START_DATE": "2007-06-28T00:00:00",
+    "END_DATE": "2008-04-15T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 613,
+    "STATUS_ID": 5,
+    "START_DATE": "2009-07-21T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 614,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 615,
+    "STATUS_ID": 3,
+    "START_DATE": "2008-01-01T00:00:00",
+    "END_DATE": "2008-03-31T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 615,
+    "STATUS_ID": 6,
+    "START_DATE": "2008-03-31T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 616,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-07-18T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 616,
+    "STATUS_ID": 5,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 616,
+    "STATUS_ID": 3,
+    "START_DATE": "2009-07-28T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 616,
+    "STATUS_ID": 6,
+    "START_DATE": "2007-11-01T00:00:00",
+    "END_DATE": "2009-07-28T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 617,
+    "STATUS_ID": 3,
+    "START_DATE": "2009-07-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 617,
+    "STATUS_ID": 3,
+    "START_DATE": "2008-01-03T00:00:00",
+    "END_DATE": "2008-08-21T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 617,
+    "STATUS_ID": 6,
+    "START_DATE": "2008-08-21T00:00:00",
+    "END_DATE": "2009-07-01T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 618,
+    "STATUS_ID": 3,
+    "START_DATE": "2013-08-05T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 618,
+    "STATUS_ID": 6,
+    "START_DATE": "2008-01-26T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 619,
+    "STATUS_ID": 1,
+    "START_DATE": "2012-07-10T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 619,
+    "STATUS_ID": 3,
+    "START_DATE": "2009-01-20T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 619,
+    "STATUS_ID": 6,
+    "START_DATE": "2008-01-28T00:00:00",
+    "END_DATE": "2009-01-20T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 620,
+    "STATUS_ID": 5,
+    "START_DATE": "2009-07-21T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 620,
+    "STATUS_ID": 10,
+    "START_DATE": "2011-06-11T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 620,
+    "STATUS_ID": 1,
+    "START_DATE": "2009-04-23T00:00:00",
+    "END_DATE": "2009-07-21T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 620,
+    "STATUS_ID": 2,
+    "START_DATE": "2008-05-19T00:00:00",
+    "END_DATE": "2009-04-23T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 621,
+    "STATUS_ID": 3,
+    "START_DATE": "2008-10-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 621,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-07-18T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 622,
+    "STATUS_ID": 11,
+    "START_DATE": "2008-10-16T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 623,
+    "STATUS_ID": 6,
+    "START_DATE": "2008-11-05T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 624,
+    "STATUS_ID": 3,
+    "START_DATE": "2009-01-20T00:00:00",
+    "END_DATE": "2011-08-13T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 624,
+    "STATUS_ID": 6,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 624,
+    "STATUS_ID": 3,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 625,
+    "STATUS_ID": 3,
+    "START_DATE": "2009-01-20T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 625,
+    "STATUS_ID": 6,
+    "START_DATE": "2011-06-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 626,
+    "STATUS_ID": 3,
+    "START_DATE": "2009-01-20T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 626,
+    "STATUS_ID": 1,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 627,
+    "STATUS_ID": 3,
+    "START_DATE": "2009-01-27T00:00:00",
+    "END_DATE": "2011-08-13T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 628,
+    "STATUS_ID": 6,
+    "START_DATE": "2009-02-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 629,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-08-09T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 629,
+    "STATUS_ID": 6,
+    "START_DATE": "2009-02-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 630,
+    "STATUS_ID": 6,
+    "START_DATE": "2009-02-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 631,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-01-12T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 631,
+    "STATUS_ID": 6,
+    "START_DATE": "2008-10-01T00:00:00",
+    "END_DATE": "2010-01-12T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 632,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-01-11T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 632,
+    "STATUS_ID": 2,
+    "START_DATE": "2010-07-08T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 632,
+    "STATUS_ID": 6,
+    "START_DATE": "2009-09-01T00:00:00",
+    "END_DATE": "2010-01-11T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 632,
+    "STATUS_ID": 5,
+    "START_DATE": "2013-07-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 633,
+    "STATUS_ID": 6,
+    "START_DATE": "2009-09-01T00:00:00",
+    "END_DATE": "2010-01-11T00:00:00",
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 633,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-01-11T00:00:00",
+    "END_DATE": "2011-08-13T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 634,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-08-09T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 635,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-08-24T00:00:00",
+    "END_DATE": "2012-06-23T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 635,
+    "STATUS_ID": 1,
+    "START_DATE": "2012-06-23T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 636,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-07-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 636,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-08-09T00:00:00",
+    "END_DATE": "2011-07-01T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 637,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-08-09T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 637,
+    "STATUS_ID": 10,
+    "START_DATE": "2013-08-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 638,
+    "STATUS_ID": 3,
+    "START_DATE": "2010-08-25T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 639,
+    "STATUS_ID": 3,
+    "START_DATE": "2012-08-07T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 639,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 640,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 641,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 642,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 643,
+    "STATUS_ID": 6,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 644,
+    "STATUS_ID": 3,
+    "START_DATE": "2012-08-07T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 645,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 646,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 647,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 648,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 649,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 650,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 651,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 652,
+    "STATUS_ID": 3,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 653,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 653,
+    "STATUS_ID": 3,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 654,
+    "STATUS_ID": 3,
+    "START_DATE": "2011-08-04T00:00:00",
+    "END_DATE": "2012-06-23T00:00:00",
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 654,
+    "STATUS_ID": 1,
+    "START_DATE": "2012-06-23T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 655,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 656,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 657,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 658,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 658,
+    "STATUS_ID": 3,
+    "START_DATE": "2013-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 659,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 659,
+    "STATUS_ID": 2,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 660,
+    "STATUS_ID": 3,
+    "START_DATE": "2012-08-06T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 661,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 662,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 662,
+    "STATUS_ID": 3,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 663,
+    "STATUS_ID": 6,
+    "START_DATE": "2010-11-04T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 664,
+    "STATUS_ID": 3,
+    "START_DATE": "2013-08-12T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 664,
+    "STATUS_ID": 6,
+    "START_DATE": "2013-08-12T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 665,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 666,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 667,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 668,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 669,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 670,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 671,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 672,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 673,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 674,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 675,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 676,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 677,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-07-11T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 678,
+    "STATUS_ID": 1,
+    "START_DATE": "2012-07-09T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 678,
+    "STATUS_ID": 3,
+    "START_DATE": "2011-08-04T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 679,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 680,
+    "STATUS_ID": 6,
+    "START_DATE": "2011-02-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 681,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 682,
+    "STATUS_ID": 3,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 683,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 684,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 685,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 686,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 686,
+    "STATUS_ID": 3,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 687,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 688,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 689,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 690,
+    "STATUS_ID": 1,
+    "START_DATE": "2011-07-11T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 691,
+    "STATUS_ID": 6,
+    "START_DATE": "2011-06-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 692,
+    "STATUS_ID": 6,
+    "START_DATE": "2011-06-01T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 693,
+    "STATUS_ID": 3,
+    "START_DATE": "2011-08-13T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 695,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 696,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 697,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 698,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 699,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 700,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 701,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 702,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 703,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 704,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 705,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 706,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 707,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 708,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 710,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 711,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 712,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 713,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 714,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 715,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 716,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 717,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 718,
+    "STATUS_ID": 3,
+    "START_DATE": "2013-08-02T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 719,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 720,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 721,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 722,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 723,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 724,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 725,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 726,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 727,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 728,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 729,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 731,
+    "STATUS_ID": 2,
+    "START_DATE": "2012-07-10T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 732,
+    "STATUS_ID": 11,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 733,
+    "STATUS_ID": 2,
+    "START_DATE": "2012-07-10T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 734,
+    "STATUS_ID": 2,
+    "START_DATE": "2012-07-26T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 735,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 736,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 737,
+    "STATUS_ID": 3,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 737,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 738,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 739,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 740,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 741,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 742,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 744,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 745,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 746,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 747,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 748,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 749,
+    "STATUS_ID": 3,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 758,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 759,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 760,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 761,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 762,
+    "STATUS_ID": 2,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 763,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 764,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 765,
+    "STATUS_ID": 2,
+    "START_DATE": "2014-08-19T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": true
+  },
+  {
+    "PLAYER_ID": 766,
+    "STATUS_ID": 6,
+    "START_DATE": "2014-09-04T00:00:00",
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  },
+  {
+    "PLAYER_ID": 767,
+    "STATUS_ID": 6,
+    "START_DATE": null,
+    "END_DATE": null,
+    "CURRENT_STATUS_IND": false
+  }
+]

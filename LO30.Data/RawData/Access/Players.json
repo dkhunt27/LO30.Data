@@ -1,0 +1,6034 @@
+[
+  {
+    "PLAYER_ID": 1,
+    "PLAYER_FIRST_NAME": "Dennis",
+    "PLAYER_LAST_NAME": "Elenich",
+    "PLAYER_SUFFIX": "Jr",
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 2,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Davison",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 3,
+    "PLAYER_FIRST_NAME": "Wally",
+    "PLAYER_LAST_NAME": "Pivetta",
+    "PLAYER_SUFFIX": "Jr",
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 4,
+    "PLAYER_FIRST_NAME": "Doug",
+    "PLAYER_LAST_NAME": "Smith",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 5,
+    "PLAYER_FIRST_NAME": "Greg",
+    "PLAYER_LAST_NAME": "Strzempek",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 6,
+    "PLAYER_FIRST_NAME": "Kevin",
+    "PLAYER_LAST_NAME": "Carlsen",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 7,
+    "PLAYER_FIRST_NAME": "Dennis",
+    "PLAYER_LAST_NAME": "Kahle",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 8,
+    "PLAYER_FIRST_NAME": "Don",
+    "PLAYER_LAST_NAME": "Cheaney",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 9,
+    "PLAYER_FIRST_NAME": "Ernie",
+    "PLAYER_LAST_NAME": "White",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 10,
+    "PLAYER_FIRST_NAME": "Art",
+    "PLAYER_LAST_NAME": "Cole",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 11,
+    "PLAYER_FIRST_NAME": "Dennis",
+    "PLAYER_LAST_NAME": "Elenich",
+    "PLAYER_SUFFIX": "Sr",
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 12,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Pellegrino",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 13,
+    "PLAYER_FIRST_NAME": "Doug",
+    "PLAYER_LAST_NAME": "Ward",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 14,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Zamesnik",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 15,
+    "PLAYER_FIRST_NAME": "Joseph",
+    "PLAYER_LAST_NAME": "Tseng",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 16,
+    "PLAYER_FIRST_NAME": "Ralph",
+    "PLAYER_LAST_NAME": "Bakewell",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 17,
+    "PLAYER_FIRST_NAME": "Kevin",
+    "PLAYER_LAST_NAME": "Green",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 18,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Berger",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 19,
+    "PLAYER_FIRST_NAME": "Bruce",
+    "PLAYER_LAST_NAME": "Henderson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 20,
+    "PLAYER_FIRST_NAME": "Robert",
+    "PLAYER_LAST_NAME": "Smythe",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 21,
+    "PLAYER_FIRST_NAME": "Gar",
+    "PLAYER_LAST_NAME": "McCray",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 22,
+    "PLAYER_FIRST_NAME": "Ron",
+    "PLAYER_LAST_NAME": "Randlett",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 23,
+    "PLAYER_FIRST_NAME": "Ken",
+    "PLAYER_LAST_NAME": "Jakubowski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 24,
+    "PLAYER_FIRST_NAME": "Andy",
+    "PLAYER_LAST_NAME": "Czilok",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 25,
+    "PLAYER_FIRST_NAME": "Dennis",
+    "PLAYER_LAST_NAME": "Queener",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 26,
+    "PLAYER_FIRST_NAME": "Jesse",
+    "PLAYER_LAST_NAME": "Portwood",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 27,
+    "PLAYER_FIRST_NAME": "Dennis",
+    "PLAYER_LAST_NAME": "Carlsen",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 28,
+    "PLAYER_FIRST_NAME": "Roy",
+    "PLAYER_LAST_NAME": "Sequin",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 29,
+    "PLAYER_FIRST_NAME": "Jack",
+    "PLAYER_LAST_NAME": "Pellosma",
+    "PLAYER_SUFFIX": "Jr",
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 30,
+    "PLAYER_FIRST_NAME": "Greg",
+    "PLAYER_LAST_NAME": "Fallows",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 31,
+    "PLAYER_FIRST_NAME": "Larry",
+    "PLAYER_LAST_NAME": "Fedrigo",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 32,
+    "PLAYER_FIRST_NAME": "Steve",
+    "PLAYER_LAST_NAME": "Galvan",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 33,
+    "PLAYER_FIRST_NAME": "Todd",
+    "PLAYER_LAST_NAME": "Keller",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 34,
+    "PLAYER_FIRST_NAME": "Ron",
+    "PLAYER_LAST_NAME": "Marshall",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 35,
+    "PLAYER_FIRST_NAME": "Don",
+    "PLAYER_LAST_NAME": "Trybus",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 36,
+    "PLAYER_FIRST_NAME": "Mick",
+    "PLAYER_LAST_NAME": "Hunt",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 37,
+    "PLAYER_FIRST_NAME": "Steve",
+    "PLAYER_LAST_NAME": "Fairman",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 38,
+    "PLAYER_FIRST_NAME": "Ken",
+    "PLAYER_LAST_NAME": "Hunt",
+    "PLAYER_SUFFIX": "Jr",
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 39,
+    "PLAYER_FIRST_NAME": "Todd",
+    "PLAYER_LAST_NAME": "Fleming",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 40,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Lysaght",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 41,
+    "PLAYER_FIRST_NAME": "Mark",
+    "PLAYER_LAST_NAME": "Demski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 42,
+    "PLAYER_FIRST_NAME": "Joe",
+    "PLAYER_LAST_NAME": "Grezlik",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 43,
+    "PLAYER_FIRST_NAME": "Ray",
+    "PLAYER_LAST_NAME": "Newer",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 44,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Weak",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 45,
+    "PLAYER_FIRST_NAME": "Marc",
+    "PLAYER_LAST_NAME": "Brookman",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 46,
+    "PLAYER_FIRST_NAME": "Mark",
+    "PLAYER_LAST_NAME": "Kitz",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 47,
+    "PLAYER_FIRST_NAME": "Ed",
+    "PLAYER_LAST_NAME": "Keller",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 48,
+    "PLAYER_FIRST_NAME": "Ken",
+    "PLAYER_LAST_NAME": "Hunt",
+    "PLAYER_SUFFIX": "Sr",
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 49,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Camillo",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 50,
+    "PLAYER_FIRST_NAME": "Rob",
+    "PLAYER_LAST_NAME": "Sayig",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 51,
+    "PLAYER_FIRST_NAME": "Ron",
+    "PLAYER_LAST_NAME": "Tetrault",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 52,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "McCallum",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 53,
+    "PLAYER_FIRST_NAME": "Andy",
+    "PLAYER_LAST_NAME": "McCallum",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 54,
+    "PLAYER_FIRST_NAME": "Scott",
+    "PLAYER_LAST_NAME": "Duvall",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 55,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Toaso",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 56,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Gibson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 57,
+    "PLAYER_FIRST_NAME": "Ernie",
+    "PLAYER_LAST_NAME": "Bourassa",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 58,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Lipon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 59,
+    "PLAYER_FIRST_NAME": "Rich",
+    "PLAYER_LAST_NAME": "Newer",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 60,
+    "PLAYER_FIRST_NAME": "Steve",
+    "PLAYER_LAST_NAME": "Crandall",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 61,
+    "PLAYER_FIRST_NAME": "Lou",
+    "PLAYER_LAST_NAME": "Barrett",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 62,
+    "PLAYER_FIRST_NAME": "Matt",
+    "PLAYER_LAST_NAME": "Kobliska",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 63,
+    "PLAYER_FIRST_NAME": "Kevin",
+    "PLAYER_LAST_NAME": "Fitzpatrick",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 64,
+    "PLAYER_FIRST_NAME": "Mark",
+    "PLAYER_LAST_NAME": "Ranta",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 65,
+    "PLAYER_FIRST_NAME": "Todd",
+    "PLAYER_LAST_NAME": "Humecky",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 66,
+    "PLAYER_FIRST_NAME": "Bill",
+    "PLAYER_LAST_NAME": "Hamilton",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 67,
+    "PLAYER_FIRST_NAME": "Peter",
+    "PLAYER_LAST_NAME": "Howard",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 68,
+    "PLAYER_FIRST_NAME": "Bill",
+    "PLAYER_LAST_NAME": "Darke",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 69,
+    "PLAYER_FIRST_NAME": "Tim",
+    "PLAYER_LAST_NAME": "Scott",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 70,
+    "PLAYER_FIRST_NAME": "Rick",
+    "PLAYER_LAST_NAME": "Hamlin",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 71,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Hermann",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 72,
+    "PLAYER_FIRST_NAME": "Darryl",
+    "PLAYER_LAST_NAME": "Johnson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 73,
+    "PLAYER_FIRST_NAME": "Ed",
+    "PLAYER_LAST_NAME": "Maksimowicz",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 74,
+    "PLAYER_FIRST_NAME": "Scott",
+    "PLAYER_LAST_NAME": "Grace",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 75,
+    "PLAYER_FIRST_NAME": "Drew",
+    "PLAYER_LAST_NAME": "Zuhlke",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 76,
+    "PLAYER_FIRST_NAME": "Pat",
+    "PLAYER_LAST_NAME": "York",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 77,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Walters",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 78,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Maceri",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 79,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Hudzinski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 80,
+    "PLAYER_FIRST_NAME": "Bill",
+    "PLAYER_LAST_NAME": "Hodges",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 81,
+    "PLAYER_FIRST_NAME": "Ron",
+    "PLAYER_LAST_NAME": "Gabon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 82,
+    "PLAYER_FIRST_NAME": "John C",
+    "PLAYER_LAST_NAME": "Strauch",
+    "PLAYER_SUFFIX": "Jr",
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 83,
+    "PLAYER_FIRST_NAME": "Bill",
+    "PLAYER_LAST_NAME": "Tabor",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 84,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Oliver",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 85,
+    "PLAYER_FIRST_NAME": "Dan",
+    "PLAYER_LAST_NAME": "Fredendall",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 86,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Shetney",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 87,
+    "PLAYER_FIRST_NAME": "Norm",
+    "PLAYER_LAST_NAME": "Smythe",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 88,
+    "PLAYER_FIRST_NAME": "Dan",
+    "PLAYER_LAST_NAME": "Fradette",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 89,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Carlton",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 90,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Lasecki",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 91,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Redington",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 92,
+    "PLAYER_FIRST_NAME": "Gary",
+    "PLAYER_LAST_NAME": "Cutsy",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 93,
+    "PLAYER_FIRST_NAME": "Don",
+    "PLAYER_LAST_NAME": "Duvall",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 94,
+    "PLAYER_FIRST_NAME": "Roger",
+    "PLAYER_LAST_NAME": "Nelson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 95,
+    "PLAYER_FIRST_NAME": "Ken",
+    "PLAYER_LAST_NAME": "Demski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 96,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Tenaglia",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 97,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Pacion",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 98,
+    "PLAYER_FIRST_NAME": "Larry",
+    "PLAYER_LAST_NAME": "Jaynes",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 99,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Fedrigo",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 100,
+    "PLAYER_FIRST_NAME": "Brett",
+    "PLAYER_LAST_NAME": "Green",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 101,
+    "PLAYER_FIRST_NAME": "Mark",
+    "PLAYER_LAST_NAME": "Wosniak",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 102,
+    "PLAYER_FIRST_NAME": "Tim",
+    "PLAYER_LAST_NAME": "Donahue",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 103,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Kubus",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 104,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Rakoczy",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 105,
+    "PLAYER_FIRST_NAME": "Al",
+    "PLAYER_LAST_NAME": "Jensen",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 106,
+    "PLAYER_FIRST_NAME": "Gary",
+    "PLAYER_LAST_NAME": "Vorhes",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 107,
+    "PLAYER_FIRST_NAME": "Rick",
+    "PLAYER_LAST_NAME": "Taylor",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 108,
+    "PLAYER_FIRST_NAME": "Al",
+    "PLAYER_LAST_NAME": "Szczepanik",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 109,
+    "PLAYER_FIRST_NAME": "Loren",
+    "PLAYER_LAST_NAME": "Gardner",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 110,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Kwiatkowski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 111,
+    "PLAYER_FIRST_NAME": "Matt",
+    "PLAYER_LAST_NAME": "Barrett",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 113,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Ploch",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 114,
+    "PLAYER_FIRST_NAME": "Kevin",
+    "PLAYER_LAST_NAME": "Mason",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 115,
+    "PLAYER_FIRST_NAME": "Brian",
+    "PLAYER_LAST_NAME": "Toovalian",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 116,
+    "PLAYER_FIRST_NAME": "Ken",
+    "PLAYER_LAST_NAME": "May",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 117,
+    "PLAYER_FIRST_NAME": "Chris",
+    "PLAYER_LAST_NAME": "Greco",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 118,
+    "PLAYER_FIRST_NAME": "Joe",
+    "PLAYER_LAST_NAME": "Niemiec",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 119,
+    "PLAYER_FIRST_NAME": "Bill",
+    "PLAYER_LAST_NAME": "Marken",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 120,
+    "PLAYER_FIRST_NAME": "George",
+    "PLAYER_LAST_NAME": "Weiser",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 121,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Kennedy",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 122,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Woloch",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 123,
+    "PLAYER_FIRST_NAME": "Randy",
+    "PLAYER_LAST_NAME": "Hope",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 124,
+    "PLAYER_FIRST_NAME": "Darwin",
+    "PLAYER_LAST_NAME": "Becker",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 125,
+    "PLAYER_FIRST_NAME": "Mark",
+    "PLAYER_LAST_NAME": "Cumbo",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 126,
+    "PLAYER_FIRST_NAME": "Russ",
+    "PLAYER_LAST_NAME": "Baumann",
+    "PLAYER_SUFFIX": "Sr",
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 127,
+    "PLAYER_FIRST_NAME": "Michael",
+    "PLAYER_LAST_NAME": "Riesterer",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 128,
+    "PLAYER_FIRST_NAME": "Paul",
+    "PLAYER_LAST_NAME": "Furtak",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 129,
+    "PLAYER_FIRST_NAME": "Ron",
+    "PLAYER_LAST_NAME": "Schram",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 130,
+    "PLAYER_FIRST_NAME": "Player",
+    "PLAYER_LAST_NAME": "Unknown",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 131,
+    "PLAYER_FIRST_NAME": "Rick",
+    "PLAYER_LAST_NAME": "Barr",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 132,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Fogliatti",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 133,
+    "PLAYER_FIRST_NAME": "Todd",
+    "PLAYER_LAST_NAME": "Shea",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 153,
+    "PLAYER_FIRST_NAME": "Ralph",
+    "PLAYER_LAST_NAME": "Truckenbrodt",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 154,
+    "PLAYER_FIRST_NAME": "Peter",
+    "PLAYER_LAST_NAME": "Barnes",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 155,
+    "PLAYER_FIRST_NAME": "Dan",
+    "PLAYER_LAST_NAME": "Barnes",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 156,
+    "PLAYER_FIRST_NAME": "Russ",
+    "PLAYER_LAST_NAME": "Baumann",
+    "PLAYER_SUFFIX": "Jr",
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 157,
+    "PLAYER_FIRST_NAME": "Glen",
+    "PLAYER_LAST_NAME": "Campbell",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 158,
+    "PLAYER_FIRST_NAME": "Dennis",
+    "PLAYER_LAST_NAME": "Cicchelli",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 159,
+    "PLAYER_FIRST_NAME": "Larry",
+    "PLAYER_LAST_NAME": "Cranston",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 160,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Dupuie",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 161,
+    "PLAYER_FIRST_NAME": "Jeff",
+    "PLAYER_LAST_NAME": "Fournier",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 162,
+    "PLAYER_FIRST_NAME": "Steve",
+    "PLAYER_LAST_NAME": "Gilson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 163,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Guider",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 164,
+    "PLAYER_FIRST_NAME": "Brian",
+    "PLAYER_LAST_NAME": "McDonald",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 165,
+    "PLAYER_FIRST_NAME": "Dan",
+    "PLAYER_LAST_NAME": "Persha",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 166,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Sgriccia",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 167,
+    "PLAYER_FIRST_NAME": "Len",
+    "PLAYER_LAST_NAME": "Singer",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 168,
+    "PLAYER_FIRST_NAME": "Ed",
+    "PLAYER_LAST_NAME": "Sommerville",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 169,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Whitfield",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 171,
+    "PLAYER_FIRST_NAME": "Ted",
+    "PLAYER_LAST_NAME": "Truckenbrodt",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 172,
+    "PLAYER_FIRST_NAME": "Pat",
+    "PLAYER_LAST_NAME": "Collins",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 173,
+    "PLAYER_FIRST_NAME": "Doug",
+    "PLAYER_LAST_NAME": "Walters",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 174,
+    "PLAYER_FIRST_NAME": "Rick",
+    "PLAYER_LAST_NAME": "McCoy",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 175,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Sinclair",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 176,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Messineo",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 177,
+    "PLAYER_FIRST_NAME": "Steve",
+    "PLAYER_LAST_NAME": "Roth",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 178,
+    "PLAYER_FIRST_NAME": "Ken",
+    "PLAYER_LAST_NAME": "Grant",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 179,
+    "PLAYER_FIRST_NAME": "Doug",
+    "PLAYER_LAST_NAME": "Plisko",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 180,
+    "PLAYER_FIRST_NAME": "Steve",
+    "PLAYER_LAST_NAME": "Sobczak",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 182,
+    "PLAYER_FIRST_NAME": "Todd",
+    "PLAYER_LAST_NAME": "Hovarter",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 183,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Dunn",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 184,
+    "PLAYER_FIRST_NAME": "Keith",
+    "PLAYER_LAST_NAME": "Gudeman",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 185,
+    "PLAYER_FIRST_NAME": "Scott",
+    "PLAYER_LAST_NAME": "Green",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 186,
+    "PLAYER_FIRST_NAME": "Shadd",
+    "PLAYER_LAST_NAME": "Whitehead",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 187,
+    "PLAYER_FIRST_NAME": "Jed",
+    "PLAYER_LAST_NAME": "Ahmet",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 188,
+    "PLAYER_FIRST_NAME": "Ken",
+    "PLAYER_LAST_NAME": "Zajac",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 189,
+    "PLAYER_FIRST_NAME": "C",
+    "PLAYER_LAST_NAME": "Kohl",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 190,
+    "PLAYER_FIRST_NAME": "Tim",
+    "PLAYER_LAST_NAME": "Zimmer",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 191,
+    "PLAYER_FIRST_NAME": "Ken",
+    "PLAYER_LAST_NAME": "Jajac",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 192,
+    "PLAYER_FIRST_NAME": "Chuck",
+    "PLAYER_LAST_NAME": "Cole",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 193,
+    "PLAYER_FIRST_NAME": "Chris",
+    "PLAYER_LAST_NAME": "Keller",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 194,
+    "PLAYER_FIRST_NAME": "Ken",
+    "PLAYER_LAST_NAME": "O'Malley",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 195,
+    "PLAYER_FIRST_NAME": "Doug",
+    "PLAYER_LAST_NAME": "Van Vliet",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 196,
+    "PLAYER_FIRST_NAME": "Jack",
+    "PLAYER_LAST_NAME": "McCoy",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 197,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Sommerville",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 198,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Stokes",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 199,
+    "PLAYER_FIRST_NAME": "Doug",
+    "PLAYER_LAST_NAME": "Finkbiner",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 200,
+    "PLAYER_FIRST_NAME": "J.C.",
+    "PLAYER_LAST_NAME": "Collins",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 201,
+    "PLAYER_FIRST_NAME": "Gary",
+    "PLAYER_LAST_NAME": "Dowd",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 202,
+    "PLAYER_FIRST_NAME": "Chris",
+    "PLAYER_LAST_NAME": "Darnell",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 203,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Kolins",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 204,
+    "PLAYER_FIRST_NAME": "Tony",
+    "PLAYER_LAST_NAME": "Zaschak",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 205,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Wikowski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 206,
+    "PLAYER_FIRST_NAME": "Mark",
+    "PLAYER_LAST_NAME": "Brosky",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 207,
+    "PLAYER_FIRST_NAME": "Gary",
+    "PLAYER_LAST_NAME": "_",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 208,
+    "PLAYER_FIRST_NAME": "Mark",
+    "PLAYER_LAST_NAME": "_",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 209,
+    "PLAYER_FIRST_NAME": "Brian",
+    "PLAYER_LAST_NAME": "Gabrielson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 210,
+    "PLAYER_FIRST_NAME": "Steve",
+    "PLAYER_LAST_NAME": "Allen",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 212,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Auld",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 214,
+    "PLAYER_FIRST_NAME": "Bill",
+    "PLAYER_LAST_NAME": "Ellis",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 216,
+    "PLAYER_FIRST_NAME": "Mark",
+    "PLAYER_LAST_NAME": "Herbert",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 218,
+    "PLAYER_FIRST_NAME": "Jerry",
+    "PLAYER_LAST_NAME": "Vanderhaven",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 219,
+    "PLAYER_FIRST_NAME": "Bill",
+    "PLAYER_LAST_NAME": "Rizzolo",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 220,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Bradshaw",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 221,
+    "PLAYER_FIRST_NAME": "Russ",
+    "PLAYER_LAST_NAME": "Hodges",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 222,
+    "PLAYER_FIRST_NAME": "Tim",
+    "PLAYER_LAST_NAME": "McCannon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 223,
+    "PLAYER_FIRST_NAME": "Sean",
+    "PLAYER_LAST_NAME": "Neary",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 224,
+    "PLAYER_FIRST_NAME": "Tony",
+    "PLAYER_LAST_NAME": "Carpani",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 225,
+    "PLAYER_FIRST_NAME": "Matt",
+    "PLAYER_LAST_NAME": "Kozar",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 226,
+    "PLAYER_FIRST_NAME": "Roger",
+    "PLAYER_LAST_NAME": "Labby",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 227,
+    "PLAYER_FIRST_NAME": "Ron",
+    "PLAYER_LAST_NAME": "Kleiner",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 228,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Mocco",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 229,
+    "PLAYER_FIRST_NAME": "Dennis",
+    "PLAYER_LAST_NAME": "Clotworthy",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 230,
+    "PLAYER_FIRST_NAME": "Peter",
+    "PLAYER_LAST_NAME": "Udink",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 231,
+    "PLAYER_FIRST_NAME": "Brian",
+    "PLAYER_LAST_NAME": "Anton",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 232,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Harris",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 233,
+    "PLAYER_FIRST_NAME": "Carl",
+    "PLAYER_LAST_NAME": "Gerhard",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 234,
+    "PLAYER_FIRST_NAME": "Lou",
+    "PLAYER_LAST_NAME": "Blanchard",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 235,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Weak",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 236,
+    "PLAYER_FIRST_NAME": "Scott",
+    "PLAYER_LAST_NAME": "Racer",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 237,
+    "PLAYER_FIRST_NAME": "Phil",
+    "PLAYER_LAST_NAME": "Sexton",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 238,
+    "PLAYER_FIRST_NAME": "Steve",
+    "PLAYER_LAST_NAME": "Apostal",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 239,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "McLean",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 240,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Dillon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 241,
+    "PLAYER_FIRST_NAME": "Gary",
+    "PLAYER_LAST_NAME": "Koskela",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 242,
+    "PLAYER_FIRST_NAME": "Ben",
+    "PLAYER_LAST_NAME": "Dillon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 243,
+    "PLAYER_FIRST_NAME": "Harry",
+    "PLAYER_LAST_NAME": "Johnson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 244,
+    "PLAYER_FIRST_NAME": "Graham",
+    "PLAYER_LAST_NAME": "Board",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 245,
+    "PLAYER_FIRST_NAME": "Gene",
+    "PLAYER_LAST_NAME": "Villenueve",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 246,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Blanchard",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 247,
+    "PLAYER_FIRST_NAME": "Ed",
+    "PLAYER_LAST_NAME": "Soulliere",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 248,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Cox",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 249,
+    "PLAYER_FIRST_NAME": "Hugh",
+    "PLAYER_LAST_NAME": "Shannon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 250,
+    "PLAYER_FIRST_NAME": "Gary",
+    "PLAYER_LAST_NAME": "Stouffer",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 251,
+    "PLAYER_FIRST_NAME": "Wayne",
+    "PLAYER_LAST_NAME": "Avers",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 252,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Herron",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 253,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Siegrist",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 254,
+    "PLAYER_FIRST_NAME": "Brian",
+    "PLAYER_LAST_NAME": "Parsons",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 255,
+    "PLAYER_FIRST_NAME": "Gary",
+    "PLAYER_LAST_NAME": "Wrigley",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 256,
+    "PLAYER_FIRST_NAME": "Mark",
+    "PLAYER_LAST_NAME": "Harvath",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 257,
+    "PLAYER_FIRST_NAME": "Bill",
+    "PLAYER_LAST_NAME": "Young",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 258,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Pas",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 259,
+    "PLAYER_FIRST_NAME": "Morley",
+    "PLAYER_LAST_NAME": "Fortier",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 260,
+    "PLAYER_FIRST_NAME": "Cliff",
+    "PLAYER_LAST_NAME": "Campeau",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 261,
+    "PLAYER_FIRST_NAME": "Paul",
+    "PLAYER_LAST_NAME": "Roshirt",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 262,
+    "PLAYER_FIRST_NAME": "Ford",
+    "PLAYER_LAST_NAME": "McCammon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 263,
+    "PLAYER_FIRST_NAME": "Dan",
+    "PLAYER_LAST_NAME": "Durst",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 264,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Amo",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 265,
+    "PLAYER_FIRST_NAME": "Chris",
+    "PLAYER_LAST_NAME": "Pilsner",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 266,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Willey",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 267,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Beecher",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 268,
+    "PLAYER_FIRST_NAME": "Chuck",
+    "PLAYER_LAST_NAME": "Sanzone",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 269,
+    "PLAYER_FIRST_NAME": "Al",
+    "PLAYER_LAST_NAME": "Baum",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 270,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Yakanich",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 271,
+    "PLAYER_FIRST_NAME": "Rob",
+    "PLAYER_LAST_NAME": "Ozengar",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 272,
+    "PLAYER_FIRST_NAME": "Ralph",
+    "PLAYER_LAST_NAME": "Humphlett",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 273,
+    "PLAYER_FIRST_NAME": "Jay",
+    "PLAYER_LAST_NAME": "Ritz",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 274,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Plumley",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 275,
+    "PLAYER_FIRST_NAME": "Julio",
+    "PLAYER_LAST_NAME": "Huizar",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 276,
+    "PLAYER_FIRST_NAME": "Gary",
+    "PLAYER_LAST_NAME": "McCowan",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 277,
+    "PLAYER_FIRST_NAME": "Gary",
+    "PLAYER_LAST_NAME": "Niemenski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 278,
+    "PLAYER_FIRST_NAME": "Lenny",
+    "PLAYER_LAST_NAME": "Raniszeski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 279,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Roskelly",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 280,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Campenela",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 281,
+    "PLAYER_FIRST_NAME": "Bill",
+    "PLAYER_LAST_NAME": "Annarino",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 283,
+    "PLAYER_FIRST_NAME": "Clarence",
+    "PLAYER_LAST_NAME": "Rivard",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 284,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Golaszewski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 285,
+    "PLAYER_FIRST_NAME": "Richard",
+    "PLAYER_LAST_NAME": "Glodek",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 286,
+    "PLAYER_FIRST_NAME": "Jeff",
+    "PLAYER_LAST_NAME": "Knipp",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 287,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Porembiak",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 288,
+    "PLAYER_FIRST_NAME": "Kenny",
+    "PLAYER_LAST_NAME": "Lazur",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 289,
+    "PLAYER_FIRST_NAME": "Rudy",
+    "PLAYER_LAST_NAME": "Gerhard",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 290,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Morris",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 291,
+    "PLAYER_FIRST_NAME": "Bernie",
+    "PLAYER_LAST_NAME": "Schlact",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 292,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "LeBlanc",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 293,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "St. Croix",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 294,
+    "PLAYER_FIRST_NAME": "Lee",
+    "PLAYER_LAST_NAME": "Kour",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 295,
+    "PLAYER_FIRST_NAME": "Jerry",
+    "PLAYER_LAST_NAME": "Cook",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 296,
+    "PLAYER_FIRST_NAME": "Bruce",
+    "PLAYER_LAST_NAME": "McDonald",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 297,
+    "PLAYER_FIRST_NAME": "Frank",
+    "PLAYER_LAST_NAME": "Tima",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 298,
+    "PLAYER_FIRST_NAME": "Al",
+    "PLAYER_LAST_NAME": "Benavitos",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 299,
+    "PLAYER_FIRST_NAME": "Frank",
+    "PLAYER_LAST_NAME": "Farren",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 300,
+    "PLAYER_FIRST_NAME": "Chris",
+    "PLAYER_LAST_NAME": "Yellick",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 301,
+    "PLAYER_FIRST_NAME": "Al",
+    "PLAYER_LAST_NAME": "Harmon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 302,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Wisnieski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 303,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Tabor",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 304,
+    "PLAYER_FIRST_NAME": "Brian",
+    "PLAYER_LAST_NAME": "Postma",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 305,
+    "PLAYER_FIRST_NAME": "Gary",
+    "PLAYER_LAST_NAME": "Sienkiewicz",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 306,
+    "PLAYER_FIRST_NAME": "Gary",
+    "PLAYER_LAST_NAME": "Skop",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 307,
+    "PLAYER_FIRST_NAME": "Pete",
+    "PLAYER_LAST_NAME": "Tibaldi",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 308,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Rosenau",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 309,
+    "PLAYER_FIRST_NAME": "Rich",
+    "PLAYER_LAST_NAME": "Lee",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 310,
+    "PLAYER_FIRST_NAME": "R",
+    "PLAYER_LAST_NAME": "Labadie",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 311,
+    "PLAYER_FIRST_NAME": "Joe",
+    "PLAYER_LAST_NAME": "Gagnon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 312,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Kramer",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 313,
+    "PLAYER_FIRST_NAME": "B",
+    "PLAYER_LAST_NAME": "Wolfe",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 314,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Bland",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 315,
+    "PLAYER_FIRST_NAME": "Dennis",
+    "PLAYER_LAST_NAME": "Dallape",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 316,
+    "PLAYER_FIRST_NAME": "Stan",
+    "PLAYER_LAST_NAME": "Alspector",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 317,
+    "PLAYER_FIRST_NAME": "P",
+    "PLAYER_LAST_NAME": "Salvatori",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 318,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Perrenello",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 319,
+    "PLAYER_FIRST_NAME": "Rick",
+    "PLAYER_LAST_NAME": "Kosiba",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 320,
+    "PLAYER_FIRST_NAME": "Dick",
+    "PLAYER_LAST_NAME": "Lytle",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 321,
+    "PLAYER_FIRST_NAME": "T",
+    "PLAYER_LAST_NAME": "Reid",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 322,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Appie",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 323,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "LaChance",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 324,
+    "PLAYER_FIRST_NAME": "Ray",
+    "PLAYER_LAST_NAME": "Herbert",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 325,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Lanzi",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 326,
+    "PLAYER_FIRST_NAME": "Doug",
+    "PLAYER_LAST_NAME": "Icenhower",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 327,
+    "PLAYER_FIRST_NAME": "G",
+    "PLAYER_LAST_NAME": "Schaft",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 328,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Gilhooly",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 329,
+    "PLAYER_FIRST_NAME": "D",
+    "PLAYER_LAST_NAME": "Waite",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 330,
+    "PLAYER_FIRST_NAME": "Greg",
+    "PLAYER_LAST_NAME": "Truchan",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 331,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Urbats",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 332,
+    "PLAYER_FIRST_NAME": "Larry",
+    "PLAYER_LAST_NAME": "Gagnon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 333,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Sheridan",
+    "PLAYER_SUFFIX": "Sr",
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 334,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Priest",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 335,
+    "PLAYER_FIRST_NAME": "Don",
+    "PLAYER_LAST_NAME": "Kelly",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 336,
+    "PLAYER_FIRST_NAME": "H",
+    "PLAYER_LAST_NAME": "Swystun",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 337,
+    "PLAYER_FIRST_NAME": "Richard",
+    "PLAYER_LAST_NAME": "Chafe",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 338,
+    "PLAYER_FIRST_NAME": "D",
+    "PLAYER_LAST_NAME": "Watson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 339,
+    "PLAYER_FIRST_NAME": "Chuck",
+    "PLAYER_LAST_NAME": "Zuccarini",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 340,
+    "PLAYER_FIRST_NAME": "B",
+    "PLAYER_LAST_NAME": "Yackel",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 341,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Montroy",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 342,
+    "PLAYER_FIRST_NAME": "L",
+    "PLAYER_LAST_NAME": "Pirronello",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 343,
+    "PLAYER_FIRST_NAME": "Alan",
+    "PLAYER_LAST_NAME": "Kramer",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 344,
+    "PLAYER_FIRST_NAME": "L",
+    "PLAYER_LAST_NAME": "Beadreau",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 345,
+    "PLAYER_FIRST_NAME": "Roger",
+    "PLAYER_LAST_NAME": "Smith",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 346,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Lee",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 347,
+    "PLAYER_FIRST_NAME": "K",
+    "PLAYER_LAST_NAME": "Penner",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 348,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "McCammon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 349,
+    "PLAYER_FIRST_NAME": "J.T.",
+    "PLAYER_LAST_NAME": "Lubig",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 350,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Parembiak",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 351,
+    "PLAYER_FIRST_NAME": "Paul",
+    "PLAYER_LAST_NAME": "Poshirt",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 352,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Brumm",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 353,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "McLive",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 354,
+    "PLAYER_FIRST_NAME": "Julian",
+    "PLAYER_LAST_NAME": "Husiar",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 355,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Kraska",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 356,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Pass",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 357,
+    "PLAYER_FIRST_NAME": "Mark",
+    "PLAYER_LAST_NAME": "McCammon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 358,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Dillon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 359,
+    "PLAYER_FIRST_NAME": "Matt",
+    "PLAYER_LAST_NAME": "Crowe",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 360,
+    "PLAYER_FIRST_NAME": "Scott",
+    "PLAYER_LAST_NAME": "Rooney",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 361,
+    "PLAYER_FIRST_NAME": "K",
+    "PLAYER_LAST_NAME": "Dingel",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 362,
+    "PLAYER_FIRST_NAME": "Harvey",
+    "PLAYER_LAST_NAME": "Divens",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 363,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Felker",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 364,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Rutherford",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 365,
+    "PLAYER_FIRST_NAME": "D",
+    "PLAYER_LAST_NAME": "Yakanich",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 366,
+    "PLAYER_FIRST_NAME": "Mel",
+    "PLAYER_LAST_NAME": "Loth",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 367,
+    "PLAYER_FIRST_NAME": "Dennis",
+    "PLAYER_LAST_NAME": "D'Alessandro",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 368,
+    "PLAYER_FIRST_NAME": "Lenny",
+    "PLAYER_LAST_NAME": "Landis",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 369,
+    "PLAYER_FIRST_NAME": "R",
+    "PLAYER_LAST_NAME": "Rzepka",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 370,
+    "PLAYER_FIRST_NAME": "Dick",
+    "PLAYER_LAST_NAME": "Bonnville",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 371,
+    "PLAYER_FIRST_NAME": "Chet",
+    "PLAYER_LAST_NAME": "Robel",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 372,
+    "PLAYER_FIRST_NAME": "B",
+    "PLAYER_LAST_NAME": "Mohr",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 373,
+    "PLAYER_FIRST_NAME": "V",
+    "PLAYER_LAST_NAME": "Dimitriou",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 374,
+    "PLAYER_FIRST_NAME": "M",
+    "PLAYER_LAST_NAME": "Schiver",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 375,
+    "PLAYER_FIRST_NAME": "Bill",
+    "PLAYER_LAST_NAME": "Mechalko",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 376,
+    "PLAYER_FIRST_NAME": "A",
+    "PLAYER_LAST_NAME": "Klinger",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 377,
+    "PLAYER_FIRST_NAME": "M",
+    "PLAYER_LAST_NAME": "Donnelly",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 378,
+    "PLAYER_FIRST_NAME": "A",
+    "PLAYER_LAST_NAME": "Potok",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 379,
+    "PLAYER_FIRST_NAME": "Paul",
+    "PLAYER_LAST_NAME": "Carlsen",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 380,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Strauch",
+    "PLAYER_SUFFIX": "Sr",
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 382,
+    "PLAYER_FIRST_NAME": "J",
+    "PLAYER_LAST_NAME": "McErlain",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 383,
+    "PLAYER_FIRST_NAME": "J",
+    "PLAYER_LAST_NAME": "Jeziorski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 384,
+    "PLAYER_FIRST_NAME": "Paul",
+    "PLAYER_LAST_NAME": "Queenville",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 385,
+    "PLAYER_FIRST_NAME": "M",
+    "PLAYER_LAST_NAME": "Carpenter",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 386,
+    "PLAYER_FIRST_NAME": "Larry",
+    "PLAYER_LAST_NAME": "Notarianni",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 387,
+    "PLAYER_FIRST_NAME": "G",
+    "PLAYER_LAST_NAME": "Riedel",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 388,
+    "PLAYER_FIRST_NAME": "F",
+    "PLAYER_LAST_NAME": "Asadoorian",
+    "PLAYER_SUFFIX": "Jr",
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 389,
+    "PLAYER_FIRST_NAME": "B",
+    "PLAYER_LAST_NAME": "Schwope",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 390,
+    "PLAYER_FIRST_NAME": "Gerard",
+    "PLAYER_LAST_NAME": "Braun",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 391,
+    "PLAYER_FIRST_NAME": "B",
+    "PLAYER_LAST_NAME": "Brauer",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 392,
+    "PLAYER_FIRST_NAME": "H",
+    "PLAYER_LAST_NAME": "McCammon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 393,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Maroudis",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 394,
+    "PLAYER_FIRST_NAME": null,
+    "PLAYER_LAST_NAME": "Vranisch",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 395,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Morrell",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 396,
+    "PLAYER_FIRST_NAME": "J",
+    "PLAYER_LAST_NAME": "Berry",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 397,
+    "PLAYER_FIRST_NAME": "J",
+    "PLAYER_LAST_NAME": "Pendell",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 398,
+    "PLAYER_FIRST_NAME": "B",
+    "PLAYER_LAST_NAME": "Barnesky",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 399,
+    "PLAYER_FIRST_NAME": "Dennis",
+    "PLAYER_LAST_NAME": "Ouellette",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 400,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Gallagher",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 401,
+    "PLAYER_FIRST_NAME": "L",
+    "PLAYER_LAST_NAME": "Durham",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 402,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Molly",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 403,
+    "PLAYER_FIRST_NAME": "G",
+    "PLAYER_LAST_NAME": "Valuet",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 404,
+    "PLAYER_FIRST_NAME": "Bill",
+    "PLAYER_LAST_NAME": "Jordan",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 405,
+    "PLAYER_FIRST_NAME": "Norm",
+    "PLAYER_LAST_NAME": "Ponkey",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 406,
+    "PLAYER_FIRST_NAME": "R",
+    "PLAYER_LAST_NAME": "Gulau",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 407,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Fitzpatrick",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 408,
+    "PLAYER_FIRST_NAME": "G",
+    "PLAYER_LAST_NAME": "Kuhn",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 409,
+    "PLAYER_FIRST_NAME": "D",
+    "PLAYER_LAST_NAME": "Orlandoni",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 410,
+    "PLAYER_FIRST_NAME": "B",
+    "PLAYER_LAST_NAME": "Steffes",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 411,
+    "PLAYER_FIRST_NAME": "J",
+    "PLAYER_LAST_NAME": "Harrigan",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 412,
+    "PLAYER_FIRST_NAME": "J",
+    "PLAYER_LAST_NAME": "Caron",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 413,
+    "PLAYER_FIRST_NAME": "Don",
+    "PLAYER_LAST_NAME": "Taylor",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 414,
+    "PLAYER_FIRST_NAME": "Joe",
+    "PLAYER_LAST_NAME": "Sliwa",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 415,
+    "PLAYER_FIRST_NAME": "Bill",
+    "PLAYER_LAST_NAME": "Fairman",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 416,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Green",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 417,
+    "PLAYER_FIRST_NAME": "Frank",
+    "PLAYER_LAST_NAME": "Hand",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 418,
+    "PLAYER_FIRST_NAME": "J",
+    "PLAYER_LAST_NAME": "Mack",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 419,
+    "PLAYER_FIRST_NAME": "Ed",
+    "PLAYER_LAST_NAME": "Clancy",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 420,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Perry",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 421,
+    "PLAYER_FIRST_NAME": "George",
+    "PLAYER_LAST_NAME": "Delgrosso",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 422,
+    "PLAYER_FIRST_NAME": "Len",
+    "PLAYER_LAST_NAME": "Klecha",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 423,
+    "PLAYER_FIRST_NAME": "Matt",
+    "PLAYER_LAST_NAME": "Mulcahy",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 424,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Flynn",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 425,
+    "PLAYER_FIRST_NAME": "T",
+    "PLAYER_LAST_NAME": "Sinischo",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 427,
+    "PLAYER_FIRST_NAME": "Hank",
+    "PLAYER_LAST_NAME": "Mullholland",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 428,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Heffernan",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 429,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Biggar",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 430,
+    "PLAYER_FIRST_NAME": null,
+    "PLAYER_LAST_NAME": "Mourodis",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 431,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Olesky",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 433,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Korff",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 434,
+    "PLAYER_FIRST_NAME": "Doug",
+    "PLAYER_LAST_NAME": "Imlach",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 435,
+    "PLAYER_FIRST_NAME": "A",
+    "PLAYER_LAST_NAME": "Perkins",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 436,
+    "PLAYER_FIRST_NAME": "D",
+    "PLAYER_LAST_NAME": "Johnston",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 437,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Greig",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 438,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": null,
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 439,
+    "PLAYER_FIRST_NAME": "Chuck",
+    "PLAYER_LAST_NAME": "Wrestine",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 440,
+    "PLAYER_FIRST_NAME": "Merle",
+    "PLAYER_LAST_NAME": "Scriver",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 441,
+    "PLAYER_FIRST_NAME": "B",
+    "PLAYER_LAST_NAME": "Wiser",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 442,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Baffy",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 443,
+    "PLAYER_FIRST_NAME": "Ken",
+    "PLAYER_LAST_NAME": "Harma",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 444,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "McVicar",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 445,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "LaLonde",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 446,
+    "PLAYER_FIRST_NAME": "Mel",
+    "PLAYER_LAST_NAME": "Davis",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 447,
+    "PLAYER_FIRST_NAME": "E",
+    "PLAYER_LAST_NAME": "Rosinski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 448,
+    "PLAYER_FIRST_NAME": "B",
+    "PLAYER_LAST_NAME": "Bryant",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 449,
+    "PLAYER_FIRST_NAME": "B",
+    "PLAYER_LAST_NAME": "Pipke",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 450,
+    "PLAYER_FIRST_NAME": "Dick",
+    "PLAYER_LAST_NAME": "Holstine",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 451,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Gotko",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 452,
+    "PLAYER_FIRST_NAME": "F",
+    "PLAYER_LAST_NAME": "Kullicki",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 453,
+    "PLAYER_FIRST_NAME": "Dick",
+    "PLAYER_LAST_NAME": "Miller",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 454,
+    "PLAYER_FIRST_NAME": "Chuck",
+    "PLAYER_LAST_NAME": "Sirola",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 455,
+    "PLAYER_FIRST_NAME": "T",
+    "PLAYER_LAST_NAME": "Kunkel",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 456,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Beyer",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 457,
+    "PLAYER_FIRST_NAME": "D",
+    "PLAYER_LAST_NAME": "Super",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 458,
+    "PLAYER_FIRST_NAME": "Fred",
+    "PLAYER_LAST_NAME": "Bayoff",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 459,
+    "PLAYER_FIRST_NAME": "Joe",
+    "PLAYER_LAST_NAME": "Grom",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 460,
+    "PLAYER_FIRST_NAME": "Joe",
+    "PLAYER_LAST_NAME": "Brosky",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 461,
+    "PLAYER_FIRST_NAME": "Ron",
+    "PLAYER_LAST_NAME": "Hartmus",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 462,
+    "PLAYER_FIRST_NAME": "M",
+    "PLAYER_LAST_NAME": "Pulick",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 463,
+    "PLAYER_FIRST_NAME": "Karl",
+    "PLAYER_LAST_NAME": "Henkel",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 465,
+    "PLAYER_FIRST_NAME": "Werner",
+    "PLAYER_LAST_NAME": "Walther",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 466,
+    "PLAYER_FIRST_NAME": "J",
+    "PLAYER_LAST_NAME": "Riley",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 467,
+    "PLAYER_FIRST_NAME": "Don",
+    "PLAYER_LAST_NAME": "Devault",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 468,
+    "PLAYER_FIRST_NAME": "Joe",
+    "PLAYER_LAST_NAME": "Williams",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 469,
+    "PLAYER_FIRST_NAME": "J",
+    "PLAYER_LAST_NAME": "Schultz",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 470,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Beaufait",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 471,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Moshel",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 472,
+    "PLAYER_FIRST_NAME": "Larry",
+    "PLAYER_LAST_NAME": "West",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 473,
+    "PLAYER_FIRST_NAME": "M",
+    "PLAYER_LAST_NAME": "Ziegler",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 475,
+    "PLAYER_FIRST_NAME": "Mark",
+    "PLAYER_LAST_NAME": "Woloch",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 476,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Urick",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 477,
+    "PLAYER_FIRST_NAME": "Justin",
+    "PLAYER_LAST_NAME": "Hemme",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 478,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Krauss",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 479,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Barr",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 480,
+    "PLAYER_FIRST_NAME": "L",
+    "PLAYER_LAST_NAME": "Allen",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 481,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Tomaszewski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 482,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Truscott",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 483,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Pierce",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 484,
+    "PLAYER_FIRST_NAME": "P",
+    "PLAYER_LAST_NAME": "Schunder",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 485,
+    "PLAYER_FIRST_NAME": "D",
+    "PLAYER_LAST_NAME": "Harrington",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 486,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Lock",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 487,
+    "PLAYER_FIRST_NAME": "F",
+    "PLAYER_LAST_NAME": "Asadoorian",
+    "PLAYER_SUFFIX": "Sr",
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 488,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Asadoorian",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 489,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Chambers",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 490,
+    "PLAYER_FIRST_NAME": null,
+    "PLAYER_LAST_NAME": "Dzwonkoski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 491,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Pulley",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 492,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Morton",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 493,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Wassell",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 494,
+    "PLAYER_FIRST_NAME": "Jerry",
+    "PLAYER_LAST_NAME": "Ahmet",
+    "PLAYER_SUFFIX": "Sr",
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 495,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Down",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 496,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Murawski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 497,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Kesler",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 498,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Kuptz",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 499,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Mycek",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 500,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Broski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 501,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Klein",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 502,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Ginzinger",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 503,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Loittingville",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 504,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Porth",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 505,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Begle",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 506,
+    "PLAYER_FIRST_NAME": null,
+    "PLAYER_LAST_NAME": null,
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 507,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Vanzant",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 508,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Larson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 509,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Cheany",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 510,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Zack",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 511,
+    "PLAYER_FIRST_NAME": "Stan",
+    "PLAYER_LAST_NAME": "Nalepka",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 513,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Siller",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 514,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Mecklenber",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 515,
+    "PLAYER_FIRST_NAME": "Stan",
+    "PLAYER_LAST_NAME": "Felthaus",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 516,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Matuszak",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 517,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Kilborn",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 518,
+    "PLAYER_FIRST_NAME": "Jack",
+    "PLAYER_LAST_NAME": "Schroder",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 519,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Govan",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 520,
+    "PLAYER_FIRST_NAME": "J",
+    "PLAYER_LAST_NAME": "McDonald",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 521,
+    "PLAYER_FIRST_NAME": "Phil",
+    "PLAYER_LAST_NAME": "Beyer",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 522,
+    "PLAYER_FIRST_NAME": "Larry",
+    "PLAYER_LAST_NAME": "Tilford",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 523,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Grilly",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 524,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Gircux",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 525,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Gary",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 526,
+    "PLAYER_FIRST_NAME": "J",
+    "PLAYER_LAST_NAME": "Klecha",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 527,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Kubitsky",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 528,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Pustell",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 529,
+    "PLAYER_FIRST_NAME": "Gerald",
+    "PLAYER_LAST_NAME": "Schwartz",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 530,
+    "PLAYER_FIRST_NAME": "M. C.",
+    "PLAYER_LAST_NAME": "Smith",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 531,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Sziwa",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 532,
+    "PLAYER_FIRST_NAME": "Norm",
+    "PLAYER_LAST_NAME": "Wood",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 533,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Wilson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 534,
+    "PLAYER_FIRST_NAME": "Jerry",
+    "PLAYER_LAST_NAME": "Wallace",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 535,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Watton",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 536,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Dietz",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 537,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Sellen",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 538,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Anderson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 539,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "D'Angelo",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 540,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Johnson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 541,
+    "PLAYER_FIRST_NAME": "Gordon",
+    "PLAYER_LAST_NAME": "Friday",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 542,
+    "PLAYER_FIRST_NAME": "Len",
+    "PLAYER_LAST_NAME": "Rakowicz",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 543,
+    "PLAYER_FIRST_NAME": "Al",
+    "PLAYER_LAST_NAME": "Lemieux",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 544,
+    "PLAYER_FIRST_NAME": "Don",
+    "PLAYER_LAST_NAME": "Kenney",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 546,
+    "PLAYER_FIRST_NAME": "Chuck R.",
+    "PLAYER_LAST_NAME": "Smith",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 547,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Ruzzin",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 548,
+    "PLAYER_FIRST_NAME": "Don",
+    "PLAYER_LAST_NAME": "Byrne",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 549,
+    "PLAYER_FIRST_NAME": "Cliff",
+    "PLAYER_LAST_NAME": "Stewart",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 550,
+    "PLAYER_FIRST_NAME": "Doug",
+    "PLAYER_LAST_NAME": "Freshwater",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 551,
+    "PLAYER_FIRST_NAME": "Dick",
+    "PLAYER_LAST_NAME": "Hawkins",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 552,
+    "PLAYER_FIRST_NAME": "S",
+    "PLAYER_LAST_NAME": "Strauch",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 553,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Jenka",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 554,
+    "PLAYER_FIRST_NAME": "Roger",
+    "PLAYER_LAST_NAME": "Vanderbeusque",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 555,
+    "PLAYER_FIRST_NAME": "Doug",
+    "PLAYER_LAST_NAME": "Crilly",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 556,
+    "PLAYER_FIRST_NAME": null,
+    "PLAYER_LAST_NAME": null,
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 557,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Bradley",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 558,
+    "PLAYER_FIRST_NAME": "B",
+    "PLAYER_LAST_NAME": "Grace",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 559,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "McClure",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 560,
+    "PLAYER_FIRST_NAME": "D",
+    "PLAYER_LAST_NAME": "Green",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 561,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Walser",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 562,
+    "PLAYER_FIRST_NAME": "L",
+    "PLAYER_LAST_NAME": "Johnson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 563,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Hicks",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 564,
+    "PLAYER_FIRST_NAME": "R",
+    "PLAYER_LAST_NAME": "Green",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 565,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Kelly",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 566,
+    "PLAYER_FIRST_NAME": "E",
+    "PLAYER_LAST_NAME": "Tabor",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 567,
+    "PLAYER_FIRST_NAME": "Chuck M.",
+    "PLAYER_LAST_NAME": "Smith",
+    "PLAYER_SUFFIX": "III",
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 568,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Standish",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 569,
+    "PLAYER_FIRST_NAME": "Ralph",
+    "PLAYER_LAST_NAME": "Rochon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 570,
+    "PLAYER_FIRST_NAME": "_",
+    "PLAYER_LAST_NAME": "Deschene",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 572,
+    "PLAYER_FIRST_NAME": "Butch",
+    "PLAYER_LAST_NAME": "Green",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 573,
+    "PLAYER_FIRST_NAME": "Rob",
+    "PLAYER_LAST_NAME": "Putman",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 574,
+    "PLAYER_FIRST_NAME": "Matt",
+    "PLAYER_LAST_NAME": "Ficara",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 575,
+    "PLAYER_FIRST_NAME": "Steve",
+    "PLAYER_LAST_NAME": "Jarzembowski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 576,
+    "PLAYER_FIRST_NAME": "Richard",
+    "PLAYER_LAST_NAME": "Maiz",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 577,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Elenich",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 578,
+    "PLAYER_FIRST_NAME": "Dan",
+    "PLAYER_LAST_NAME": "Covert",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 579,
+    "PLAYER_FIRST_NAME": "Steve",
+    "PLAYER_LAST_NAME": "B",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 580,
+    "PLAYER_FIRST_NAME": "Chris",
+    "PLAYER_LAST_NAME": "Gormick",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 581,
+    "PLAYER_FIRST_NAME": "Kyle",
+    "PLAYER_LAST_NAME": "Krupsky",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 582,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "McCall",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 583,
+    "PLAYER_FIRST_NAME": "Ed",
+    "PLAYER_LAST_NAME": "Lutz",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 584,
+    "PLAYER_FIRST_NAME": "Paul",
+    "PLAYER_LAST_NAME": "Seychel",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 585,
+    "PLAYER_FIRST_NAME": "Scott",
+    "PLAYER_LAST_NAME": "Irvine",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 586,
+    "PLAYER_FIRST_NAME": "Gordon",
+    "PLAYER_LAST_NAME": "Stefanick",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 587,
+    "PLAYER_FIRST_NAME": "Craig",
+    "PLAYER_LAST_NAME": "Hunter",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 588,
+    "PLAYER_FIRST_NAME": "Damon",
+    "PLAYER_LAST_NAME": "Portwood",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 589,
+    "PLAYER_FIRST_NAME": "Sean",
+    "PLAYER_LAST_NAME": "Rush",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 590,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Gibboney",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 591,
+    "PLAYER_FIRST_NAME": "Doug",
+    "PLAYER_LAST_NAME": "Dooley",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 592,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Covert",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 593,
+    "PLAYER_FIRST_NAME": "Dan",
+    "PLAYER_LAST_NAME": "Hunt",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 594,
+    "PLAYER_FIRST_NAME": "BJ",
+    "PLAYER_LAST_NAME": "Eglinton",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 595,
+    "PLAYER_FIRST_NAME": "Fred",
+    "PLAYER_LAST_NAME": "Haas",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 596,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Hubeuschmidt",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 597,
+    "PLAYER_FIRST_NAME": "Gary",
+    "PLAYER_LAST_NAME": "Hine",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 598,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Capenka",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 599,
+    "PLAYER_FIRST_NAME": "Harry",
+    "PLAYER_LAST_NAME": "Anderson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 600,
+    "PLAYER_FIRST_NAME": "Ray",
+    "PLAYER_LAST_NAME": "Gilson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 601,
+    "PLAYER_FIRST_NAME": "Pat",
+    "PLAYER_LAST_NAME": "Bell",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 602,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Lomas",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 603,
+    "PLAYER_FIRST_NAME": "Keith",
+    "PLAYER_LAST_NAME": "Bird",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 604,
+    "PLAYER_FIRST_NAME": "Mark",
+    "PLAYER_LAST_NAME": "Radwan",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 605,
+    "PLAYER_FIRST_NAME": "Tony",
+    "PLAYER_LAST_NAME": "Soave",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 606,
+    "PLAYER_FIRST_NAME": "Tim",
+    "PLAYER_LAST_NAME": "McKindles",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 607,
+    "PLAYER_FIRST_NAME": "Dennis",
+    "PLAYER_LAST_NAME": "Sinacola",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 608,
+    "PLAYER_FIRST_NAME": "Jeff",
+    "PLAYER_LAST_NAME": "Hickson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 609,
+    "PLAYER_FIRST_NAME": "Matt",
+    "PLAYER_LAST_NAME": "Sharkey",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 610,
+    "PLAYER_FIRST_NAME": "Dennis",
+    "PLAYER_LAST_NAME": "Smith",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 611,
+    "PLAYER_FIRST_NAME": "Steve",
+    "PLAYER_LAST_NAME": "Ferrier",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 612,
+    "PLAYER_FIRST_NAME": "Greg",
+    "PLAYER_LAST_NAME": "Panaretos",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 613,
+    "PLAYER_FIRST_NAME": "Kevin",
+    "PLAYER_LAST_NAME": "Berger",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 614,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "McLean",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "-",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 615,
+    "PLAYER_FIRST_NAME": "Jack",
+    "PLAYER_LAST_NAME": "McLean",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 616,
+    "PLAYER_FIRST_NAME": "Joe",
+    "PLAYER_LAST_NAME": "Giroux",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 617,
+    "PLAYER_FIRST_NAME": "Mark",
+    "PLAYER_LAST_NAME": "Dowd",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 618,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Gambino",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 619,
+    "PLAYER_FIRST_NAME": "Brad",
+    "PLAYER_LAST_NAME": "Villa",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 620,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Szczepanik",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 621,
+    "PLAYER_FIRST_NAME": "Joseph",
+    "PLAYER_LAST_NAME": "Iannotti",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 622,
+    "PLAYER_FIRST_NAME": "J",
+    "PLAYER_LAST_NAME": "Redwood",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 623,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Palmer",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 624,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Davis",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 625,
+    "PLAYER_FIRST_NAME": "Bill",
+    "PLAYER_LAST_NAME": "Dietz",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 626,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Labadie",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 627,
+    "PLAYER_FIRST_NAME": "Bryan",
+    "PLAYER_LAST_NAME": "Trythall",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 628,
+    "PLAYER_FIRST_NAME": "Dan",
+    "PLAYER_LAST_NAME": "Shaughnessy",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 629,
+    "PLAYER_FIRST_NAME": "Joel",
+    "PLAYER_LAST_NAME": "Massa",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 630,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Carr",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 631,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Hamilton",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 632,
+    "PLAYER_FIRST_NAME": "Steve",
+    "PLAYER_LAST_NAME": "Cauzillo",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 633,
+    "PLAYER_FIRST_NAME": "Ross",
+    "PLAYER_LAST_NAME": "Beck",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 634,
+    "PLAYER_FIRST_NAME": "Tony",
+    "PLAYER_LAST_NAME": "Brosky",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 635,
+    "PLAYER_FIRST_NAME": "Justin",
+    "PLAYER_LAST_NAME": "Osman",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 636,
+    "PLAYER_FIRST_NAME": "Jeff",
+    "PLAYER_LAST_NAME": "Nabozny",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 637,
+    "PLAYER_FIRST_NAME": "Alan",
+    "PLAYER_LAST_NAME": "Buchanan",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 638,
+    "PLAYER_FIRST_NAME": "Andrew",
+    "PLAYER_LAST_NAME": "MacEachern",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 639,
+    "PLAYER_FIRST_NAME": "Ken",
+    "PLAYER_LAST_NAME": "Masiarczyk",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 640,
+    "PLAYER_FIRST_NAME": "Featherston",
+    "PLAYER_LAST_NAME": "Jeff",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 641,
+    "PLAYER_FIRST_NAME": "Featherston",
+    "PLAYER_LAST_NAME": "Jeff",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 642,
+    "PLAYER_FIRST_NAME": "Jeff",
+    "PLAYER_LAST_NAME": "Featherston",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 643,
+    "PLAYER_FIRST_NAME": "Rob",
+    "PLAYER_LAST_NAME": "Kucharski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 644,
+    "PLAYER_FIRST_NAME": "Doug",
+    "PLAYER_LAST_NAME": "Wagel",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 645,
+    "PLAYER_FIRST_NAME": "Kevin",
+    "PLAYER_LAST_NAME": "Hall",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 646,
+    "PLAYER_FIRST_NAME": "Jerry",
+    "PLAYER_LAST_NAME": "Brown",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 647,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Antczak",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 648,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Adamczyk",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 649,
+    "PLAYER_FIRST_NAME": "Dave",
+    "PLAYER_LAST_NAME": "Valdivia",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 650,
+    "PLAYER_FIRST_NAME": "Chris",
+    "PLAYER_LAST_NAME": "Ciszewski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 651,
+    "PLAYER_FIRST_NAME": "Rudy",
+    "PLAYER_LAST_NAME": "Walsh",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 652,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Iavasile",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 653,
+    "PLAYER_FIRST_NAME": "Doug",
+    "PLAYER_LAST_NAME": "Scott",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 654,
+    "PLAYER_FIRST_NAME": "Chris",
+    "PLAYER_LAST_NAME": "Garbacz",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "R"
+  },
+  {
+    "PLAYER_ID": 655,
+    "PLAYER_FIRST_NAME": "Dan",
+    "PLAYER_LAST_NAME": "Cretu",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 656,
+    "PLAYER_FIRST_NAME": "Glenn",
+    "PLAYER_LAST_NAME": "Heath",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 657,
+    "PLAYER_FIRST_NAME": "Dennis",
+    "PLAYER_LAST_NAME": "Wright",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 658,
+    "PLAYER_FIRST_NAME": "Phil",
+    "PLAYER_LAST_NAME": "Rea",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 659,
+    "PLAYER_FIRST_NAME": "Pete",
+    "PLAYER_LAST_NAME": "Soave",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 660,
+    "PLAYER_FIRST_NAME": "Pete",
+    "PLAYER_LAST_NAME": "Mazzoni",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 661,
+    "PLAYER_FIRST_NAME": "Anthony",
+    "PLAYER_LAST_NAME": "Larson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 662,
+    "PLAYER_FIRST_NAME": "Matt",
+    "PLAYER_LAST_NAME": "Spease",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 663,
+    "PLAYER_FIRST_NAME": "Gerry",
+    "PLAYER_LAST_NAME": "Folk",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 664,
+    "PLAYER_FIRST_NAME": "Randy",
+    "PLAYER_LAST_NAME": "Roulier",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 665,
+    "PLAYER_FIRST_NAME": "Brandon",
+    "PLAYER_LAST_NAME": "Martoia",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 666,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Bushong",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 667,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Popiel",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 668,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "White",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 669,
+    "PLAYER_FIRST_NAME": "Ryan",
+    "PLAYER_LAST_NAME": "Doherty",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 670,
+    "PLAYER_FIRST_NAME": "Corey",
+    "PLAYER_LAST_NAME": "Swider",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 671,
+    "PLAYER_FIRST_NAME": "Jeremy",
+    "PLAYER_LAST_NAME": "Tima",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 672,
+    "PLAYER_FIRST_NAME": "Rob",
+    "PLAYER_LAST_NAME": "Fleury",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 673,
+    "PLAYER_FIRST_NAME": "Steve",
+    "PLAYER_LAST_NAME": "Thibodeau",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 674,
+    "PLAYER_FIRST_NAME": "Bob",
+    "PLAYER_LAST_NAME": "Hickson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 675,
+    "PLAYER_FIRST_NAME": "Larry",
+    "PLAYER_LAST_NAME": "Beaudoin",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 676,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Guider Jr",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 677,
+    "PLAYER_FIRST_NAME": "Pat",
+    "PLAYER_LAST_NAME": "Gilson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 678,
+    "PLAYER_FIRST_NAME": "Mark",
+    "PLAYER_LAST_NAME": "Felker",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 679,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Gilhooly",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 680,
+    "PLAYER_FIRST_NAME": "Dominic",
+    "PLAYER_LAST_NAME": "Catanzarite",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 681,
+    "PLAYER_FIRST_NAME": "Geoff",
+    "PLAYER_LAST_NAME": "Cutsy",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 682,
+    "PLAYER_FIRST_NAME": "Scott",
+    "PLAYER_LAST_NAME": "Fassett",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 683,
+    "PLAYER_FIRST_NAME": "Ryan",
+    "PLAYER_LAST_NAME": "Strzempek",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 684,
+    "PLAYER_FIRST_NAME": "Matt",
+    "PLAYER_LAST_NAME": "Grant",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 685,
+    "PLAYER_FIRST_NAME": "Joseph",
+    "PLAYER_LAST_NAME": "Garbutt",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 686,
+    "PLAYER_FIRST_NAME": "Kris",
+    "PLAYER_LAST_NAME": "Medico",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 687,
+    "PLAYER_FIRST_NAME": "Ben",
+    "PLAYER_LAST_NAME": "Kilpatrick",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 688,
+    "PLAYER_FIRST_NAME": "Lenny",
+    "PLAYER_LAST_NAME": "Domanke",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 689,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Rothley",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 690,
+    "PLAYER_FIRST_NAME": "Eric",
+    "PLAYER_LAST_NAME": "Hudzinski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 691,
+    "PLAYER_FIRST_NAME": "Jeff",
+    "PLAYER_LAST_NAME": "hawley",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 692,
+    "PLAYER_FIRST_NAME": "Tim",
+    "PLAYER_LAST_NAME": "Pilut",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 693,
+    "PLAYER_FIRST_NAME": "Dennis",
+    "PLAYER_LAST_NAME": "Richardson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 695,
+    "PLAYER_FIRST_NAME": "Wilson",
+    "PLAYER_LAST_NAME": "Gordie",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 696,
+    "PLAYER_FIRST_NAME": "Gordie",
+    "PLAYER_LAST_NAME": "Wilson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 697,
+    "PLAYER_FIRST_NAME": "Ted",
+    "PLAYER_LAST_NAME": "Salna",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 698,
+    "PLAYER_FIRST_NAME": "Greg",
+    "PLAYER_LAST_NAME": "Glennon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 699,
+    "PLAYER_FIRST_NAME": "Louie",
+    "PLAYER_LAST_NAME": "Preston",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 700,
+    "PLAYER_FIRST_NAME": "BJ",
+    "PLAYER_LAST_NAME": "Teahan",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 701,
+    "PLAYER_FIRST_NAME": "Eric",
+    "PLAYER_LAST_NAME": "Estes",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 702,
+    "PLAYER_FIRST_NAME": "Bill",
+    "PLAYER_LAST_NAME": "Fryberger",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 703,
+    "PLAYER_FIRST_NAME": "Vince",
+    "PLAYER_LAST_NAME": "Seychel",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 704,
+    "PLAYER_FIRST_NAME": "Alan",
+    "PLAYER_LAST_NAME": "Durkacs",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 705,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Majkowski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 706,
+    "PLAYER_FIRST_NAME": "Darrell",
+    "PLAYER_LAST_NAME": "Lupu",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 707,
+    "PLAYER_FIRST_NAME": "Craig",
+    "PLAYER_LAST_NAME": "Wasen",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 708,
+    "PLAYER_FIRST_NAME": "Vince",
+    "PLAYER_LAST_NAME": "DeMassa",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 709,
+    "PLAYER_FIRST_NAME": "Steve",
+    "PLAYER_LAST_NAME": "Hovis",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 710,
+    "PLAYER_FIRST_NAME": "Howard",
+    "PLAYER_LAST_NAME": "Schoenfeldt",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 711,
+    "PLAYER_FIRST_NAME": "Ron",
+    "PLAYER_LAST_NAME": "Rorabacher",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 712,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "May",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 713,
+    "PLAYER_FIRST_NAME": "Chuck",
+    "PLAYER_LAST_NAME": "McHugh",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 714,
+    "PLAYER_FIRST_NAME": "Jim",
+    "PLAYER_LAST_NAME": "Sheridan",
+    "PLAYER_SUFFIX": "Jr",
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 715,
+    "PLAYER_FIRST_NAME": "Robert",
+    "PLAYER_LAST_NAME": "Stroble",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 716,
+    "PLAYER_FIRST_NAME": "Jason",
+    "PLAYER_LAST_NAME": "Dawes",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 717,
+    "PLAYER_FIRST_NAME": "Scott",
+    "PLAYER_LAST_NAME": "Figures",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 718,
+    "PLAYER_FIRST_NAME": "Dan",
+    "PLAYER_LAST_NAME": "Waligora",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 719,
+    "PLAYER_FIRST_NAME": "Chris",
+    "PLAYER_LAST_NAME": "Williams",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 720,
+    "PLAYER_FIRST_NAME": "Steve",
+    "PLAYER_LAST_NAME": "Johnson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 721,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Small",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 722,
+    "PLAYER_FIRST_NAME": "Pierre",
+    "PLAYER_LAST_NAME": "Sirois",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 723,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Miller",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 724,
+    "PLAYER_FIRST_NAME": "Adam",
+    "PLAYER_LAST_NAME": "Breitbach",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 725,
+    "PLAYER_FIRST_NAME": "Jeff",
+    "PLAYER_LAST_NAME": "Marion",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 726,
+    "PLAYER_FIRST_NAME": "Kevin",
+    "PLAYER_LAST_NAME": "Fulham",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 727,
+    "PLAYER_FIRST_NAME": "Brad",
+    "PLAYER_LAST_NAME": "Larsh",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 728,
+    "PLAYER_FIRST_NAME": "Michael",
+    "PLAYER_LAST_NAME": "Lada",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 729,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Morton",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 730,
+    "PLAYER_FIRST_NAME": "Nick",
+    "PLAYER_LAST_NAME": "Niemiec",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 731,
+    "PLAYER_FIRST_NAME": "Nick",
+    "PLAYER_LAST_NAME": "Niemiec",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 732,
+    "PLAYER_FIRST_NAME": null,
+    "PLAYER_LAST_NAME": null,
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 733,
+    "PLAYER_FIRST_NAME": null,
+    "PLAYER_LAST_NAME": null,
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": "L"
+  },
+  {
+    "PLAYER_ID": 734,
+    "PLAYER_FIRST_NAME": "Nathan",
+    "PLAYER_LAST_NAME": "Jakubowski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 735,
+    "PLAYER_FIRST_NAME": "Steve",
+    "PLAYER_LAST_NAME": "Cordon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 736,
+    "PLAYER_FIRST_NAME": "Keith",
+    "PLAYER_LAST_NAME": "Hay",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 737,
+    "PLAYER_FIRST_NAME": "Brian",
+    "PLAYER_LAST_NAME": "Whetstone",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 738,
+    "PLAYER_FIRST_NAME": "Zachary",
+    "PLAYER_LAST_NAME": "Nienus",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 739,
+    "PLAYER_FIRST_NAME": "Darren",
+    "PLAYER_LAST_NAME": "Mills",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 740,
+    "PLAYER_FIRST_NAME": "Sam",
+    "PLAYER_LAST_NAME": "Batshon",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Defense",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 741,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Petro",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 742,
+    "PLAYER_FIRST_NAME": "Chris",
+    "PLAYER_LAST_NAME": "McCrory",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 743,
+    "PLAYER_FIRST_NAME": "Tony",
+    "PLAYER_LAST_NAME": "Hall",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 744,
+    "PLAYER_FIRST_NAME": "Jason",
+    "PLAYER_LAST_NAME": "Newberry",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 745,
+    "PLAYER_FIRST_NAME": "Rob",
+    "PLAYER_LAST_NAME": "Comiskey",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 746,
+    "PLAYER_FIRST_NAME": "Kevin",
+    "PLAYER_LAST_NAME": "Colombo",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 747,
+    "PLAYER_FIRST_NAME": "Jason (Jay)",
+    "PLAYER_LAST_NAME": "Bruce",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 748,
+    "PLAYER_FIRST_NAME": "Mike",
+    "PLAYER_LAST_NAME": "Thompson",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 749,
+    "PLAYER_FIRST_NAME": "Jon",
+    "PLAYER_LAST_NAME": "Ameel",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 750,
+    "PLAYER_FIRST_NAME": "Pat",
+    "PLAYER_LAST_NAME": "Hoover",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 751,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Pittman",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 752,
+    "PLAYER_FIRST_NAME": "Erick",
+    "PLAYER_LAST_NAME": "Sprout",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 753,
+    "PLAYER_FIRST_NAME": "Matt",
+    "PLAYER_LAST_NAME": "Engle",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 754,
+    "PLAYER_FIRST_NAME": "Tim",
+    "PLAYER_LAST_NAME": "Flynn",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 755,
+    "PLAYER_FIRST_NAME": "Eric",
+    "PLAYER_LAST_NAME": "Schauwecker",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 756,
+    "PLAYER_FIRST_NAME": "Leo",
+    "PLAYER_LAST_NAME": "Tykoski",
+    "PLAYER_SUFFIX": "IV",
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 757,
+    "PLAYER_FIRST_NAME": "Gary",
+    "PLAYER_LAST_NAME": "Zielke",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 758,
+    "PLAYER_FIRST_NAME": "Paul",
+    "PLAYER_LAST_NAME": "Fretter",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 759,
+    "PLAYER_FIRST_NAME": "Deion",
+    "PLAYER_LAST_NAME": "Humecky",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 760,
+    "PLAYER_FIRST_NAME": "Jeff",
+    "PLAYER_LAST_NAME": "Masek",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 761,
+    "PLAYER_FIRST_NAME": "Greg",
+    "PLAYER_LAST_NAME": "Drouillard",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 762,
+    "PLAYER_FIRST_NAME": "Scott",
+    "PLAYER_LAST_NAME": "Ranta",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 763,
+    "PLAYER_FIRST_NAME": "Jeff",
+    "PLAYER_LAST_NAME": "Garvin",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 764,
+    "PLAYER_FIRST_NAME": "George",
+    "PLAYER_LAST_NAME": "Husted",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 765,
+    "PLAYER_FIRST_NAME": "Chris",
+    "PLAYER_LAST_NAME": "Niemiec",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 766,
+    "PLAYER_FIRST_NAME": "Jeff",
+    "PLAYER_LAST_NAME": "Lapointe",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Forward",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 768,
+    "PLAYER_FIRST_NAME": "Derek",
+    "PLAYER_LAST_NAME": "Grace",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 769,
+    "PLAYER_FIRST_NAME": "JP",
+    "PLAYER_LAST_NAME": "Hunt",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 770,
+    "PLAYER_FIRST_NAME": "Donny",
+    "PLAYER_LAST_NAME": "Borgula",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 771,
+    "PLAYER_FIRST_NAME": "Javan",
+    "PLAYER_LAST_NAME": "Borgula",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 772,
+    "PLAYER_FIRST_NAME": "Kerry",
+    "PLAYER_LAST_NAME": "Donahue",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 773,
+    "PLAYER_FIRST_NAME": "Jason",
+    "PLAYER_LAST_NAME": "Fournier",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 774,
+    "PLAYER_FIRST_NAME": "Al",
+    "PLAYER_LAST_NAME": "Gaskill",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 775,
+    "PLAYER_FIRST_NAME": "Tom",
+    "PLAYER_LAST_NAME": "Hardy",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 776,
+    "PLAYER_FIRST_NAME": "Adam",
+    "PLAYER_LAST_NAME": "Jakubowski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 777,
+    "PLAYER_FIRST_NAME": "Craig",
+    "PLAYER_LAST_NAME": "Justice",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 778,
+    "PLAYER_FIRST_NAME": "Henry",
+    "PLAYER_LAST_NAME": "Klimes",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 779,
+    "PLAYER_FIRST_NAME": "Chuck",
+    "PLAYER_LAST_NAME": "Light",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 780,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Lindman",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 781,
+    "PLAYER_FIRST_NAME": "Tony",
+    "PLAYER_LAST_NAME": "Maceri",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 782,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "McCracken",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 783,
+    "PLAYER_FIRST_NAME": "Todd",
+    "PLAYER_LAST_NAME": "Moilanen",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 784,
+    "PLAYER_FIRST_NAME": "Mark",
+    "PLAYER_LAST_NAME": "Nagy",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 785,
+    "PLAYER_FIRST_NAME": "Pat",
+    "PLAYER_LAST_NAME": "O'Dowd",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 786,
+    "PLAYER_FIRST_NAME": "Bill",
+    "PLAYER_LAST_NAME": "Ostulund",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 787,
+    "PLAYER_FIRST_NAME": "Louis",
+    "PLAYER_LAST_NAME": "Pivetta",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 788,
+    "PLAYER_FIRST_NAME": "Nick",
+    "PLAYER_LAST_NAME": "Reed",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 789,
+    "PLAYER_FIRST_NAME": "Glen",
+    "PLAYER_LAST_NAME": "Revak",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 790,
+    "PLAYER_FIRST_NAME": "Chris",
+    "PLAYER_LAST_NAME": "Wegienka",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 791,
+    "PLAYER_FIRST_NAME": "Erik",
+    "PLAYER_LAST_NAME": "Weiler",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "STATUS_ID": 1,
+    "STATUS_DESC": "League Member"
+  },
+  {
+    "STATUS_ID": 2,
+    "STATUS_DESC": "Invited Into League"
+  },
+  {
+    "STATUS_ID": 3,
+    "STATUS_DESC": "One Year Sub"
+  },
+  {
+    "STATUS_ID": 5,
+    "STATUS_DESC": "On Leave"
+  },
+  {
+    "STATUS_ID": 6,
+    "STATUS_DESC": "Quick Sub"
+  },
+  {
+    "STATUS_ID": 9,
+    "STATUS_DESC": "Not In League"
+  },
+  {
+    "STATUS_ID": 10,
+    "STATUS_DESC": "Retired From League"
+  },
+  {
+    "STATUS_ID": 11,
+    "STATUS_DESC": "For Historical Stats"
+  }
+]

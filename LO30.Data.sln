@@ -3,7 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LO30.Data", "Data\LO30.Data.csproj", "{8AED56FA-660F-4BB6-9837-DEA21CF73BDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LO30.Data", "LO30.Data\LO30.Data.csproj", "{8AED56FA-660F-4BB6-9837-DEA21CF73BDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LO30.Data.ContextHelper", "LO30.Data.ContextHelper\LO30.Data.ContextHelper.csproj", "{0B959B5F-5313-4178-8EC2-360B4EF331A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logs", "Logs", "{66D66FFA-EBA8-472B-854F-E49C47EFA934}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Temp\FlatFile.log = ..\..\Temp\FlatFile.log
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +22,15 @@ Global
 		{8AED56FA-660F-4BB6-9837-DEA21CF73BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AED56FA-660F-4BB6-9837-DEA21CF73BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AED56FA-660F-4BB6-9837-DEA21CF73BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B959B5F-5313-4178-8EC2-360B4EF331A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B959B5F-5313-4178-8EC2-360B4EF331A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B959B5F-5313-4178-8EC2-360B4EF331A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B959B5F-5313-4178-8EC2-360B4EF331A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Logging.6.0.1304.0\lib\NET45
 	EndGlobalSection
 EndGlobal
