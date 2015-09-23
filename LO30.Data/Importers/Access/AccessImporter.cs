@@ -17,7 +17,7 @@ namespace LO30.Data.Importers.Access
   {
     
     private AccessDatabaseService _accessDatabaseService = new AccessDatabaseService();
-    private string _folderPath = @"C:\git\LO30.Data\LO30.Data\RawData\Access\";
+    private string _folderPath = @"D:\git\LO30.Data\LO30.Data\RawData\Access\";
     DateTime _first = DateTime.Now;
     DateTime _last = DateTime.Now;
     TimeSpan _diffFromFirst = new TimeSpan();

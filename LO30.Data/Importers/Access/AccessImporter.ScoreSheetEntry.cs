@@ -18,7 +18,7 @@ namespace LO30.Data.Importers.Access
       string table = "ScoreSheetEntries";
       var iStat = new ImportStat(_logger, table);
 
-      if (_seed && _context.ScoreSheetEntries.Count() == 0)
+      if (_seed && _context.ScoreSheetEntryGoals.Count() == 0)
       {
         _logger.Write("Importing " + table);
 
@@ -45,9 +45,9 @@ namespace LO30.Data.Importers.Access
 
             DateTime updatedOn = json["UPDATED_ON"];
 
-            var scoreSheetEntry = new ScoreSheetEntry()
+            var scoreSheetEntry = new ScoreSheetEntryGoal()
             {
-              ScoreSheetEntryId = json["SCORE_SHEET_ENTRY_ID"],
+              ScoreSheetEntryGoalId = json["SCORE_SHEET_ENTRY_ID"],
               GameId = gameId,
               Period = json["PERIOD"],
               HomeTeam = homeTeam,
@@ -60,14 +60,14 @@ namespace LO30.Data.Importers.Access
               UpdatedOn = updatedOn
             };
 
-            countSaveOrUpdated = countSaveOrUpdated + _lo30ContextService.SaveOrUpdateScoreSheetEntry(scoreSheetEntry);
+            countSaveOrUpdated = countSaveOrUpdated + _lo30ContextService.SaveOrUpdateScoreSheetEntryGoal(scoreSheetEntry);
 
           }
         }
 
         iStat.Imported();
         ContextSaveChanges();
-        iStat.Saved(_context.ScoreSheetEntries.Count());
+        iStat.Saved(_context.ScoreSheetEntryGoals.Count());
       }
       else
       {

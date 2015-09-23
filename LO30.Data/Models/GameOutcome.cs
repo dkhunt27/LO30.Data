@@ -9,14 +9,11 @@ namespace LO30.Data.Models
 {
   public class GameOutcome
   {
-    [Required, Key, Column(Order = 1), ForeignKey("Season")]
-    public int SeasonId { get; set; }
-
-    [Required, Key, Column(Order = 2), ForeignKey("Team")]
-    public int TeamId { get; set; }
-
-    [Required, Key, Column(Order = 3), ForeignKey("Game")]
+    [Required, Key, Column(Order = 1)]
     public int GameId { get; set; }
+
+    [Required, Key, Column(Order = 2)]
+    public int TeamId { get; set; }
 
     [Required, MaxLength(1)]
     public string Outcome { get; set; }
@@ -36,16 +33,23 @@ namespace LO30.Data.Models
     [Required]
     public bool Override { get; set; }
 
-    [Required, ForeignKey("OpponentTeam"), Column(Order = 1)]
-    public int OpponentSeasonTeamId { get; set; }
-
-    [Required, ForeignKey("OpponentTeam"), Column(Order = 2)]
+    [Required]
     public int OpponentTeamId { get; set; }
 
+    [Required]
+    public int SeasonId { get; set; }
+
     // virtual, foreign keys
+    [ForeignKey("SeasonId")]
     public virtual Season Season { get; set; }
+
+    [ForeignKey("TeamId")]
     public virtual Team Team { get; set; }
+
+    [ForeignKey("GameId")]
     public virtual Game Game { get; set; }
+
+    [ForeignKey("OpponentTeamId")]
     public virtual Team OpponentTeam { get; set; }
 
     public GameOutcome()

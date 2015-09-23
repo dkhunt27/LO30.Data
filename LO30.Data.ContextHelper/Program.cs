@@ -53,6 +53,51 @@ namespace LO30.Data.ContextHelper
 
         // determine the current status
         var x = context.Seasons.ToList();
+
+        var scoreSheetEntryProcessor = new ScoreSheetEntryProcessor(logger, context);
+
+
+        // season 54 regular season
+        int seasonId = 54;
+        bool playoffs = false;
+        int startingGameId = 3200; // skipping first 4 games
+        int endingGameId = 3319;  
+
+        scoreSheetEntryProcessor.ProcessScoreSheetEntryGoals(startingGameId, endingGameId);
+        scoreSheetEntryProcessor.ProcessScoreSheetEntryPenalties(startingGameId, endingGameId);
+        scoreSheetEntryProcessor.ProcessScoreSheetEntrySubs(startingGameId, endingGameId);
+        scoreSheetEntryProcessor.ProcessScoreSheetEntriesIntoGameResults(startingGameId, endingGameId);
+        scoreSheetEntryProcessor.ProcessGameResultsIntoTeamStandings(seasonId, playoffs, startingGameId, endingGameId);
+        scoreSheetEntryProcessor.ProcessScoreSheetEntriesIntoPlayerStats(startingGameId, endingGameId);
+
+        // season 54 playoffs
+        seasonId = 54;
+        playoffs = true;
+        startingGameId = 3324;
+        endingGameId = 3377;
+
+        scoreSheetEntryProcessor.ProcessScoreSheetEntryGoals(startingGameId, endingGameId);
+        scoreSheetEntryProcessor.ProcessScoreSheetEntryPenalties(startingGameId, endingGameId);
+        scoreSheetEntryProcessor.ProcessScoreSheetEntrySubs(startingGameId, endingGameId);
+        scoreSheetEntryProcessor.ProcessScoreSheetEntriesIntoGameResults(startingGameId, endingGameId);
+        scoreSheetEntryProcessor.ProcessGameResultsIntoTeamStandings(seasonId, playoffs, startingGameId, endingGameId);
+        scoreSheetEntryProcessor.ProcessScoreSheetEntriesIntoPlayerStats(startingGameId, endingGameId);
+
+        // season 56
+        seasonId = 56;
+        playoffs = false;
+        startingGameId = 3402;  // skipping first 4 games
+        endingGameId = 3521; 
+
+        scoreSheetEntryProcessor.ProcessScoreSheetEntryGoals(startingGameId, endingGameId);
+        scoreSheetEntryProcessor.ProcessScoreSheetEntryPenalties(startingGameId, endingGameId);
+        scoreSheetEntryProcessor.ProcessScoreSheetEntrySubs(startingGameId, endingGameId);
+        scoreSheetEntryProcessor.ProcessScoreSheetEntriesIntoGameResults(startingGameId, endingGameId);
+        scoreSheetEntryProcessor.ProcessGameResultsIntoTeamStandings(seasonId, playoffs, startingGameId, endingGameId);
+        scoreSheetEntryProcessor.ProcessScoreSheetEntriesIntoPlayerStats(startingGameId, endingGameId);
+
+
+        scoreSheetEntryProcessor.ProcessPlayerStatsIntoWebStats();
       }
     }
   }

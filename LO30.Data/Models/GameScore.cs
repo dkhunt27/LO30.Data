@@ -9,24 +9,29 @@ namespace LO30.Data.Models
 {
   public class GameScore
   {
-    [Required, Key, Column(Order = 1), ForeignKey("Season")]
-    public int SeasonId { get; set; }
-
-    [Required, Key, Column(Order = 2), ForeignKey("Team")]
-    public int TeamId { get; set; }
-
-    [Required, Key, Column(Order = 3), ForeignKey("Game")]
+    [Required, Key, Column(Order = 1)]
     public int GameId { get; set; }
 
-    [Required, Key, Column(Order = 4)]
+    [Required, Key, Column(Order = 2)]
+    public int TeamId { get; set; }
+
+    [Required, Key, Column(Order = 3)]
     public int Period { get; set; }
 
     [Required]
     public int Score { get; set; }
 
+    [Required]
+    public int SeasonId { get; set; }
+
     // virtual, foreign keys
+    [ForeignKey("SeasonId")]
     public virtual Season Season { get; set; }
+
+    [ForeignKey("TeamId")]
     public virtual Team Team { get; set; }
+
+    [ForeignKey("GameId")]
     public virtual Game Game { get; set; }
 
     public GameScore()

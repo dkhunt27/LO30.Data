@@ -9,40 +9,6 @@ namespace LO30.Data.Models
 {
   public class PlayerStatGame
   {
-    public PlayerStatGame()
-    {
-      this.Goals = 0;
-      this.Assists = 0;
-      this.Points = 0;
-      this.PenaltyMinutes = 0;
-      this.PowerPlayGoals = 0;
-      this.ShortHandedGoals = 0;
-      this.GameWinningGoals = 0;
-
-      Validate();
-    }
-
-    public PlayerStatGame(int pid, int gid, int tid, bool pfs, int sid, int g, int a, int p, int ppg, int shg, int gwg, int pim)
-    {
-      this.PlayerId = pid;
-      this.GameId = gid;
-      this.TeamId = tid; 
-      this.Playoffs = pfs;
-      this.SeasonId = sid;
-
-      this.Goals = g;
-      this.Assists = a;
-      this.Points = p;
-
-      this.PowerPlayGoals = ppg;
-      this.ShortHandedGoals = shg;
-      this.GameWinningGoals = gwg;
-
-      this.PenaltyMinutes = pim;
-
-      Validate();
-    }
-
     [Required, Key, Column(Order = 1), ForeignKey("Season")]
     public int SeasonId { get; set; }
 
@@ -57,6 +23,12 @@ namespace LO30.Data.Models
 
     [Required, Key, Column(Order = 5), ForeignKey("Player")]
     public int PlayerId { get; set; }
+
+    [Required]
+    public int Line { get; set; }
+
+    [Required]
+    public string Position { get; set; }
 
     [Required]
     public bool Sub { get; set; }
@@ -87,6 +59,44 @@ namespace LO30.Data.Models
     public virtual Team Team { get; set; }
     public virtual Game Game { get; set; }
     public virtual Player Player { get; set; }
+
+    public PlayerStatGame()
+    {
+      this.Goals = 0;
+      this.Assists = 0;
+      this.Points = 0;
+      this.PenaltyMinutes = 0;
+      this.PowerPlayGoals = 0;
+      this.ShortHandedGoals = 0;
+      this.GameWinningGoals = 0;
+
+      Validate();
+    }
+
+    public PlayerStatGame(int pid, int gid, int tid, bool pfs, int sid, bool sub, int line, string pos, int g, int a, int p, int ppg, int shg, int gwg, int pim)
+    {
+      this.PlayerId = pid;
+      this.GameId = gid;
+      this.TeamId = tid;
+      this.Playoffs = pfs;
+      this.SeasonId = sid;
+
+      this.Line = line;
+      this.Position = pos;
+      this.Sub = sub;
+
+      this.Goals = g;
+      this.Assists = a;
+      this.Points = p;
+
+      this.PowerPlayGoals = ppg;
+      this.ShortHandedGoals = shg;
+      this.GameWinningGoals = gwg;
+
+      this.PenaltyMinutes = pim;
+
+      Validate();
+    }
 
     private void Validate()
     {

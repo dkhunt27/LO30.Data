@@ -13,9 +13,9 @@ namespace LO30.Data.Importers.Access
 {
   public partial class AccessImporter
   {
-    public ImportStat ImportSeasonS()
+    public ImportStat ImportZzzzzz()
     {
-      string table = "Seasons";
+      string table = "Zzzzz";
       var iStat = new ImportStat(_logger, table);
 
       if (_seed && _context.Seasons.Count() == 0)

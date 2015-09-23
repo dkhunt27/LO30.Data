@@ -37,8 +37,15 @@ namespace LO30.Data.Importers.Access
           int gameId = json["GAME_ID"];
 
           //if (gameId >= startingGameIdToProcess && gameId <= endingGameIdToProcess)
-          if (gameId != 3196)  // practice games
+          if (
+            gameId == 3196 || gameId == 3197 || gameId == 3198 || gameId == 3199 || 
+            gameId == 3998 || gameId == 3999 || gameId == 3400 || gameId == 3401
+            ) 
           {
+            // do nothing, practice games
+          }
+          else
+          { 
             var game = _lo30ContextService.FindGame(gameId);
             var gameDateYYYYMMDD = ConvertDateTimeIntoYYYYMMDD(game.GameDateTime, ifNullReturnMax: false);
 
@@ -85,7 +92,7 @@ namespace LO30.Data.Importers.Access
             }
             else if (homePlayerNumber == -1)
             {
-              _logger.Write(string.Format("ImportGameRosters: The homePlayerId is -1, not sure how to process. homeTeamId:{0}, homePlayerId:{1}, homeSubPlayerId:{2}, homePlayerSubInd:{3}, homePlayerNumber:{4}, gameId:{5}", homeTeamId, homePlayerId, homeSubPlayerId, homePlayerSubInd, homePlayerNumber, gameId));
+              _logger.Write(string.Format("ImportGameRosters: The homePlayerNumber is -1, not sure how to process. homeTeamId:{0}, homePlayerId:{1}, homeSubPlayerId:{2}, homePlayerSubInd:{3}, homePlayerNumber:{4}, gameId:{5}", homeTeamId, homePlayerId, homeSubPlayerId, homePlayerSubInd, homePlayerNumber, gameId));
             }
 
             // set the line and position equal to the players drafted / set line position from the team roster
@@ -180,7 +187,7 @@ namespace LO30.Data.Importers.Access
             }
             else if (awayPlayerNumber == -1)
             {
-              _logger.Write(string.Format("SaveOrUpdateGameRosters: The awayPlayerId is -1, not sure how to process. awayTeamId:{0}, awayPlayerId:{1}, awaySubPlayerId:{2}, awayPlayerSubInd:{3}, awayPlayerNumber:{4}, gameId:{5}", awayTeamId, awayPlayerId, awaySubPlayerId, awayPlayerSubInd, awayPlayerNumber, gameId));
+              _logger.Write(string.Format("SaveOrUpdateGameRosters: The awayPlayerNumber is -1, not sure how to process. awayTeamId:{0}, awayPlayerId:{1}, awaySubPlayerId:{2}, awayPlayerSubInd:{3}, awayPlayerNumber:{4}, gameId:{5}", awayTeamId, awayPlayerId, awaySubPlayerId, awayPlayerSubInd, awayPlayerNumber, gameId));
             }
 
             if (awayPlayerSubInd)

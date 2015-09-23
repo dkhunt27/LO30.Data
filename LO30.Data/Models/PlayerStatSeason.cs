@@ -9,41 +9,6 @@ namespace LO30.Data.Models
 {
   public class PlayerStatSeason
   {
-    public PlayerStatSeason()
-    {
-      this.Games = 0;
-      this.Goals = 0;
-      this.Assists = 0;
-      this.Points = 0;
-      this.PenaltyMinutes = 0;
-      this.PowerPlayGoals = 0;
-      this.ShortHandedGoals = 0;
-      this.GameWinningGoals = 0;
-
-      Validate();
-    }
-
-    public PlayerStatSeason(int pid, int sid, bool pfs, int games, int g, int a, int p, int ppg, int shg, int gwg, int pim)
-    {
-      this.PlayerId = pid;
-      this.SeasonId = sid;
-      this.Playoffs = pfs;
-
-      this.Games = games;
-
-      this.Goals = g;
-      this.Assists = a;
-      this.Points = p;
-
-      this.PowerPlayGoals = ppg;
-      this.ShortHandedGoals = shg;
-      this.GameWinningGoals = gwg;
-
-      this.PenaltyMinutes = pim;
-
-      Validate();
-    }
-
     [Required, Key, Column(Order = 1), ForeignKey("Season")]
     public int SeasonId { get; set; }
 
@@ -84,6 +49,41 @@ namespace LO30.Data.Models
     public virtual Season Season { get; set; }
     public virtual Player Player { get; set; }
 
+    public PlayerStatSeason()
+    {
+      this.Games = 0;
+      this.Goals = 0;
+      this.Assists = 0;
+      this.Points = 0;
+      this.PenaltyMinutes = 0;
+      this.PowerPlayGoals = 0;
+      this.ShortHandedGoals = 0;
+      this.GameWinningGoals = 0;
+
+      Validate();
+    }
+
+    public PlayerStatSeason(int pid, int sid, bool pfs, bool sub, int games, int g, int a, int p, int ppg, int shg, int gwg, int pim)
+    {
+      this.PlayerId = pid;
+      this.SeasonId = sid;
+      this.Playoffs = pfs;
+      this.Sub = sub;
+
+      this.Games = games;
+
+      this.Goals = g;
+      this.Assists = a;
+      this.Points = p;
+
+      this.PowerPlayGoals = ppg;
+      this.ShortHandedGoals = shg;
+      this.GameWinningGoals = gwg;
+
+      this.PenaltyMinutes = pim;
+
+      Validate();
+    }
     private void Validate()
     {
       var locationKey = string.Format("pid: {0}, sid: {1}, pfs: {2}",

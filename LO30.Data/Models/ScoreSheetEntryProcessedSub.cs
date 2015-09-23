@@ -1,17 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Diagnostics;
-using System.IO;
-using System.Linq;
-using System.Web;
 
 namespace LO30.Data.Models
 {
-  public class ScoreSheetEntrySubProcessed
+  public class ScoreSheetEntryProcessedSub
   {
-    [Required, Key, Column(Order = 1), DatabaseGenerated(System.ComponentModel.DataAnnotations.Schema.DatabaseGeneratedOption.None)]
+    [Required, Key, Column(Order = 1), DatabaseGenerated(DatabaseGeneratedOption.None)]
     public int ScoreSheetEntrySubId { get; set; }
 
     [Required, Index("PK2", 1, IsUnique = true), ForeignKey("Season")]
@@ -45,11 +40,11 @@ namespace LO30.Data.Models
     public virtual Player SubPlayer { get; set; }
     public virtual Player SubbingForPlayer { get; set; }
 
-    public ScoreSheetEntrySubProcessed()
+    public ScoreSheetEntryProcessedSub()
     {
     }
 
-    public ScoreSheetEntrySubProcessed(int ssesid, int gid, bool ht, int tid, int sid, string jer, int spid, int sfpid, DateTime upd)
+    public ScoreSheetEntryProcessedSub(int ssesid, int gid, bool ht, int tid, int sid, string jer, int spid, int sfpid, DateTime upd)
     {
       this.ScoreSheetEntrySubId = ssesid;
 

@@ -9,18 +9,6 @@ namespace LO30.Data.Models
 {
   public class PlayerStatCareer
   {
-    public PlayerStatCareer()
-    {
-      this.Games = 0;
-      this.Goals = 0;
-      this.Assists = 0;
-      this.Points = 0;
-      this.PenaltyMinutes = 0;
-      this.PowerPlayGoals = 0;
-      this.ShortHandedGoals = 0;
-      this.GameWinningGoals = 0;
-    }
-
     [Required, Key, Column(Order = 1), ForeignKey("Player")]
     public int PlayerId { get; set; }
 
@@ -53,5 +41,17 @@ namespace LO30.Data.Models
 
     // virtual, foreign keys
     public virtual Player Player { get; set; }
+
+    public PlayerStatCareer()
+    {
+      this.Games = 0;
+      this.Goals = 0;
+      this.Assists = 0;
+      this.Points = 0;
+      this.PenaltyMinutes = 0;
+      this.PowerPlayGoals = 0;
+      this.ShortHandedGoals = 0;
+      this.GameWinningGoals = 0;
+    }
   }
 }

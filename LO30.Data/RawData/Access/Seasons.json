@@ -310,6 +310,13 @@
   {
     "SEASON_ID": 54,
     "SEASON_NAME": "2014 - 2015",
+    "CURRENT_SEASON_IND": false,
+    "START_DATE": null,
+    "END_DATE": null
+  },
+  {
+    "SEASON_ID": 56,
+    "SEASON_NAME": "2015 - 2016",
     "CURRENT_SEASON_IND": true,
     "START_DATE": null,
     "END_DATE": null

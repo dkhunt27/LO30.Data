@@ -35,21 +35,22 @@ namespace LO30.Data.Contexts
 
     public DbSet<Division> Divisions { get; set; }
 
-    //public DbSet<ForWebGoalieStat> ForWebGoalieStats { get; set; }
-    //public DbSet<ForWebGoodThru> ForWebGoodThrus { get; set; }
-    //public DbSet<ForWebPlayerStat> ForWebPlayerStats { get; set; }
-    //public DbSet<ForWebTeamStanding> ForWebTeamStandings { get; set; }
+    public DbSet<ForWebGoalieStat> ForWebGoalieStats { get; set; }
+    public DbSet<ForWebGoodThru> ForWebGoodThrus { get; set; }
+    public DbSet<ForWebPlayerStat> ForWebPlayerStats { get; set; }
+    public DbSet<ForWebTeamStanding> ForWebTeamStandings { get; set; }
 
     public DbSet<Game> Games { get; set; }
-    //public DbSet<GameOutcome> GameOutcomes { get; set; }
+    public DbSet<GameOutcome> GameOutcomes { get; set; }
     public DbSet<GameRoster> GameRosters { get; set; }
-    //public DbSet<GameScore> GameScores { get; set; }
+    public DbSet<GameScore> GameScores { get; set; }
+
     public DbSet<GameTeam> GameTeams { get; set; }
 
-    //public DbSet<GoalieStatCareer> GoalieStatCareers { get; set; }
-    //public DbSet<GoalieStatGame> GoalieStatGames { get; set; }
-    //public DbSet<GoalieStatSeason> GoalieStatSeasons { get; set; }
-    //public DbSet<GoalieStatTeam> GoalieStatTeams { get; set; }
+    public DbSet<GoalieStatCareer> GoalieStatCareers { get; set; }
+    public DbSet<GoalieStatGame> GoalieStatGames { get; set; }
+    public DbSet<GoalieStatSeason> GoalieStatSeasons { get; set; }
+    public DbSet<GoalieStatTeam> GoalieStatTeams { get; set; }
 
     public DbSet<Penalty> Penalties { get; set; }
 
@@ -57,20 +58,20 @@ namespace LO30.Data.Contexts
     public DbSet<PlayerDraft> PlayerDrafts { get; set; }
     public DbSet<PlayerRating> PlayerRatings { get; set; }
 
-    //public DbSet<PlayerStatCareer> PlayerStatCareers { get; set; }
-    //public DbSet<PlayerStatGame> PlayerStatGames { get; set; }
-    //public DbSet<PlayerStatSeason> PlayerStatSeasons { get; set; }
-    //public DbSet<PlayerStatTeam> PlayerStatTeams { get; set; }
+    public DbSet<PlayerStatCareer> PlayerStatCareers { get; set; }
+    public DbSet<PlayerStatGame> PlayerStatGames { get; set; }
+    public DbSet<PlayerStatSeason> PlayerStatSeasons { get; set; }
+    public DbSet<PlayerStatTeam> PlayerStatTeams { get; set; }
 
     public DbSet<PlayerStatus> PlayerStatuses { get; set; }
     public DbSet<PlayerStatusType> PlayerStatusTypes { get; set; }
 
-    public DbSet<ScoreSheetEntry> ScoreSheetEntries { get; set; }
-    public DbSet<ScoreSheetEntryProcessed> ScoreSheetEntriesProcessed { get; set; }
+    public DbSet<ScoreSheetEntryGoal> ScoreSheetEntryGoals { get; set; }
+    public DbSet<ScoreSheetEntryProcessedGoal> ScoreSheetEntryProcessedGoals { get; set; }
     public DbSet<ScoreSheetEntryPenalty> ScoreSheetEntryPenalties { get; set; }
-    public DbSet<ScoreSheetEntryPenaltyProcessed> ScoreSheetEntryPenaltiesProcessed { get; set; }
+    public DbSet<ScoreSheetEntryProcessedPenalty> ScoreSheetEntryProcessedPenalties { get; set; }
     public DbSet<ScoreSheetEntrySub> ScoreSheetEntrySubs { get; set; }
-    public DbSet<ScoreSheetEntrySubProcessed> ScoreSheetEntrySubsProcessed { get; set; }
+    public DbSet<ScoreSheetEntryProcessedSub> ScoreSheetEntryProcessedSubs { get; set; }
 
     public DbSet<Season> Seasons { get; set; }
 

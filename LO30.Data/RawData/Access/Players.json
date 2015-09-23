@@ -4817,7 +4817,7 @@
   },
   {
     "PLAYER_ID": 638,
-    "PLAYER_FIRST_NAME": "Andrew",
+    "PLAYER_FIRST_NAME": "Andy",
     "PLAYER_LAST_NAME": "MacEachern",
     "PLAYER_SUFFIX": null,
     "PLAYER_POSITION": "Forward",
@@ -5700,7 +5700,7 @@
     "PLAYER_FIRST_NAME": "Jon",
     "PLAYER_LAST_NAME": "Ameel",
     "PLAYER_SUFFIX": null,
-    "PLAYER_POSITION": null,
+    "PLAYER_POSITION": "Forward",
     "SHOOTS": null
   },
   {
@@ -6027,6 +6027,30 @@
     "PLAYER_ID": 791,
     "PLAYER_FIRST_NAME": "Erik",
     "PLAYER_LAST_NAME": "Weiler",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 792,
+    "PLAYER_FIRST_NAME": "Jay",
+    "PLAYER_LAST_NAME": "Pawlowski",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": "Goalie",
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 793,
+    "PLAYER_FIRST_NAME": "Brandon",
+    "PLAYER_LAST_NAME": "Hoots",
+    "PLAYER_SUFFIX": null,
+    "PLAYER_POSITION": null,
+    "SHOOTS": null
+  },
+  {
+    "PLAYER_ID": 794,
+    "PLAYER_FIRST_NAME": "John",
+    "PLAYER_LAST_NAME": "Brodun",
     "PLAYER_SUFFIX": null,
     "PLAYER_POSITION": null,
     "SHOOTS": null

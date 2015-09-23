@@ -9,15 +9,15 @@ namespace LO30.Data.Models
 {
   public class TeamRoster
   {
-    [Required]
-    public int SeasonId { get; set; }
-
     [Key, Column(Order = 1)]
     public int TeamId { get; set; }
 
     [Key, Column(Order = 2)]
     public int PlayerId { get; set; }
-    
+
+    [Required]
+    public int SeasonId { get; set; }
+
     [Required]
     public int StartYYYYMMDD { get; set; }
 
@@ -110,7 +110,7 @@ namespace LO30.Data.Models
         throw new ArgumentException("PlayerNumber(" + this.PlayerNumber + ") must be a number:" + locationKey, "PlayerNumber");
       }
 
-      if (playerNumber < 0 || playerNumber > 99)
+      if (playerNumber < -1 || playerNumber > 99)
       {
         throw new ArgumentException("PlayerNumber(" + this.PlayerNumber + ") must be between 0 and 99:" + locationKey, "PlayerNumber");
       }

@@ -1,16 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Web;
 
 namespace LO30.Data.Models
 {
-  public class ScoreSheetEntry
+  public class ScoreSheetEntryGoal
   {
-    [Key, Column(Order = 1), DatabaseGenerated(System.ComponentModel.DataAnnotations.Schema.DatabaseGeneratedOption.None)]
-    public int ScoreSheetEntryId { get; set; }
+    [Key, Column(Order = 1), DatabaseGenerated(DatabaseGeneratedOption.None)]
+    public int ScoreSheetEntryGoalId { get; set; }
 
     [Required, ForeignKey("Game")]
     public int GameId { get; set; }
@@ -22,13 +19,13 @@ namespace LO30.Data.Models
     public bool HomeTeam { get; set; }
 
     [Required]
-    public int Goal { get; set; }
+    public string Goal { get; set; }
 
-    public int? Assist1 { get; set; }
+    public string Assist1 { get; set; }
 
-    public int? Assist2 { get; set; }
+    public string Assist2 { get; set; }
 
-    public int? Assist3 { get; set; }
+    public string Assist3 { get; set; }
 
     [Required, MaxLength(5)]
     public string TimeRemaining { get; set; }
@@ -36,6 +33,7 @@ namespace LO30.Data.Models
     [MaxLength(2)]
     public string ShortHandedPowerPlay { get; set; }
 
+    [Required]
     public DateTime UpdatedOn { get; set; }
 
     // virtual, foreign keys

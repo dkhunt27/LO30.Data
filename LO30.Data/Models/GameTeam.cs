@@ -9,9 +9,6 @@ namespace LO30.Data.Models
 {
   public class GameTeam
   {
-    [Required]
-    public int SeasonId { get; set; }
-
     [Required, Key, Column(Order = 1), Index("PK2", 1, IsUnique = true)]
     public int GameId { get; set; }
 
@@ -21,6 +18,8 @@ namespace LO30.Data.Models
     [Required, Index("PK2", 2, IsUnique = true)]
     public bool HomeTeam { get; set; }
 
+    [Required]
+    public int SeasonId { get; set; }
 
     // virtual, foreign keys
     [ForeignKey("SeasonId")]
@@ -29,7 +28,7 @@ namespace LO30.Data.Models
     [ForeignKey("TeamId")]
     public virtual Team Team { get; set; }
 
-    //[ForeignKey("GameId")]
+    [ForeignKey("GameId")]
     public virtual Game Game { get; set; }
 
     public GameTeam()

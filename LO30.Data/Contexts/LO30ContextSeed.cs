@@ -16,7 +16,6 @@ namespace LO30.Data.Contexts
   public class LO30ContextSeed
   {
     private LO30Context _context;
-    private AccessDatabaseService _accessDatabaseService = new AccessDatabaseService();
 
     public LO30ContextSeed(LO30Context context)
     {
@@ -31,8 +30,8 @@ namespace LO30.Data.Contexts
       aImporter.ImportPenalties();
       aImporter.ImportPlayers();
       aImporter.ImportSeasons();
-      aImporter.ImportTeams();
       aImporter.ImportDivisions();
+      aImporter.ImportTeams();
       aImporter.ImportGames();
       aImporter.ImportGameTeams();
       aImporter.ImportPlayerStatuses();

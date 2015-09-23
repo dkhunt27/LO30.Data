@@ -65,7 +65,7 @@ namespace LO30.Data.Importers.Access
 
         iStat.Imported();
         ContextSaveChanges();
-        iStat.Saved(_context.ScoreSheetEntries.Count());
+        iStat.Saved(_context.ScoreSheetEntryGoals.Count());
       }
       else
       {

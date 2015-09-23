@@ -10,11 +10,11 @@ namespace LO30.Data.Models
 {
   public class Game
   {
-    [Required]
-    public int SeasonId { get; set; }
-
     [Required, Key, Column(Order = 1), DatabaseGenerated(System.ComponentModel.DataAnnotations.Schema.DatabaseGeneratedOption.None)]
     public int GameId { get; set; }
+
+    [Required]
+    public int SeasonId { get; set; }
 
     [Required]
     public bool Playoffs { get; set; }

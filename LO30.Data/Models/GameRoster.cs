@@ -13,23 +13,20 @@ namespace LO30.Data.Models
   {
     private const int _gridDefault = 0;
 
-    [Required, Index("PK2", 1, IsUnique = true), ForeignKey("Season")]
-    public int SeasonId { get; set; }
-
-    [Required, Index("PK2", 2, IsUnique = true), ForeignKey("Team")]
-    public int TeamId { get; set; }
-
-    [Required, Index("PK2", 3, IsUnique = true), ForeignKey("Game")]
-    public int GameId { get; set; }
-
     [Required, Key]
     public int GameRosterId { get; set; }
 
-    [Required, ForeignKey("Player")]
-    public int PlayerId { get; set; }
+    [Required, Index("PK2", 1, IsUnique = true)]
+    public int GameId { get; set; }
 
-    [Required, Index("PK2", 4, IsUnique = true), MaxLength(3)]
+    [Required, Index("PK2", 2, IsUnique = true)]
+    public int TeamId { get; set; }
+
+    [Required, Index("PK2", 3, IsUnique = true), MaxLength(3)]
     public string PlayerNumber { get; set; }
+
+    [Required]
+    public int PlayerId { get; set; }
 
     [Required, MaxLength(1)]
     public string Position { get; set; }
@@ -49,14 +46,25 @@ namespace LO30.Data.Models
     [Required]
     public bool Sub { get; set; }
 
-    [ForeignKey("SubbingForPlayer")]
     public int? SubbingForPlayerId { get; set; }
 
+    [Required]
+    public int SeasonId { get; set; }
+
     // virtual, foreign keys
+    [ForeignKey("SeasonId")]
     public virtual Season Season { get; set; }
+
+    [ForeignKey("TeamId")]
     public virtual Team Team { get; set; }
+
+    [ForeignKey("GameId")]
     public virtual Game Game { get; set; }
+
+    [ForeignKey("PlayerId")]
     public virtual Player Player { get; set; }
+
+    [ForeignKey("SubbingForPlayerId")]
     public virtual Player SubbingForPlayer { get; set; }
 
     public GameRoster()

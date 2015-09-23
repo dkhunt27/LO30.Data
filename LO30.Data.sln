@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LO30.Data", "LO30.Data\LO30.Data.csproj", "{8AED56FA-660F-4BB6-9837-DEA21CF73BDF}"
 EndProject
@@ -10,6 +10,11 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logs", "Logs", "{66D66FFA-EBA8-472B-854F-E49C47EFA934}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\Temp\FlatFile.log = ..\..\Temp\FlatFile.log
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E2E53322-DEE6-47B1-A9FE-35BCF1546969}"
+	ProjectSection(SolutionItems) = preProject
+		ConnStrings.txt = ConnStrings.txt
 	EndProjectSection
 EndProject
 Global

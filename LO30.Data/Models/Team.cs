@@ -9,11 +9,11 @@ namespace LO30.Data.Models
 {
   public class Team
   {
+    [Key, Column(Order = 1), DatabaseGenerated(System.ComponentModel.DataAnnotations.Schema.DatabaseGeneratedOption.None)]
+    public int TeamId { get; set; }
+
     [Required]
     public int SeasonId { get; set; }
-
-    [Key, Column(Order = 2), DatabaseGenerated(System.ComponentModel.DataAnnotations.Schema.DatabaseGeneratedOption.None)]
-    public int TeamId { get; set; }
     
     [Required, MaxLength(5)]
     public string TeamCode { get; set; }
@@ -23,6 +23,9 @@ namespace LO30.Data.Models
 
     [Required, MaxLength(35)]
     public string TeamNameLong { get; set; }
+
+    [Required]
+    public int DivisionId { get; set; }
 
     public int? CoachId { get; set; }
 
@@ -38,17 +41,21 @@ namespace LO30.Data.Models
     [ForeignKey("SponsorId")]
     public virtual Player Sponsor { get; set; }
 
+    [ForeignKey("DivisionId")]
+    public virtual Division Division { get; set; }
+
     public Team()
     {
     }
 
-    public Team(int sid, int tid, string tc, string tns, string tnl)
+    public Team(int sid, int tid, string tc, string tns, string tnl, int did)
     {
       this.SeasonId = sid;
       this.TeamId = tid;
       this.TeamCode = tc;
       this.TeamNameShort = tns;
       this.TeamNameLong = tnl;
+      this.DivisionId = did;
 
       Validate();
     }

@@ -24,37 +24,38 @@ namespace LO30.Data.Importers.Access
 
         #region add position night teams
         var seasonIdPlaceholder = -1;
-        var team = new Team(sid: seasonIdPlaceholder, tid: -1, tc: "1TH", tns: "1st Place", tnl: "1st Place Team Placeholder");
+        var divisionIdPlaceholder = 1;
+        var team = new Team(sid: seasonIdPlaceholder, tid: -1, tc: "1TH", tns: "1st Place", tnl: "1st Place Team Placeholder", did: divisionIdPlaceholder);
         _context.Teams.Add(team);
-        team = new Team(sid: seasonIdPlaceholder, tid: -2, tc: "2TH", tns: "2nd Place", tnl: "2nd Place Team Placeholder");
+        team = new Team(sid: seasonIdPlaceholder, tid: -2, tc: "2TH", tns: "2nd Place", tnl: "2nd Place Team Placeholder", did: divisionIdPlaceholder);
         _context.Teams.Add(team);
-        team = new Team(sid: seasonIdPlaceholder, tid: -3, tc: "3TH", tns: "3rd Place", tnl: "3rd Place Team Placeholder");
+        team = new Team(sid: seasonIdPlaceholder, tid: -3, tc: "3TH", tns: "3rd Place", tnl: "3rd Place Team Placeholder", did: divisionIdPlaceholder);
         _context.Teams.Add(team);
-        team = new Team(sid: seasonIdPlaceholder, tid: -4, tc: "4TH", tns: "4th Place", tnl: "4th Place Team Placeholder");
+        team = new Team(sid: seasonIdPlaceholder, tid: -4, tc: "4TH", tns: "4th Place", tnl: "4th Place Team Placeholder", did: divisionIdPlaceholder);
         _context.Teams.Add(team);
-        team = new Team(sid: seasonIdPlaceholder, tid: -5, tc: "5TH", tns: "5th Place", tnl: "5th Place Team Placeholder");
+        team = new Team(sid: seasonIdPlaceholder, tid: -5, tc: "5TH", tns: "5th Place", tnl: "5th Place Team Placeholder", did: divisionIdPlaceholder);
         _context.Teams.Add(team);
-        team = new Team(sid: seasonIdPlaceholder, tid: -6, tc: "6TH", tns: "6th Place", tnl: "6th Place Team Placeholder");
+        team = new Team(sid: seasonIdPlaceholder, tid: -6, tc: "6TH", tns: "6th Place", tnl: "6th Place Team Placeholder", did: divisionIdPlaceholder);
         _context.Teams.Add(team);
-        team = new Team(sid: seasonIdPlaceholder, tid: -7, tc: "7TH", tns: "7th Place", tnl: "7th Place Team Placeholder");
+        team = new Team(sid: seasonIdPlaceholder, tid: -7, tc: "7TH", tns: "7th Place", tnl: "7th Place Team Placeholder", did: divisionIdPlaceholder);
         _context.Teams.Add(team);
-        team = new Team(sid: seasonIdPlaceholder, tid: -8, tc: "8TH", tns: "8th Place", tnl: "8th Place Team Placeholder");
+        team = new Team(sid: seasonIdPlaceholder, tid: -8, tc: "8TH", tns: "8th Place", tnl: "8th Place Team Placeholder", did: divisionIdPlaceholder);
         _context.Teams.Add(team);
-        team = new Team(sid: seasonIdPlaceholder, tid: -9, tc: "9TH", tns: "9th Place", tnl: "9th Place Team Placeholder");
+        team = new Team(sid: seasonIdPlaceholder, tid: -9, tc: "9TH", tns: "9th Place", tnl: "9th Place Team Placeholder", did: divisionIdPlaceholder);
         _context.Teams.Add(team);
-        team = new Team(sid: seasonIdPlaceholder, tid: -10, tc: "10TH", tns: "10th Place", tnl: "10th Place Team Placeholder");
+        team = new Team(sid: seasonIdPlaceholder, tid: -10, tc: "10TH", tns: "10th Place", tnl: "10th Place Team Placeholder", did: divisionIdPlaceholder);
         _context.Teams.Add(team);
-        team = new Team(sid: seasonIdPlaceholder, tid: -11, tc: "11TH", tns: "11th Place", tnl: "11th Place Team Placeholder");
+        team = new Team(sid: seasonIdPlaceholder, tid: -11, tc: "11TH", tns: "11th Place", tnl: "11th Place Team Placeholder", did: divisionIdPlaceholder);
         _context.Teams.Add(team);
-        team = new Team(sid: seasonIdPlaceholder, tid: -12, tc: "12TH", tns: "12th Place", tnl: "12th Place Team Placeholder");
+        team = new Team(sid: seasonIdPlaceholder, tid: -12, tc: "12TH", tns: "12th Place", tnl: "12th Place Team Placeholder", did: divisionIdPlaceholder);
         _context.Teams.Add(team);
-        team = new Team(sid: seasonIdPlaceholder, tid: -13, tc: "13TH", tns: "13th Place", tnl: "13th Place Team Placeholder");
+        team = new Team(sid: seasonIdPlaceholder, tid: -13, tc: "13TH", tns: "13th Place", tnl: "13th Place Team Placeholder", did: divisionIdPlaceholder);
         _context.Teams.Add(team);
-        team = new Team(sid: seasonIdPlaceholder, tid: -14, tc: "14TH", tns: "14th Place", tnl: "14th Place Team Placeholder");
+        team = new Team(sid: seasonIdPlaceholder, tid: -14, tc: "14TH", tns: "14th Place", tnl: "14th Place Team Placeholder", did: divisionIdPlaceholder);
         _context.Teams.Add(team);
-        team = new Team(sid: seasonIdPlaceholder, tid: -15, tc: "15TH", tns: "15th Place", tnl: "15th Place Team Placeholder");
+        team = new Team(sid: seasonIdPlaceholder, tid: -15, tc: "15TH", tns: "15th Place", tnl: "15th Place Team Placeholder", did: divisionIdPlaceholder);
         _context.Teams.Add(team);
-        team = new Team(sid: seasonIdPlaceholder, tid: -16, tc: "16TH", tns: "16th Place", tnl: "16th Place Team Placeholder");
+        team = new Team(sid: seasonIdPlaceholder, tid: -16, tc: "16TH", tns: "16th Place", tnl: "16th Place Team Placeholder", did: divisionIdPlaceholder);
         _context.Teams.Add(team);
         #endregion
 
@@ -74,7 +75,7 @@ namespace LO30.Data.Importers.Access
             teamCode = teamCode.Substring(0, 5);
           }
 
-          team = new Team(sid: Convert.ToInt32(json["SEASON_ID"]), tid: Convert.ToInt32(json["TEAM_ID"]), tc: teamCode, tns: json["TEAM_SHORT_NAME"].ToString(), tnl: json["TEAM_LONG_NAME"].ToString());
+          team = new Team(sid: Convert.ToInt32(json["SEASON_ID"]), tid: Convert.ToInt32(json["TEAM_ID"]), tc: teamCode, tns: json["TEAM_SHORT_NAME"].ToString(), tnl: json["TEAM_LONG_NAME"].ToString(), did: divisionIdPlaceholder);
           _context.Teams.Add(team);
         }
 

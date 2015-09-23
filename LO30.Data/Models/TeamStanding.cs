@@ -9,14 +9,17 @@ namespace LO30.Data.Models
 {
   public class TeamStanding
   {
-    [Required]
-    public int SeasonId { get; set; }
-
     [Key, Column(Order = 1)]
     public int TeamId { get; set; }
 
     [Key, Column(Order = 2)]
     public bool Playoffs { get; set; }
+
+    [Required]
+    public int SeasonId { get; set; }
+
+    [Required]
+    public int DivisionId { get; set; }
 
     [Required]
     public int Rank { get; set; }
@@ -45,12 +48,18 @@ namespace LO30.Data.Models
     [Required]
     public int PenaltyMinutes { get; set; }
 
+    [Required]
+    public int Subs { get; set; }
+
     // virtual, foreign keys
     [ForeignKey("SeasonId")]
     public virtual Season Season { get; set; }
 
     [ForeignKey("TeamId")]
     public virtual Team Team { get; set; }
+
+    [ForeignKey("DivisionId")]
+    public virtual Division Division { get; set; }
 
     public TeamStanding()
     {
@@ -62,6 +71,7 @@ namespace LO30.Data.Models
       this.GoalsFor = 0;
       this.GoalsAgainst = 0;
       this.PenaltyMinutes = 0;
+      this.Subs = 0;
     }
   }
 }

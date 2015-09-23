@@ -1,7 +1,4 @@
-Web.config
-Web.Debug.config
-Web.Release.config
-App.config
+ConnStrings.txt
 
 
 ## Ignore Visual Studio temporary files, build results, and
