@@ -57,7 +57,7 @@ namespace LO30.Data.Contexts
 
       foreach (var viewFileName in viewFileNameList)
       {
-        var viewFullFilePath = @"D:\git\LO30.v3\LO30.Common\SQL\Views";
+        var viewFullFilePath = @"D:\git\LO30.v3\LO30.Common\SqlAssets\Views";
         viewFullFilePath = Path.Combine(viewFullFilePath, viewFileName);
         string viewSql = File.ReadAllText(viewFullFilePath);
         using (SqlConnection connection = new SqlConnection(connString))
@@ -93,7 +93,7 @@ namespace LO30.Data.Contexts
 
       foreach (var spFileName in spFileNameList)
       {
-        var spFullFilePath = @"D:\git\LO30.v3\LO30.Common\SQL\StoredProcedures";
+        var spFullFilePath = @"D:\git\LO30.v3\LO30.Common\SqlAssets\StoredProcedures";
         spFullFilePath = Path.Combine(spFullFilePath, spFileName);
         string viewSql = File.ReadAllText(spFullFilePath);
         using (SqlConnection connection = new SqlConnection(connString))
