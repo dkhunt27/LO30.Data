@@ -9,20 +9,20 @@ namespace LO30.Data.Models
 {
   public class GoalieStatGame
   {
-    [Required, Key, Column(Order = 1), ForeignKey("Season")]
-    public int SeasonId { get; set; }
+    [Required, Key, Column(Order = 1), ForeignKey("Player")]
+    public int PlayerId { get; set; }
 
-    [Required, Key, Column(Order = 2), ForeignKey("Team")]
-    public int TeamId { get; set; }
-
-    [Required, Key, Column(Order = 3), ForeignKey("Game")]
+    [Required, Key, Column(Order = 2), ForeignKey("Game")]
     public int GameId { get; set; }
 
-    [Required, Key, Column(Order = 4)]
+    [Required, ForeignKey("Team")]
+    public int TeamId { get; set; }
+
+    [Required]
     public bool Playoffs { get; set; }
 
-    [Required, Key, Column(Order = 5), ForeignKey("Player")]
-    public int PlayerId { get; set; }
+    [Required, ForeignKey("Season")]
+    public int SeasonId { get; set; }
 
     [Required]
     public bool Sub { get; set; }

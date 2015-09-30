@@ -9,11 +9,14 @@ namespace LO30.Data.Models
 {
   public class GameOutcome
   {
-    [Required, Key, Column(Order = 1)]
+    [Required, Key, Column(Order = 1), Index("PK2", 1, IsUnique = true)]
     public int GameId { get; set; }
 
     [Required, Key, Column(Order = 2)]
     public int TeamId { get; set; }
+
+    [Required, Index("PK2", 2, IsUnique = true)]
+    public bool HomeTeam { get; set; }
 
     [Required, MaxLength(1)]
     public string Outcome { get; set; }
@@ -31,7 +34,7 @@ namespace LO30.Data.Models
     public int Subs { get; set; }
 
     [Required]
-    public bool Override { get; set; }
+    public bool Overriden { get; set; }
 
     [Required]
     public int OpponentTeamId { get; set; }
@@ -66,7 +69,7 @@ namespace LO30.Data.Models
       this.GoalsFor = gf;
       this.GoalsAgainst = ga;
       this.PenaltyMinutes = pim;
-      this.Override = over;
+      this.Overriden = over;
       this.OpponentTeamId = otid;
       this.Subs = subs;
 
@@ -100,17 +103,17 @@ namespace LO30.Data.Models
         throw new ArgumentException("Outcome (" + this.Outcome + ") must be 'W','L', or 'T' for:" + locationKey, "Outcome");
       }
 
-      if (this.Override == false && this.GoalsFor > this.GoalsAgainst && this.Outcome != "W")
+      if (this.Overriden == false && this.GoalsFor > this.GoalsAgainst && this.Outcome != "W")
       {
         throw new ArgumentException("Outcome (" + this.Outcome + ") must be a 'W' if GoalsFor > GoalsAgainst without an override for:" + locationKey, "Outcome");
       }
 
-      if (this.Override == false && this.GoalsAgainst > this.GoalsFor && this.Outcome != "L")
+      if (this.Overriden == false && this.GoalsAgainst > this.GoalsFor && this.Outcome != "L")
       {
         throw new ArgumentException("Outcome (" + this.Outcome + ") must be a 'L' if GoalsAgainst > GoalsFor without an override for:" + locationKey, "Outcome");
       }
 
-      if (this.Override == false && this.GoalsFor == this.GoalsAgainst && this.Outcome != "T")
+      if (this.Overriden == false && this.GoalsFor == this.GoalsAgainst && this.Outcome != "T")
       {
         throw new ArgumentException("Outcome (" + this.Outcome + ") must be a 'T' if GoalsFor = GoalsAgainst without an override for:" + locationKey, "Outcome");
       }

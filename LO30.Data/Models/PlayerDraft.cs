@@ -21,7 +21,7 @@ namespace LO30.Data.Models
     [Required]
     public int Order { get; set; }
 
-    [Required]
+    [Required, MaxLength(1)]
     public string Position { get; set; }
 
     [Required]

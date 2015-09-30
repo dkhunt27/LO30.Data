@@ -22,7 +22,7 @@ namespace LO30.Data.Models
     public int DivisionId { get; set; }
 
     [Required]
-    public int Rank { get; set; }
+    public int Ranking { get; set; }
 
     [Required]
     public int Games { get; set; }

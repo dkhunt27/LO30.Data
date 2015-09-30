@@ -22,7 +22,7 @@ namespace LO30.Data.Importers.Access
       {
         _logger.Write("Importing " + table);
 
-        dynamic parsedJson = _accessDatabaseService.ParseObjectFromJsonFile(_folderPath + "Games.json");
+        dynamic parsedJson = _jsonFileService.ParseObjectFromJsonFile(_folderPath + "Games.json");
         int count = parsedJson.Count;
 
         _logger.Write("SaveOrUpdateGames:Access records to process:" + count);

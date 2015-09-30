@@ -16,16 +16,16 @@ namespace LO30.Data.Models
     [Required, Key]
     public int GameRosterId { get; set; }
 
-    [Required, Index("PK2", 1, IsUnique = true)]
+    [Required, Index("PK2", 1, IsUnique = true), Index("PK3", 1, IsUnique = true)]
     public int GameId { get; set; }
 
-    [Required, Index("PK2", 2, IsUnique = true)]
+    [Required, Index("PK2", 2, IsUnique = true), Index("PK3", 2, IsUnique = true)]
     public int TeamId { get; set; }
 
     [Required, Index("PK2", 3, IsUnique = true), MaxLength(3)]
     public string PlayerNumber { get; set; }
 
-    [Required]
+    [Required, Index("PK3", 3, IsUnique = true)]
     public int PlayerId { get; set; }
 
     [Required, MaxLength(1)]

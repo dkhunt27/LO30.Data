@@ -16,8 +16,8 @@ namespace LO30.Data.Importers.Access
   public partial class AccessImporter
   {
     
-    private AccessDatabaseService _accessDatabaseService = new AccessDatabaseService();
-    private string _folderPath = @"D:\git\LO30.Data\LO30.Data\RawData\Access\";
+    private JsonFileService _jsonFileService = new JsonFileService();
+    private string _folderPath = @"D:\git\LO30.v3\LO30.Common\RawData\Access\";
     DateTime _first = DateTime.Now;
     DateTime _last = DateTime.Now;
     TimeSpan _diffFromFirst = new TimeSpan();

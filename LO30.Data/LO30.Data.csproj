@@ -112,6 +112,7 @@
     <Compile Include="Contexts\LO30ContextSeed.cs" />
     <Compile Include="Contexts\LO30ContextSeedInitializer.cs" />
     <Compile Include="Contexts\LO30MigrationsConfiguration.cs" />
+    <Compile Include="Models\ProcessingResultGame.cs" />
     <Compile Include="Models\ScoreSheetEntryEvent.cs" />
     <Compile Include="Models\ScoreSheetEntryGoalType.cs" />
     <Compile Include="Models\GameTeam.cs" />
@@ -171,6 +172,7 @@
     <Compile Include="Models\Team.cs" />
     <Compile Include="Models\TeamRoster.cs" />
     <Compile Include="Models\TeamStanding.cs" />
+    <Compile Include="Services\JsonFileService.cs" />
     <Compile Include="Services\LO30ContextService.cs" />
     <Compile Include="Services\LoggerService.cs" />
     <Compile Include="Services\AccessDatabaseService.cs" />
@@ -178,27 +180,10 @@
     <Compile Include="Services\TimeService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
-    <None Include="AppTemplate.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
-    <None Include="RawData\Access\FactPlayerStats.json" />
-    <None Include="RawData\Access\FactSubPlayerStats.json" />
-    <None Include="RawData\Access\FactTeamStats.json" />
-    <None Include="RawData\Access\GameRosters.json" />
-    <None Include="RawData\Access\Games.json" />
-    <None Include="RawData\Access\Penalties.json" />
-    <None Include="RawData\Access\PenaltyDetails.json" />
-    <None Include="RawData\Access\PlayerRatings.json" />
-    <None Include="RawData\Access\Players.json" />
-    <None Include="RawData\Access\PlayerStatuses.json" />
-    <None Include="RawData\Access\ScoreSheetEntries.json" />
-    <None Include="RawData\Access\ScoreSheetEntryPenalties.json" />
-    <None Include="RawData\Access\ScoreSheetEntrySubs.json" />
-    <None Include="RawData\Access\ScoringDetails.json" />
-    <None Include="RawData\Access\Seasons.json" />
-    <None Include="RawData\Access\Statuses.json" />
-    <None Include="RawData\Access\TeamRosters.json" />
-    <None Include="RawData\Access\Teams.json" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

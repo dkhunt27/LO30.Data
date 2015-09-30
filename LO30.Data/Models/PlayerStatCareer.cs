@@ -39,6 +39,9 @@ namespace LO30.Data.Models
     [Required]
     public int GameWinningGoals { get; set; }
 
+    [Required]
+    public DateTime UpdatedOn { get; set; }
+
     // virtual, foreign keys
     public virtual Player Player { get; set; }
 

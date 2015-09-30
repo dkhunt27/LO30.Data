@@ -25,7 +25,7 @@ namespace LO30.Data.Importers.Access
         var division = new Division(did: 0, dln: "No Division", dsn: "n/a");
         int saveOrUpdatedCount = +_lo30ContextService.SaveOrUpdateDivision(division);
 
-        dynamic parsedJson = _accessDatabaseService.ParseObjectFromJsonFile(_folderPath + "Teams.json");
+        dynamic parsedJson = _jsonFileService.ParseObjectFromJsonFile(_folderPath + "Teams.json");
         int count = parsedJson.Count;
 
         _logger.Write("Access records to process:" + count);

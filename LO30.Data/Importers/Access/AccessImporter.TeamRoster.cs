@@ -22,7 +22,7 @@ namespace LO30.Data.Importers.Access
       {
         _logger.Write("Importing " + table);
 
-        dynamic parsedJson = _accessDatabaseService.ParseObjectFromJsonFile(_folderPath + "TeamRosters.json");
+        dynamic parsedJson = _jsonFileService.ParseObjectFromJsonFile(_folderPath + "TeamRosters.json");
         int count = parsedJson.Count;
 
         _logger.Write("SaveOrUpdateTeamRosters: Access records to process:" + count);
@@ -144,7 +144,7 @@ namespace LO30.Data.Importers.Access
             if (
                   seasonId == 54 && playoff == true &&
                   (
-                    playerId == 763 || playerId == 64 || playerId == 594 ||
+                    playerId == 762 || playerId == 64 || playerId == 594 ||
                     playerId == 33 ||
                     playerId == 178 || playerId == 674 ||
                     playerId == 581 ||
@@ -153,7 +153,7 @@ namespace LO30.Data.Importers.Access
                   )
               )
             {
-              // 763 Scott Ranta, 64 Mark Ranta, 594 BJ to LAB
+              // 762 Scott Ranta, 64 Mark Ranta, 594 BJ to LAB
               // 33 Todd Keller to Zas Ent
               // 178 Ken Grant, 674 Bob Hickson (708 Vince DeMassa...from regular season) to Bill Brown
               // 581 Kyle Krupsky (710 Howard Schoenfeldt...from regular season) to D&G

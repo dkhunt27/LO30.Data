@@ -9,8 +9,8 @@ namespace LO30.Data.Models
 {
   public class PlayerStatTeam
   {
-    [Required, Key, Column(Order = 1), ForeignKey("Season")]
-    public int SeasonId { get; set; }
+    [Required, Key, Column(Order = 1), ForeignKey("Player")]
+    public int PlayerId { get; set; }
 
     [Required, Key, Column(Order = 2), ForeignKey("Team")]
     public int TeamId { get; set; }
@@ -18,16 +18,16 @@ namespace LO30.Data.Models
     [Required, Key, Column(Order = 3)]
     public bool Playoffs { get; set; }
 
-    [Required, Key, Column(Order = 4), ForeignKey("Player")]
-    public int PlayerId { get; set; }
-    
-    [Required]
+    [Required, Key, Column(Order = 4)]
     public bool Sub { get; set; }
+
+    [Required, ForeignKey("Season")]
+    public int SeasonId { get; set; }
 
     [Required]
     public int Line { get; set; }
 
-    [Required]
+    [Required, MaxLength(1)]
     public string Position { get; set; }
 
     [Required]

@@ -18,11 +18,11 @@ namespace LO30.Data.Importers.Access
       string table = "GameRosters";
       var iStat = new ImportStat(_logger, table);
 
-      if (_seed && _context.GameRosters.Count() == 0)
+      /*if (_seed && _context.GameRosters.Count() == 0)
       {
         _logger.Write("Importing " + table);
 
-        dynamic parsedJsonGR = _accessDatabaseService.ParseObjectFromJsonFile(_folderPath + "GameRosters.json");
+        dynamic parsedJsonGR = _jsonFileService.ParseObjectFromJsonFile(_folderPath + "GameRosters.json");
         int countGR = parsedJsonGR.Count;
         int countSaveOrUpdated = 0;
 
@@ -196,7 +196,7 @@ namespace LO30.Data.Importers.Access
               subbingForPlayerId = awayPlayerId;
             }
             else
-            {
+            { 
               playerId = awayPlayerId;
               subbingForPlayerId = null;
             }
@@ -250,7 +250,7 @@ namespace LO30.Data.Importers.Access
         _logger.Write(table + " records exist in context; not importing");
         iStat.Imported();
         iStat.Saved(0);
-      }
+      }*/
 
       iStat.Log();
 

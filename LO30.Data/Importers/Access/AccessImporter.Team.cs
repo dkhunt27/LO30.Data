@@ -59,7 +59,7 @@ namespace LO30.Data.Importers.Access
         _context.Teams.Add(team);
         #endregion
 
-        dynamic parsedJson = _accessDatabaseService.ParseObjectFromJsonFile(_folderPath + "Teams.json");
+        dynamic parsedJson = _jsonFileService.ParseObjectFromJsonFile(_folderPath + "Teams.json");
         int count = parsedJson.Count;
 
         _logger.Write("Access records to process:" + count);

@@ -27,32 +27,13 @@ namespace LO30.Data.Services
     private string _folderPath;
     private string _connString;
     private string _connStringSSE;
+    private JsonFileService _jsonFileService = new JsonFileService();
 
     public AccessDatabaseService()
     {
       _connString = System.Configuration.ConfigurationManager.ConnectionStrings["LO30AccessDB"].ConnectionString;
       _connStringSSE = System.Configuration.ConfigurationManager.ConnectionStrings["LO30AccessDBSSE"].ConnectionString;
       _folderPath = @"D:\git\LO30\LO30\App_Data\Access\";
-    }
-
-    public void SaveObjToJsonFile(dynamic obj, string destPath)
-    {
-      var output = JsonConvert.SerializeObject(obj, Formatting.Indented);
-
-      StringBuilder sb = new StringBuilder();
-      sb.Append(output);
-
-      using (StreamWriter outfile = new StreamWriter(destPath))
-      {
-        outfile.Write(sb.ToString());
-      }
-    }
-
-    public dynamic ParseObjectFromJsonFile(string srcPath)
-    {
-      string contents = File.ReadAllText(srcPath);
-      dynamic parsedJson = JsonConvert.DeserializeObject(contents);
-      return parsedJson;
     }
 
     public void ProcessAccessTableToJsonFile(string connString, string queryBegin, string queryEnd, string table, string file)
@@ -71,7 +52,7 @@ namespace LO30.Data.Services
 
       //result.toProcess = tbl.Rows.Count;
 
-      SaveObjToJsonFile(tbl, _folderPath + file + ".json");
+      _jsonFileService.SaveObjToJsonFile(tbl, _folderPath + file + ".json");
 
       //result.modified = tbl.Rows.Count;
 

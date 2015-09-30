@@ -19,6 +19,9 @@ namespace LO30.Data.Models
     public bool HomeTeam { get; set; }
 
     [Required]
+    public int OpponentTeamId { get; set; }
+
+    [Required]
     public int SeasonId { get; set; }
 
     // virtual, foreign keys
@@ -31,16 +34,20 @@ namespace LO30.Data.Models
     [ForeignKey("GameId")]
     public virtual Game Game { get; set; }
 
+    [ForeignKey("OpponentTeamId")]
+    public virtual Team OpponentTeam { get; set; }
+
     public GameTeam()
     {
     }
 
-    public GameTeam(int sid, int gid, int tid, bool ht)
+    public GameTeam(int sid, int gid, int tid, bool ht, int otid)
     {
       this.SeasonId = sid;
       this.GameId = gid;
       this.TeamId = tid;
       this.HomeTeam = ht;
+      this.OpponentTeamId = otid;
 
       Validate();
     }

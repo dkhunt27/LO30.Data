@@ -9,29 +9,29 @@ namespace LO30.Data.Models
 {
   public class PlayerStatGame
   {
-    [Required, Key, Column(Order = 1), ForeignKey("Season")]
-    public int SeasonId { get; set; }
+    [Required, Key, Column(Order = 1), ForeignKey("Player")]
+    public int PlayerId { get; set; }
 
-    [Required, Key, Column(Order = 2), ForeignKey("Team")]
-    public int TeamId { get; set; }
-
-    [Required, Key, Column(Order = 3), ForeignKey("Game")]
+    [Required, Key, Column(Order = 2), ForeignKey("Game")]
     public int GameId { get; set; }
 
-    [Required, Key, Column(Order = 4)]
+    [Required, ForeignKey("Team")]
+    public int TeamId { get; set; }
+
+    [Required]
     public bool Playoffs { get; set; }
 
-    [Required, Key, Column(Order = 5), ForeignKey("Player")]
-    public int PlayerId { get; set; }
+    [Required, ForeignKey("Season")]
+    public int SeasonId { get; set; }
+
+    [Required]
+    public bool Sub { get; set; }
 
     [Required]
     public int Line { get; set; }
 
-    [Required]
+    [Required, MaxLength(1)]
     public string Position { get; set; }
-
-    [Required]
-    public bool Sub { get; set; }
 
     [Required]
     public int Goals { get; set; }
@@ -53,6 +53,9 @@ namespace LO30.Data.Models
 
     [Required]
     public int GameWinningGoals { get; set; }
+
+    [Required]
+    public DateTime UpdatedOn { get; set; }
 
     // virtual, foreign keys
     public virtual Season Season { get; set; }

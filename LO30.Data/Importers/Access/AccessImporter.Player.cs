@@ -37,7 +37,7 @@ namespace LO30.Data.Importers.Access
 
         _lo30ContextService.SaveOrUpdatePlayer(player);
 
-        dynamic parsedJson = _accessDatabaseService.ParseObjectFromJsonFile(_folderPath + "Players.json");
+        dynamic parsedJson = _jsonFileService.ParseObjectFromJsonFile(_folderPath + "Players.json");
         int count = parsedJson.Count;
         int countSaveOrUpdated = 0;
 

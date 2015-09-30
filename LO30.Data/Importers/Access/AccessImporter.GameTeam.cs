@@ -22,7 +22,7 @@ namespace LO30.Data.Importers.Access
             {
                 _logger.Write("Importing " + table);
 
-                dynamic parsedJson = _accessDatabaseService.ParseObjectFromJsonFile(_folderPath + "Games.json");
+                dynamic parsedJson = _jsonFileService.ParseObjectFromJsonFile(_folderPath + "Games.json");
                 int count = parsedJson.Count;
 
                 _logger.Write("ImportGameTeams: Access records to process:" + count);
@@ -48,10 +48,10 @@ namespace LO30.Data.Importers.Access
                     //_lo30ContextService.FindTeam(homeTeamId, errorIfNotFound: true, errorIfMoreThanOneFound: true, populateFully: false);
                     //_lo30ContextService.FindTeam(awayTeamId, errorIfNotFound: true, errorIfMoreThanOneFound: true, populateFully: false);
 
-                    var gameTeam = new GameTeam(sid: seasonId, gid: gameId, ht: true, tid: homeTeamId);
+                    var gameTeam = new GameTeam(sid: seasonId, gid: gameId, ht: true, tid: homeTeamId, otid: awayTeamId);
                     countSaveOrUpdated = countSaveOrUpdated + _lo30ContextService.SaveOrUpdateGameTeam(gameTeam);
 
-                    gameTeam = new GameTeam(sid: seasonId, gid: gameId, ht: false, tid: awayTeamId);
+                    gameTeam = new GameTeam(sid: seasonId, gid: gameId, ht: false, tid: awayTeamId, otid: homeTeamId);
 
                     countSaveOrUpdated = countSaveOrUpdated + _lo30ContextService.SaveOrUpdateGameTeam(gameTeam);
                 }

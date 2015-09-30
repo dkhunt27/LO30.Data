@@ -29,7 +29,7 @@ namespace LO30.Data.Importers.Access
         #endregion
 
 
-        dynamic parsedJson = _accessDatabaseService.ParseObjectFromJsonFile(_folderPath + "Seasons.json");
+        dynamic parsedJson = _jsonFileService.ParseObjectFromJsonFile(_folderPath + "Seasons.json");
         int count = parsedJson.Count;
 
         _logger.Write("Access records to process:" + count);
@@ -58,6 +58,10 @@ namespace LO30.Data.Importers.Access
           {
             startDate = new DateTime(2014, 9, 4);
             endDate = new DateTime(2015, 3, 29);
+          } else if (seasonId == 56)
+          {
+            startDate = new DateTime(2015, 9, 10);
+            endDate = new DateTime(2016, 3, 27);
           }
 
           season = new Season(sid: seasonId, sn: json["SEASON_NAME"].ToString(), ics: Convert.ToBoolean(json["CURRENT_SEASON_IND"]), stymd: ConvertDateTimeIntoYYYYMMDD(startDate, ifNullReturnMax: false), endymd: ConvertDateTimeIntoYYYYMMDD(endDate, ifNullReturnMax: true));
