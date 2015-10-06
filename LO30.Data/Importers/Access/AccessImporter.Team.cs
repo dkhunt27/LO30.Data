@@ -75,7 +75,17 @@ namespace LO30.Data.Importers.Access
             teamCode = teamCode.Substring(0, 5);
           }
 
-          team = new Team(sid: Convert.ToInt32(json["SEASON_ID"]), tid: Convert.ToInt32(json["TEAM_ID"]), tc: teamCode, tns: json["TEAM_SHORT_NAME"].ToString(), tnl: json["TEAM_LONG_NAME"].ToString(), did: divisionIdPlaceholder);
+          string divisionName = json["TEAM_DIVISION_NAME"].ToString();
+
+          var division = _context.Divisions.Where(x => x.DivisionLongName == divisionName).FirstOrDefault();
+
+          int divisionId = divisionIdPlaceholder;
+          if (division != null)
+          {
+            divisionId = division.DivisionId;
+          }
+
+          team = new Team(sid: Convert.ToInt32(json["SEASON_ID"]), tid: Convert.ToInt32(json["TEAM_ID"]), tc: teamCode, tns: json["TEAM_SHORT_NAME"].ToString(), tnl: json["TEAM_LONG_NAME"].ToString(), did: divisionId);
           _context.Teams.Add(team);
         }
 

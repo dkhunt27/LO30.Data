@@ -12,6 +12,7 @@ namespace LO30.Data.Models
     [Required, Key, Column(Order = 1)]
     public int ID { get; set; }
 
+    [Required, MaxLength(25)]
     public string GT { get; set; }
   }
 }

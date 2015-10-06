@@ -22,7 +22,7 @@ namespace LO30.Data.Models
     public string Div { get; set; }
 
     [Required]
-    public int Rank { get; set; }
+    public int Ranking { get; set; }
 
     [Required, MaxLength(35)]
     public string Team { get; set; }

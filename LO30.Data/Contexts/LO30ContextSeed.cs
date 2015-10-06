@@ -52,7 +52,16 @@ namespace LO30.Data.Contexts
           "GameRostersView.sql",
           "GamesView.sql",
           "GameTeamsView.sql",
-          "TeamRostersView.sql"
+          "GoalieStatCareersView.sql",
+          "GoalieStatGamesView.sql",
+          "GoalieStatSeasonsView.sql",
+          "GoalieStatTeamsView.sql",
+          "PlayerStatCareersView.sql",
+          "PlayerStatGamesView.sql",
+          "PlayerStatSeasonsView.sql",
+          "PlayerStatTeamsView.sql",
+          "TeamRostersView.sql",
+          "TeamStandingsView.sql"
         };
 
       foreach (var viewFileName in viewFileNameList)
@@ -78,9 +87,16 @@ namespace LO30.Data.Contexts
 
       #region create sql stored procs
       var spFileNameList = new List<string>(){
+          "DeriveForWebGoalieStats.sql",
+          "DeriveForWebPlayerStats.sql",
+          "DeriveForWebTeamStandings.sql",
           "DeriveGameOutcomes.sql",
           "DeriveGameRosters.sql",
           "DeriveGameScores.sql",
+          "DeriveGoalieStatsCareer.sql",
+          "DeriveGoalieStatsGame.sql",
+          "DeriveGoalieStatsSeason.sql",
+          "DeriveGoalieStatsTeam.sql",
           "DerivePlayerStatsCareer.sql",
           "DerivePlayerStatsGame.sql",
           "DerivePlayerStatsSeason.sql",
@@ -100,7 +116,7 @@ namespace LO30.Data.Contexts
         {
           // first drop the view
           var viewName = "dbo." + spFileName.Replace(".sql", "");
-          var dropSql = "IF OBJECT_ID('" + viewName + "', 'V') IS NOT NULL DROP PROCEDURE " + viewName;
+          var dropSql = "IF OBJECT_ID('" + viewName + "', 'P') IS NOT NULL DROP PROCEDURE " + viewName;
           SqlCommand command = new SqlCommand(dropSql, connection);
           command.Connection.Open();
           command.ExecuteNonQuery();

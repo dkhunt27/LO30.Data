@@ -48,7 +48,7 @@ namespace LO30.Data.Services
           SID = item.Team.SeasonId,
           Div = item.Team.Division.DivisionLongName,
           Team = item.Team.TeamNameLong,
-          Rank = item.Ranking,
+          Ranking = item.Ranking,
           GP = item.Games,
           W = item.Wins,
           L = item.Losses,

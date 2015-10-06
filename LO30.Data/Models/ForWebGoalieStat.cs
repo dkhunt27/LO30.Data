@@ -21,14 +21,14 @@ namespace LO30.Data.Models
     [Required, Key, Column(Order = 4)]
     public bool PFS { get; set; }
 
+    [Required, Key, Column(Order = 5), MaxLength(1)]
+    public string Sub { get; set; }
+
     [Required, MaxLength(50)]
     public string Player { get; set; }
 
     [Required, MaxLength(35)]
     public string Team { get; set; }
-
-    [Required, MaxLength(1)]
-    public string Sub { get; set; }
 
     [Required]
     public int GP { get; set; }

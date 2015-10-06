@@ -13,12 +13,12 @@ namespace LO30.Data.Importers.Access
 {
   public partial class AccessImporter
   {
-    public ImportStat ImportScoreSheetEntries()
+    public ImportStat ImportScoreSheetEntries(bool loadNewData = false)
     {
       string table = "ScoreSheetEntries";
       var iStat = new ImportStat(_logger, table);
 
-      if (_seed && _context.ScoreSheetEntryGoals.Count() == 0)
+      if (loadNewData || (_seed && _context.ScoreSheetEntryGoals.Count() == 0))
       {
         _logger.Write("Importing " + table);
 

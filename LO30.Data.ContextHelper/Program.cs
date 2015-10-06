@@ -1,4 +1,5 @@
 ﻿using LO30.Data.Contexts;
+using LO30.Data.Importers.Access;
 using LO30.Data.Services;
 using Microsoft.Practices.EnterpriseLibrary.Logging;
 using Microsoft.Practices.EnterpriseLibrary.Logging.Formatters;
@@ -23,6 +24,8 @@ namespace LO30.Data.ContextHelper
 
       //LogWriterFactory logWriterFactory = new LogWriterFactory();
       //LogWriter logWriter = logWriterFactory.Create();
+
+      bool loadNewDataOnly = true;
 
       LogService logService = new LogService();
       LogWriter logger = logService.CreateLogger();
@@ -53,6 +56,16 @@ namespace LO30.Data.ContextHelper
 
         // determine the current status
         var x = context.Seasons.ToList();
+
+        if (loadNewDataOnly)
+        {
+          var aImporter = new AccessImporter(logService.CreateLogger(), context);
+
+          aImporter.ImportScoreSheetEntries(loadNewDataOnly);
+          aImporter.ImportScoreSheetEntryPenalties(loadNewDataOnly);
+          aImporter.ImportScoreSheetEntrySubs(loadNewDataOnly);
+        }
+
 
         //var scoreSheetEntryProcessor = new ScoreSheetEntryProcessor(logger, context);
 
